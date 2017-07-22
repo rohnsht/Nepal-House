@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NepalHouse.Utils"
+             x:Class="NepalHouse.SearchPage"
+             Title="Nepal House"
+             Icon="ic_search.png">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:DescriptionFormatConverter x:Key="StringConverter"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <SearchBar x:Name="searchBar"
+                       Placeholder="Search products..."
+                       SearchButtonPressed="SearchBar_SearchButtonPressed"
+                       TextChanged="searchBar_TextChanged"/>
+            
+            <AbsoluteLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+
+                <ListView x:Name="productView"
+                      HasUnevenRows="True"
+                      CachingStrategy="RecycleElement" 
+                      ItemSelected="OnSelection"
+                      AbsoluteLayout.LayoutBounds="0,0,1,1"
+                      AbsoluteLayout.LayoutFlags="All">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Orientation="Horizontal" Padding="8">
+                                    <Image Source="{Binding images[0].src}" WidthRequest="130" HeightRequest="130" Aspect="AspectFit"/>
+                                    <StackLayout Orientation="Vertical">
+                                        <Label Text = "{Binding name}" FontSize="Medium"/>
+                                        <Label Text = "{Binding short_description, Converter={StaticResource StringConverter}}"/>
+                                        <StackLayout Orientation="Horizontal">
+                                            <Label Text = "{Binding regular_price, StringFormat='$ {0}'}"
+                                           FontSize="Medium"
+                                           Margin="0,0,10,0"/>
+                                            <Label Text = "{Binding sale_price, StringFormat='Sale $ {0}'}"
+                                           FontSize="Medium"
+                                           TextColor="DarkGreen"
+                                           IsVisible="{Binding on_sale}"/>
+                                        </StackLayout>
+                                    </StackLayout>
+                                </StackLayout>
+
+                                <ViewCell.ContextActions>
+                                    <MenuItem Text="Add to cart" Clicked="MenuItem_Add" CommandParameter="{Binding .}"/>
+                                </ViewCell.ContextActions>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+                <Label x:Name="message_lbl"
+                       Text="No search results"
+                       FontSize="Medium"
+                       TextColor="Red"
+                       IsVisible="False"
+                       Margin="13"
+                       AbsoluteLayout.LayoutBounds="0,0,1,1"
+                       AbsoluteLayout.LayoutFlags="All"/>
+
+                <ActivityIndicator x:Name="activityIndicator"
+                                   IsRunning="True"
+                                   IsVisible="False"
+                                   AbsoluteLayout.LayoutBounds="0.5,0.5,50,50"
+                                   AbsoluteLayout.LayoutFlags="PositionProportional"/>
+
+            </AbsoluteLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

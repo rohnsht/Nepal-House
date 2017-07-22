@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NepalHouse"
+             x:Class="NepalHouse.MainPage">
+    <NavigationPage Title="Home">
+        <x:Arguments>
+            <local:HomePage/>
+        </x:Arguments>
+    </NavigationPage>
+    <NavigationPage Title="Search">
+        <x:Arguments>
+            <local:SearchPage/>
+        </x:Arguments>
+    </NavigationPage>
+    <NavigationPage Title="Categories">
+        <x:Arguments>
+            <local:CategoryPage/>
+        </x:Arguments>
+    </NavigationPage>
+    <NavigationPage Title="Cart">
+        <x:Arguments>
+            <local:CartPage/>
+        </x:Arguments>
+    </NavigationPage>
+</TabbedPage>

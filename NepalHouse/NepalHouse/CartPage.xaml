@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NepalHouse.Utils"
+             x:Class="NepalHouse.CartPage"
+             Title="Nepal House"
+             Icon="ic_shopping_cart.png">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:DescriptionFormatConverter x:Key="StringConverter"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <Label x:Name="message_lbl"
+                       Text="No products added to cart yet."
+                       FontSize="Medium"
+                       IsVisible="False"
+                       Margin="13"
+                       HorizontalOptions="Center"/>
+            
+            <ListView x:Name="cartView"
+                  CachingStrategy="RecycleElement"
+                  ItemSelected="cartView_ItemSelected"
+                  HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal" Padding="8">
+                                <Image Source="{Binding images}" VerticalOptions="Start" WidthRequest="130" HeightRequest="130" Aspect="AspectFit"/>
+                                <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+                                    <Label Text = "{Binding name}" FontSize="Medium"/>
+                                    <Label Text = "{Binding short_description, Converter={StaticResource StringConverter}}"/>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text = "{Binding regular_price, StringFormat='$ {0}'}"
+                                           FontSize="Medium"
+                                           Margin="0,0,10,0"/>
+                                        <Label Text = "{Binding sale_price, StringFormat='Sale $ {0}'}"
+                                           FontSize="Medium"
+                                           TextColor="DarkGreen"
+                                           IsVisible="{Binding on_sale}"/>
+                                    </StackLayout>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Button Image="ic_delete"
+                                            Clicked="Delete_Clicked"
+                                            CommandParameter="{Binding .}"/>
+
+                                        <Button 
+                                            Text="{Binding count}"
+                                            Image="ic_arrow_drop_down"
+                                            Clicked="Count_Clicked"
+                                            BackgroundColor="Transparent"
+                                            HorizontalOptions="EndAndExpand"
+                                            CommandParameter="{Binding .}"/>
+                                    </StackLayout>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Grid x:Name="order_layout" BackgroundColor="White" IsVisible="False">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="20"/>
+                    <RowDefinition Height="20"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" Grid.Column="0" Text="Estimated Total:" Margin="13, 0" />
+                <Label Grid.Row="0" Grid.Column="1" x:Name="total_lbl" HorizontalOptions="Center" Margin="13, 0"/>
+                <Label Grid.Row="1" Grid.Column="0" Text="Shipping:" Margin="13, 0"/>
+                <Label Grid.Row="1" Grid.Column="1" x:Name="shipping_lbl" HorizontalOptions="End" Margin="13, 0"/>
+                <Button Grid.Row="2"
+                        Grid.ColumnSpan="2"
+                        Text="Proceed to checkout"
+                        BackgroundColor="{StaticResource accentColor}" 
+                        TextColor="White"
+                        Clicked="Checkout_Clicked"/>
+            </Grid>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NepalHouse.CheckoutPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label Text="Thank you, Your order has been received." Margin="13"/>
+                <Grid BackgroundColor="White" Padding="13">
+                    <StackLayout Grid.Row="0" Grid.Column="0">
+                        <Label Text="Order number"/>
+                        <Label Text="{Binding number}" FontSize="Medium"/>
+                    </StackLayout>
+                    <StackLayout Grid.Row="0" Grid.Column="1">
+                        <Label Text="Date"/>
+                        <Label Text="{Binding date_created}" FontSize="Medium"/>
+                    </StackLayout>
+                    <StackLayout Grid.Row="1" Grid.Column="0">
+                        <Label Text="Total"/>
+                        <Label Text="{Binding total, StringFormat='$ {0}'}" FontSize="Medium"/>
+                    </StackLayout>
+                    <StackLayout Grid.Row="1" Grid.Column="1">
+                        <Label Text="Payment Method"/>
+                        <Label Text="{Binding payment_method_title}" FontSize="Medium"/>
+                    </StackLayout>
+                </Grid>
+
+                <Label Text="Order Details" FontSize="Large" Margin="13"/>
+                <Grid BackgroundColor="White" Padding="13">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Grid.Row="0" Grid.Column="0" Text="Products"/>
+                    <Label x:Name="product_lbl" Grid.Row="0" Grid.Column="1"/>
+                    <Label Grid.Row="1" Grid.Column="0" Text="Subtotal"/>
+                    <Label x:Name="subtotal_lbl" Grid.Row="1" Grid.Column="1"/>
+                    <Label Grid.Row="2" Grid.Column="0" Text="Shipping"/>
+                    <Label x:Name="shipping_lbl" Grid.Row="2" Grid.Column="1" Text="{Binding shipping_lines[0].method_title}"/>
+                    <Label Grid.Row="3" Grid.Column="0" Text="Payment method"/>
+                    <Label x:Name="payment_lbl" Grid.Row="3" Grid.Column="1" Text="{Binding payment_method_title}"/>
+                    <Label Grid.Row="4" Grid.Column="0" Text="Total"/>
+                    <Label x:Name="total_lbl" Grid.Row="4" Grid.Column="1" Text="{Binding total, StringFormat='$ {0}'}"/>
+                </Grid>
+
+                <Label Text="Customer Details" FontSize="Large" Margin="13"/>
+                <Grid BackgroundColor="White" Padding="13">
+                    <Label Grid.Row="0" Grid.Column="0" Text="Email"/>
+                    <Label Grid.Row="0" Grid.Column="1" Text="{Binding billing.email}"/>
+                    <Label Grid.Row="1" Grid.Column="0" Text="Phone"/>
+                    <Label Grid.Row="1" Grid.Column="1" Text="{Binding billing.phone}"/>
+                </Grid>
+
+                <Grid BackgroundColor="White" Padding="13">
+                    <StackLayout Grid.Row="0"  Grid.Column="0">
+                        <Label Text="Billing Address" FontSize="Medium"/>
+                        <Label x:Name="billing_name_lbl"/>
+                        <Label Text="{Binding billing.address_1}"/>
+                        <Label x:Name="billing_address_lbl"/>
+                    </StackLayout>
+                    <StackLayout Grid.Row="0"  Grid.Column="1">
+                        <Label Text="Shipping Address" FontSize="Medium"/>
+                        <Label x:Name="shipping_name_lbl"/>
+                        <Label Text="{Binding shipping.address_1}"/>
+                        <Label x:Name="shipping_address_lbl"/>
+                    </StackLayout>
+                </Grid>
+
+                <Button Text="Close"
+                        Clicked="Button_Clicked"
+                        HorizontalOptions="Center"
+                        BackgroundColor="{StaticResource accentColor}"
+                        TextColor="White"
+                        Margin="0,50"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

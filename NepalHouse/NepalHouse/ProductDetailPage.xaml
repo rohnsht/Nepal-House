@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:messier16="clr-namespace:Messier16.Forms.Controls;assembly=Messier16.Forms.Controls"
+             xmlns:local="clr-namespace:NepalHouse.Utils"
+             x:Class="NepalHouse.ProductDetailPage"
+             Title="{Binding name}">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:StringToIntConverter x:Key="IntConverter"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Orientation="Vertical" Padding="16">
+                <Label Text="{Binding name}" FontSize="Medium"/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="150"/>
+                    </Grid.ColumnDefinitions>
+                    
+                    <messier16:RatingBar x:Name="ratingBar"
+                        Rating="{Binding average_rating, Converter={StaticResource IntConverter}}}"
+                        FillColor="Yellow"
+                        FilledImage="star_filled.png"
+                        Image="star.png" 
+                        MaxRating="5"
+                        HeightRequest="12"
+                        Grid.Row="0"
+                        Grid.Column="0"/>
+                    
+                    <Label Grid.Row="1"
+                           Grid.Column="0"
+                           Text="{Binding regular_price, StringFormat='$ {0}'}"
+                           FontSize="Medium"/>
+                    
+                    <Label Grid.Row="1"
+                           Grid.Column="1"
+                           Text="{Binding sale_price, StringFormat='Sale $ {0}'}" 
+                           FontSize="Medium"
+                           TextColor="DarkGreen"
+                           IsVisible="{Binding on_sale}"/>
+                </Grid>
+                
+                <Label Text="{Binding short_description}"/>
+
+                <Image Source="{Binding images[0].src}"/>
+
+                <Button
+                    Text="ADD TO CART" 
+                    HorizontalOptions="Fill" 
+                    Clicked="Add_Cart_Clicked"
+                    BackgroundColor="{StaticResource primaryColor}"
+                    TextColor="White"/>
+
+                <StackLayout Orientation="Vertical" BackgroundColor="#eaeaea" Padding="0, 8, 0, 8">
+                    <Label Text="Seller Promotions" TextColor="DarkGreen" FontSize="Medium"/>
+                    <Label Text="*Free delivery when you order products for more than $100."/>
+                </StackLayout>
+
+                <StackLayout Orientation="Vertical" VerticalOptions="Start" Padding="0, 8, 0, 8">
+                    <Label Text="{Binding rating_count, StringFormat='Reviews ({0})'}" FontSize="Medium"/>
+                    <ListView x:Name="reviewsView"
+                              HasUnevenRows="True"
+                              CachingStrategy="RecycleElement" >
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="150"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Label Grid.Row="0" Grid.Column ="0" Text="{Binding name}"/>
+                                        <messier16:RatingBar Rating="{Binding rating, Mode=OneWay}"
+                                                             FillColor="Yellow"
+                                                             FilledImage="star_filled.png"
+                                                             Image="star.png" 
+                                                             MaxRating="5"
+                                                             HeightRequest="12"
+                                                             Grid.Row="0"
+                                                             Grid.Column ="1"   />
+
+                                        <Label Grid.Row="1" Grid.ColumnSpan ="2" Text="{Binding review}"/>
+                                    </Grid>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+
+                    <Label x:Name="emptyReviewsLabel" 
+                           Text="No Reviews"
+                           FontSize="Default"
+                           HorizontalOptions="Center"
+                           Margin="20"
+                           IsVisible="False"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Vertical" Padding="0,8,0,8">
+                    <Label Text="Related products" FontSize="Medium"/>
+                    <ListView x:Name="productView"
+                      HasUnevenRows="True"
+                      CachingStrategy="RecycleElement" 
+                      ItemSelected="OnSelection">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <StackLayout Orientation="Horizontal" Padding="8">
+                                        <Image Source="{Binding images[0].src}" WidthRequest="130" HeightRequest="130" Aspect="AspectFit"/>
+                                        <StackLayout Orientation="Vertical">
+                                            <Label Text = "{Binding name}" FontSize="Medium"/>
+                                            <Label Text = "{Binding short_description}"/>
+                                            <StackLayout Orientation="Horizontal">
+                                                <Label Text = "{Binding regular_price, StringFormat='$ {0}'}" 
+                                                       FontSize="Medium"
+                                                       Margin="0,0,10,0"/>
+                                                <Label Text = "{Binding sale_price, StringFormat='Sale {0}'}"
+                                                       FontSize="Medium"
+                                                       TextColor="DarkGreen"
+                                                       IsVisible="{Binding on_sale}"/>
+                                            </StackLayout>
+                                        </StackLayout>
+                                    </StackLayout>
+
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </StackLayout>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
