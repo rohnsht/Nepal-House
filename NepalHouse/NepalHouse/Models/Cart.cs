@@ -46,7 +46,7 @@ namespace NepalHouse.Models
         public bool? backorders_allowed { get; set; }
         public bool? backordered { get; set; }
         public bool? sold_individually { get; set; }
-        public string weight { get; set; }
+        public decimal? weight { get; set; }
         public bool? shipping_required { get; set; }
         public bool? shipping_taxable { get; set; }
         public string shipping_class { get; set; }

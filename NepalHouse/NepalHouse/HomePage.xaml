@@ -3,8 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:NepalHouse.Utils"
              x:Class="NepalHouse.HomePage"
-             Title="Nepal House"
-             Icon="ic_store.png">
+             Title="Nepal House">
     <!--<ContentPage.ToolbarItems>
         <ToolbarItem Name="MenuItem1" Order="Primary" Icon="Microsoft.png" Text="Item 1" Priority="0" />
         <ToolbarItem Name="MenuItem2" Order="Primary" Icon="Xamarin.png" Text="Item 2" Priority="1" />
@@ -32,7 +31,8 @@
                             <Image Source="{Binding images[0].src}" WidthRequest="130" HeightRequest="130" Aspect="AspectFit"/>
                             <StackLayout Orientation="Vertical">
                                 <Label Text = "{Binding name}" FontSize="Medium"/>
-                                <Label Text = "{Binding short_description, Converter={StaticResource StringConverter}}"/>
+                                <Label Text = "{Binding short_description, Converter={StaticResource StringConverter}}"
+                                       FontSize="Small"/>
                                 <StackLayout Orientation="Horizontal">
                                     <Label Text = "{Binding regular_price, StringFormat='$ {0}'}"
                                            FontSize="Medium"

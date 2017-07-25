@@ -2,6 +2,13 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="NepalHouse.CheckoutPage">
+
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness"
+                    iOS="0,20,0,0">
+        </OnPlatform>
+    </ContentPage.Padding>
+
     <ContentPage.Content>
         <ScrollView>
             <StackLayout>
@@ -70,8 +77,7 @@
                 <Button Text="Close"
                         Clicked="Button_Clicked"
                         HorizontalOptions="Center"
-                        BackgroundColor="{StaticResource accentColor}"
-                        TextColor="White"
+                        TextColor="{StaticResource accentColor}"
                         Margin="0,50"/>
             </StackLayout>
         </ScrollView>

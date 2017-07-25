@@ -1,14 +1,12 @@
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\NepalHouse.dll.config
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\NepalHouse.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\NepalHouse.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Messier16.Forms.Controls.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Newtonsoft.Json.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLite-net.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLitePCLRaw.batteries_green.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLitePCLRaw.batteries_v2.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLitePCLRaw.core.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.Net.Http.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Validation.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\WooCommerceNET.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Xamarin.Forms.Core.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Xamarin.Forms.Platform.dll
@@ -17,11 +15,9 @@ C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\Nepal
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.Core.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Mono.Security.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.Xml.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Messier16.Forms.Controls.pdb
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Newtonsoft.Json.xml
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLite-net.xml
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.Net.Http.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Validation.xml
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Xamarin.Forms.Core.pdb
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Xamarin.Forms.Core.xml
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Xamarin.Forms.Platform.pdb
@@ -47,3 +43,4 @@ C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\Nepal
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.CheckoutPage.xaml.g.cs
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.csprojResolveAssemblyReference.cache

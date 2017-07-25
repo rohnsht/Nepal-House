@@ -3,100 +3,86 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="NepalHouse.OrderPage"
              Title="Order">
+
     <ContentPage.Content>
         <ScrollView>
-            <AbsoluteLayout>
-                <StackLayout Orientation="Vertical" Padding="13">
-                    <Label Text="Billing details" FontSize="Medium" TextColor="BlueViolet"/>
+            <StackLayout Orientation="Vertical" Padding="13">
+                <Label Text="Billing details" FontSize="Medium" TextColor="BlueViolet"/>
 
-                    <Grid>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*"/>
-                            <ColumnDefinition Width="*"/>
-                        </Grid.ColumnDefinitions>
-                        <Entry x:Name="first_entry" Grid.Row="0" Grid.Column="0" Placeholder="First name *"/>
-                        <Entry x:Name="last_entry" Grid.Row="0" Grid.Column="1" Placeholder="Last name *"/>
-                    </Grid>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Entry x:Name="first_entry" Grid.Row="0" Grid.Column="0" Placeholder="First name *"/>
+                    <Entry x:Name="last_entry" Grid.Row="0" Grid.Column="1" Placeholder="Last name *"/>
+                </Grid>
 
-                    <Entry x:Name="company_entry" Placeholder="Company name"/>
-                    <Label Text="Country *"/>
-                    <Entry x:Name="country_entry" Text="Australia" IsEnabled="False"/>
-                    <Label Text="Street Address *"/>
-                    <Entry x:Name="address1_entry" Placeholder="House number and street name *"/>
-                    <Entry x:Name="address2_entry" Placeholder="Apartment, suite, unit etc (optional)"/>
-                    <Entry x:Name="suburb_entry" Placeholder="Suburb *"/>
+                <Entry x:Name="company_entry" Placeholder="Company name"/>
+                <Label Text="Country *" Margin="0, 10"/>
+                <Entry x:Name="country_entry" Text="Australia" IsEnabled="False"/>
+                <Label Text="Street Address *" Margin=" 0, 10"/>
+                <Entry x:Name="address1_entry" Placeholder="House number and street name *"/>
+                <Entry x:Name="address2_entry" Placeholder="Apartment, suite, unit etc (optional)"/>
+                <Entry x:Name="suburb_entry" Placeholder="Suburb *"/>
 
-                    <Picker x:Name="state_picker" Title="State">
-                        <Picker.Items>
-                            <x:String>Australian Capital Territory</x:String>
-                            <x:String>New South Wales</x:String>
-                            <x:String>Northern Territory</x:String>
-                            <x:String>QueensLand</x:String>
-                            <x:String>South Australia</x:String>
-                            <x:String>Tasmania</x:String>
-                            <x:String>Victoria</x:String>
-                            <x:String>Western Australia</x:String>
-                        </Picker.Items>
-                        <Picker.SelectedIndex>1</Picker.SelectedIndex>
-                    </Picker>
+                <Picker x:Name="state_picker" Title="State">
+                    <Picker.Items>
+                        <x:String>Australian Capital Territory</x:String>
+                        <x:String>New South Wales</x:String>
+                        <x:String>Northern Territory</x:String>
+                        <x:String>QueensLand</x:String>
+                        <x:String>South Australia</x:String>
+                        <x:String>Tasmania</x:String>
+                        <x:String>Victoria</x:String>
+                        <x:String>Western Australia</x:String>
+                    </Picker.Items>
+                    <Picker.SelectedIndex>1</Picker.SelectedIndex>
+                </Picker>
 
-                    <Entry x:Name="postcode_entry" Placeholder="Postcode *" Keyboard="Numeric" />
+                <Entry x:Name="postcode_entry" Placeholder="Postcode *" Keyboard="Numeric" />
 
-                    <Grid>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*"/>
-                            <ColumnDefinition Width="*"/>
-                        </Grid.ColumnDefinitions>
-                        <Entry x:Name="phone_entry" Grid.Row="0" Grid.Column="0" Placeholder="Phone *" Keyboard="Telephone"/>
-                        <Entry x:Name="email_entry" Grid.Row="0" Grid.Column="1" Placeholder="Email Address *" Keyboard="Email"/>
-                    </Grid>
-                    <Label Text="Order notes"/>
-                    <Entry x:Name="note_entry" Placeholder="Notes about your order, e.g. special notes for delivery."/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Entry x:Name="phone_entry" Grid.Row="0" Grid.Column="0" Placeholder="Phone *" Keyboard="Telephone"/>
+                    <Entry x:Name="email_entry" Grid.Row="0" Grid.Column="1" Placeholder="Email Address *" Keyboard="Email"/>
+                </Grid>
+                <Label Text="Order notes" Margin="0,10"/>
+                <Entry x:Name="note_entry" Placeholder="Notes about your order, e.g. special notes for delivery."/>
 
-                    <Label Text="Your Order" FontSize="Medium" TextColor="BlueViolet" Margin="0,16"/>
+                <Label Text="Your Order" FontSize="Medium" TextColor="BlueViolet" Margin="0,16"/>
 
-                    <Grid>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*"/>
-                            <ColumnDefinition Width="*"/>
-                        </Grid.ColumnDefinitions>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
 
-                        <Label Grid.Row="0" Grid.Column="0" Text="Products"/>
-                        <Label x:Name="product_lbl" Grid.Row="0" Grid.Column="1" Text="Coke"/>
-                        <Label Grid.Row="1" Grid.Column="0" Text="Subtotal"/>
-                        <Label x:Name="subtotal_lbl" Grid.Row="1" Grid.Column="1" Text="$50"/>
-                        <Label Grid.Row="2" Grid.Column="0" Text="Shipping"/>
-                        <Label x:Name="shipping_lbl" Grid.Row="2" Grid.Column="1" Text="Flat Rate 2-3 Days: $10"/>
-                        <Label Grid.Row="3" Grid.Column="0" Text="Total"/>
-                        <Label x:Name="total_lbl" Grid.Row="3" Grid.Column="1" Text="$50"/>
-                    </Grid>
+                    <Label Grid.Row="0" Grid.Column="0" Text="Products"/>
+                    <Label x:Name="product_lbl" Grid.Row="0" Grid.Column="1" Text="Coke"/>
+                    <Label Grid.Row="1" Grid.Column="0" Text="Subtotal"/>
+                    <Label x:Name="subtotal_lbl" Grid.Row="1" Grid.Column="1" Text="$50"/>
+                    <Label Grid.Row="2" Grid.Column="0" Text="Shipping"/>
+                    <Label x:Name="shipping_lbl" Grid.Row="2" Grid.Column="1" Text="Flat Rate 2-3 Days: $10"/>
+                    <Label Grid.Row="3" Grid.Column="0" Text="Total"/>
+                    <Label x:Name="total_lbl" Grid.Row="3" Grid.Column="1" Text="$50"/>
+                </Grid>
 
-                    <Label Text="Payment method" FontSize="Medium" TextColor="BlueViolet" Margin="0, 16"/>
-                    <Picker x:Name="payment_picker" Title="Payment"/>
+                <Label Text="Payment method" FontSize="Medium" TextColor="BlueViolet" Margin="0, 16"/>
+                <Picker x:Name="payment_picker" Title="Payment"/>
 
-                    <Label Text="* Required fields" Margin="0,16"/>
+                <Label Text="* Required fields" Margin="0,16"/>
 
-                    <Button Text="Place Order"
-                            BackgroundColor="{StaticResource primaryColor}"
-                            TextColor="White"
-                            Clicked="Button_Clicked"
-                            Margin="0, 0, 0, 50"/>
-                </StackLayout>
+                <Button Text="Place Order"
+                        BackgroundColor="{StaticResource primaryColor}"
+                        TextColor="White"
+                        Clicked="Button_Clicked"
+                        Margin="0, 0, 0, 50"/>
+            </StackLayout>
 
-                <ContentView x:Name="overlay"
-                         AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
-                         AbsoluteLayout.LayoutFlags="All" 
-                         IsVisible="False" BackgroundColor="#C0808080"
-                         Padding="10, 0">
-                    <ActivityIndicator
-                    WidthRequest="110" 
-                    HeightRequest="70"
-                    IsRunning="True" 
-                    IsVisible="True" 
-                    HorizontalOptions="CenterAndExpand"
-                    VerticalOptions="CenterAndExpand"/>
-                </ContentView>
-            </AbsoluteLayout>
         </ScrollView>
 
     </ContentPage.Content>

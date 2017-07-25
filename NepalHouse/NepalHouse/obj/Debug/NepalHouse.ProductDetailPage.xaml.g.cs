@@ -16,7 +16,7 @@ namespace NepalHouse {
     public partial class ProductDetailPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Messier16.Forms.Controls.RatingBar ratingBar;
+        private global::Xamarin.Forms.Label ratingBar;
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.ListView reviewsView;
@@ -30,7 +30,7 @@ namespace NepalHouse {
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ProductDetailPage));
-            ratingBar = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Messier16.Forms.Controls.RatingBar>(this, "ratingBar");
+            ratingBar = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "ratingBar");
             reviewsView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ListView>(this, "reviewsView");
             emptyReviewsLabel = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Label>(this, "emptyReviewsLabel");
             productView = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.ListView>(this, "productView");

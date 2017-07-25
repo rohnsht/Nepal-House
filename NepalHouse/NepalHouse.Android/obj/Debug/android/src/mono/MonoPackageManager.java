@@ -100,8 +100,6 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "NepalHouse.Android.dll" comes first in this list. */
 		"NepalHouse.Android.dll",
 		"FormsViewGroup.dll",
-		"Messier16.Forms.Android.Controls.dll",
-		"Messier16.Forms.Controls.dll",
 		"Newtonsoft.Json.dll",
 		"SQLite-net.dll",
 		"SQLitePCLRaw.batteries_green.dll",
@@ -109,7 +107,6 @@ class MonoPackageManager_Resources {
 		"SQLitePCLRaw.core.dll",
 		"SQLitePCLRaw.lib.e_sqlite3.dll",
 		"SQLitePCLRaw.provider.e_sqlite3.dll",
-		"Validation.dll",
 		"WooCommerceNET.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Annotations.dll",

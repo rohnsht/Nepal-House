@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:messier16="clr-namespace:Messier16.Forms.Controls;assembly=Messier16.Forms.Controls"
              xmlns:local="clr-namespace:NepalHouse.Utils"
              x:Class="NepalHouse.ProductDetailPage"
              Title="{Binding name}">
@@ -15,34 +14,25 @@
         <ScrollView>
             <StackLayout Orientation="Vertical" Padding="16">
                 <Label Text="{Binding name}" FontSize="Medium"/>
-                <Grid>
-                    <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="150"/>
-                    </Grid.ColumnDefinitions>
-                    
-                    <messier16:RatingBar x:Name="ratingBar"
-                        Rating="{Binding average_rating, Converter={StaticResource IntConverter}}}"
-                        FillColor="Yellow"
-                        FilledImage="star_filled.png"
-                        Image="star.png" 
-                        MaxRating="5"
-                        HeightRequest="12"
-                        Grid.Row="0"
-                        Grid.Column="0"/>
-                    
+                <Label x:Name="ratingBar" 
+                       Text="{Binding average_rating, StringFormat='Average rating {0}'}" 
+                       FontSize="Large"
+                       TextColor="Yellow"/>
+
+                <StackLayout Orientation="Horizontal" Margin="0,10">
                     <Label Grid.Row="1"
                            Grid.Column="0"
                            Text="{Binding regular_price, StringFormat='$ {0}'}"
                            FontSize="Medium"/>
-                    
+
                     <Label Grid.Row="1"
                            Grid.Column="1"
                            Text="{Binding sale_price, StringFormat='Sale $ {0}'}" 
-                           FontSize="Medium"
+                           FontSize="Large"
                            TextColor="DarkGreen"
                            IsVisible="{Binding on_sale}"/>
-                </Grid>
-                
+                </StackLayout>
+
                 <Label Text="{Binding short_description}"/>
 
                 <Image Source="{Binding images[0].src}"/>
@@ -73,12 +63,8 @@
                                             <ColumnDefinition Width="150"/>
                                         </Grid.ColumnDefinitions>
                                         <Label Grid.Row="0" Grid.Column ="0" Text="{Binding name}"/>
-                                        <messier16:RatingBar Rating="{Binding rating, Mode=OneWay}"
-                                                             FillColor="Yellow"
-                                                             FilledImage="star_filled.png"
-                                                             Image="star.png" 
-                                                             MaxRating="5"
-                                                             HeightRequest="12"
+                                        <Label Text="{Binding rating, StringFormat='Average rating: {0}'}"
+                                                             TextColor="Yellow"
                                                              Grid.Row="0"
                                                              Grid.Column ="1"   />
 
@@ -110,7 +96,7 @@
                                         <Image Source="{Binding images[0].src}" WidthRequest="130" HeightRequest="130" Aspect="AspectFit"/>
                                         <StackLayout Orientation="Vertical">
                                             <Label Text = "{Binding name}" FontSize="Medium"/>
-                                            <Label Text = "{Binding short_description}"/>
+                                            <Label Text = "{Binding short_description}" FontSize="Small"/>
                                             <StackLayout Orientation="Horizontal">
                                                 <Label Text = "{Binding regular_price, StringFormat='$ {0}'}" 
                                                        FontSize="Medium"

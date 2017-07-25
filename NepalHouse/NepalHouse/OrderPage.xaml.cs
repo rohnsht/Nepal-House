@@ -82,7 +82,7 @@ namespace NepalHouse
 
         private async void Button_Clicked(object sender, EventArgs e)
         {
-            overlay.IsVisible = true;
+            //overlay.IsVisible = true;
 
             var firstname = first_entry.Text;
             var lastname = last_entry.Text;
@@ -108,7 +108,7 @@ namespace NepalHouse
                 || String.IsNullOrWhiteSpace(email))
             {
                 await DisplayAlert("Error", "Please input all the required fields.", "OK");
-                overlay.IsVisible = false;
+                //overlay.IsVisible = false;
                 return;
             }
 
@@ -159,7 +159,7 @@ namespace NepalHouse
             catch (Exception ex)
             {
                 Debug.WriteLine("ERROR {0}", ex.Message);
-                await DisplayAlert("Error", "Could not place the order. Please try again later.", "Ok");
+                await DisplayAlert("Error", "Could not place the order. Please check you input and try again.", "Ok");
             }
         }
     }

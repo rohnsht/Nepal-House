@@ -4,7 +4,6 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
-using Messier16.Forms.iOS.Controls;
 
 namespace NepalHouse.iOS
 {
@@ -24,10 +23,17 @@ namespace NepalHouse.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
-            Messier16Controls.InitAll();
             LoadApplication(new App());
 
-            app.KeyWindow.TintColor = UIColor.FromRGB(27, 78, 157);
+            //UINavigationBar.Appearance.BackgroundColor = UIColor.FromRGB(27, 78, 157);
+            //UINavigationBar.Appearance.TintColor = UIColor.White;
+            //UINavigationBar.Appearance.BarTintColor = UIColor.FromRGB(27, 78, 157);
+            //UINavigationBar.Appearance.SetTitleTextAttributes(new UITextAttributes()
+            //{
+            //    TextColor = UIColor.White
+            //});
+            
+            UITabBar.Appearance.SelectedImageTintColor = UIColor.FromRGB(27, 78, 157);
             return base.FinishedLaunching(app, options);
         }
     }

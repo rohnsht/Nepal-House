@@ -23,7 +23,8 @@
                             <Image Source="{Binding images[0].src}" WidthRequest="130" HeightRequest="130" Aspect="AspectFit"/>
                             <StackLayout Orientation="Vertical">
                                 <Label Text = "{Binding name}" FontSize="Medium"/>
-                                <Label Text = "{Binding short_description, Converter={StaticResource StringConverter}}"/>
+                                <Label Text = "{Binding short_description, Converter={StaticResource StringConverter}}"
+                                       FontSize="Small"/>
                                 <StackLayout Orientation="Horizontal">
                                     <Label Text = "{Binding regular_price, StringFormat='$ {0}'}"
                                            FontSize="Medium"

@@ -2,7 +2,6 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\__library_projects__\Messier16.Forms.Android.Controls\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_v2\library_project_imports\res</ResolvedResourceDirectory>
     <ResolvedResourceDirectory>C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\__library_projects__\SQLitePCLRaw.core\library_project_imports\res</ResolvedResourceDirectory>
@@ -18,7 +17,6 @@
     <ResolvedResourceDirectory>C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
-    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Messier16.Forms.Android.Controls\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLRaw.batteries_v2\library_project_imports\assets</ResolvedAssetDirectory>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\SQLitePCLRaw.core\library_project_imports\assets</ResolvedAssetDirectory>
@@ -29,7 +27,6 @@
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\__library_projects__\Messier16.Forms.Android.Controls.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_green.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\__library_projects__\SQLitePCLRaw.batteries_v2.stamp</ResolvedResourceDirectoryStamp>
     <ResolvedResourceDirectoryStamp>C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\__library_projects__\SQLitePCLRaw.core.stamp</ResolvedResourceDirectoryStamp>
