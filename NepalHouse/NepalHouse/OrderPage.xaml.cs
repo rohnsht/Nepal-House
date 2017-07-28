@@ -82,7 +82,7 @@ namespace NepalHouse
 
         private async void Button_Clicked(object sender, EventArgs e)
         {
-            //overlay.IsVisible = true;
+            activityIndicator.IsVisible = true;
 
             var firstname = first_entry.Text;
             var lastname = last_entry.Text;
@@ -108,9 +108,10 @@ namespace NepalHouse
                 || String.IsNullOrWhiteSpace(email))
             {
                 await DisplayAlert("Error", "Please input all the required fields.", "OK");
-                //overlay.IsVisible = false;
+                activityIndicator.IsVisible = false;
                 return;
             }
+            content.IsVisible = false;
 
             OrderBilling billing = new OrderBilling
             {
@@ -153,12 +154,15 @@ namespace NepalHouse
             try
             {
                 var response = await App.wc.Order.Add(order);
+          
                 await Navigation.PushModalAsync(new CheckoutPage(response));
                 await Navigation.PopAsync();
             }
             catch (Exception ex)
             {
                 Debug.WriteLine("ERROR {0}", ex.Message);
+                activityIndicator.IsVisible = false;
+                content.IsVisible = true;
                 await DisplayAlert("Error", "Could not place the order. Please check you input and try again.", "Ok");
             }
         }
