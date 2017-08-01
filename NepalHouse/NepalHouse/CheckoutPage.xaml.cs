@@ -1,5 +1,6 @@
 ﻿using NepalHouse.Models;
 using NepalHouse.Persistence;
+using NepalHouse.ViewModels;
 using SQLite;
 using System;
 using System.Collections.Generic;
@@ -47,6 +48,7 @@ namespace NepalHouse
         private async void emptyCarts()
         {
             await DbConnection.DropTableAsync<Cart>();
+            MessagingCenter.Send(new Cart(), "BadgeUpdate");
         }
 
         private async void Button_Clicked(object sender, EventArgs e)

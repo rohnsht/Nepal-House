@@ -1,5 +1,10 @@
-﻿using System;
+﻿using NepalHouse.Models;
+using NepalHouse.Persistence;
+using NepalHouse.ViewModels;
+using SQLite;
+using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,25 +14,24 @@ namespace NepalHouse
 {
     public partial class MainPage : TabbedPage
     {
+        private SQLiteAsyncConnection DbConnection;
+
         public MainPage()
         {
             InitializeComponent();
-            //var homePage = new NavigationPage(new MainPage());
-            //homePage.Title = "Home";
+            DbConnection = DependencyService.Get<ISQLiteDb>().GetConnection();
+            BindingContext = new MainViewModel(DbConnection);
+        }
 
-            //var searchPage = new NavigationPage(new SearchPage());
-            //searchPage.Title = "Search";
+        protected async override void OnAppearing()
+        {
+            base.OnAppearing();
+            await DbConnection.CreateTableAsync<Cart>();
+            displayBadge();
+        }
 
-            //var cartPage = new NavigationPage(new CartPage());
-            //cartPage.Title = "Cart";
-
-            //var profilePage = new NavigationPage(new ProfilePage());
-            //profilePage.Title = "Profile";
-
-            //this.Children.Add(homePage);
-            //this.Children.Add(searchPage);
-            //this.Children.Add(cartPage);
-            //this.Children.Add(profilePage);
+        public void displayBadge() {
+            (BindingContext as MainViewModel).getCartCount(null);
         }
     }
 }

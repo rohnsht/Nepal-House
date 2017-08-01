@@ -4,10 +4,6 @@
              xmlns:local="clr-namespace:NepalHouse.Utils"
              x:Class="NepalHouse.HomePage"
              Title="Nepal House">
-    <!--<ContentPage.ToolbarItems>
-        <ToolbarItem Name="MenuItem1" Order="Primary" Icon="Microsoft.png" Text="Item 1" Priority="0" />
-        <ToolbarItem Name="MenuItem2" Order="Primary" Icon="Xamarin.png" Text="Item 2" Priority="1" />
-    </ContentPage.ToolbarItems>-->
 
     <ContentPage.Resources>
         <ResourceDictionary>
@@ -15,8 +11,11 @@
         </ResourceDictionary>
     </ContentPage.Resources>
 
-    <ContentPage.Content>
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Order="Primary" Icon="ic_action_info.png" Text="About" Priority="0" Clicked="ToolbarItem_Clicked"/>
+    </ContentPage.ToolbarItems>
 
+    <ContentPage.Content>
         <ListView x:Name="productView"
                       HasUnevenRows="True"
                       CachingStrategy="RecycleElement "
@@ -28,7 +27,7 @@
                 <DataTemplate>
                     <ViewCell>
                         <StackLayout Orientation="Horizontal" Padding="8">
-                            <Image Source="{Binding images[0].src}" WidthRequest="130" HeightRequest="130" Aspect="AspectFit"/>
+                            <Image Source="{Binding images[0].src}" WidthRequest="100" HeightRequest="100" Aspect="AspectFit"/>
                             <StackLayout Orientation="Vertical">
                                 <Label Text = "{Binding name}" FontSize="Medium"/>
                                 <Label Text = "{Binding short_description, Converter={StaticResource StringConverter}}"

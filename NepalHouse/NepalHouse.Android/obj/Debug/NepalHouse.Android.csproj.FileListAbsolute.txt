@@ -6,6 +6,8 @@ C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\Nepal
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FormsViewGroup.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\NepalHouse.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Plugin.Badge.Abstractions.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Plugin.Badge.Droid.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\SQLite-net.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
@@ -38,6 +40,8 @@ C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\Nepal
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FormsViewGroup.pdb
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FormsViewGroup.dll.mdb
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Plugin.Badge.Droid.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Plugin.Badge.Droid.dll.mdb
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\SQLite-net.xml
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\SQLite-net.dll.mdb
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Forms.Core.pdb
@@ -68,10 +72,6 @@ C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\Nepal
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\NepalHouse.Android.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\NepalHouse.Android.pdb
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\bin\NepalHouse.Android.apk
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable\icon.png
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-hdpi\icon.png
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xhdpi\icon.png
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xxhdpi\icon.png
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\layout\tabbar.xml
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\layout\toolbar.xml
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\values\styles.xml
@@ -94,6 +94,14 @@ C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\Nepal
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-hdpi\ic_shopping_cart.png
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xhdpi\ic_shopping_cart.png
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xxhdpi\ic_shopping_cart.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable\ic_action_info.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-hdpi\ic_action_info.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xhdpi\ic_action_info.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xxhdpi\ic_action_info.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable\ic_launcher.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xxhdpi\ic_launcher.png
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\R.cs.flag
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\uploadflags.txt
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\NepalHouse.dll.mdb
@@ -101,6 +109,7 @@ C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\Nepal
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\NepalHouse.Android.dll.mdb
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\NepalHouse.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\Plugin.Badge.Droid.dll.mdb
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\SQLite-net.dll.mdb
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb

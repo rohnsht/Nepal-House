@@ -1,6 +1,7 @@
 ﻿using NepalHouse.Models;
 using NepalHouse.Persistence;
 using NepalHouse.Utils;
+using NepalHouse.ViewModels;
 using Newtonsoft.Json;
 using SQLite;
 using System;
@@ -89,6 +90,7 @@ namespace NepalHouse
                 await DbConnection.InsertAsync(cart);
             }
 
+            MessagingCenter.Send(cart, "BadgeUpdate");
             await DisplayAlert("Success", "Successfully added to the cart", "OK");
         }
 

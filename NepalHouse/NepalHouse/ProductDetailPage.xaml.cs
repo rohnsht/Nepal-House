@@ -1,15 +1,11 @@
 ﻿using NepalHouse.Models;
 using NepalHouse.Persistence;
 using NepalHouse.Utils;
-using Newtonsoft.Json;
+using NepalHouse.ViewModels;
 using SQLite;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Net.Http;
-using System.Text;
-using System.Threading.Tasks;
 using WooCommerceNET.WooCommerce.v2;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -113,7 +109,13 @@ namespace NepalHouse
                 await DbConnection.InsertAsync(cart);
             }
 
+            MessagingCenter.Send(cart, "BadgeUpdate");
             await DisplayAlert("Success", "Successfully added to the cart", "OK");
+        }
+
+        private async void OnImageTapped(object sender, EventArgs e)
+        {
+            await Navigation.PushModalAsync(new ImagePage(product.images[0].src));
         }
     }
 

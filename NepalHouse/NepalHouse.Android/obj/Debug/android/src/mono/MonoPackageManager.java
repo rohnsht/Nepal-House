@@ -101,6 +101,8 @@ class MonoPackageManager_Resources {
 		"NepalHouse.Android.dll",
 		"FormsViewGroup.dll",
 		"Newtonsoft.Json.dll",
+		"Plugin.Badge.Abstractions.dll",
+		"Plugin.Badge.Droid.dll",
 		"SQLite-net.dll",
 		"SQLitePCLRaw.batteries_green.dll",
 		"SQLitePCLRaw.batteries_v2.dll",

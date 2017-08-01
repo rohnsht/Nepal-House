@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NepalHouse.Utils"
+             x:Class="NepalHouse.AboutPage"
+             Title="About us">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Orientation="Vertical">
+                <Image Source="{local:ImageSource NepalHouse.Images.about.jpg}" HeightRequest="250" Aspect="AspectFill"/>
+                <StackLayout Orientation="Vertical" Padding="13" Margin="0, 13" BackgroundColor="White">
+                    <Label Text="Nepal House Supermarket" FontSize="Large"/>
+                    <Label Text="Shop 2 , 11- 15 King Street \n Rockdale, New South Wales, NSW 2216"/>
+                    <Label Text="Phone: +61 2 8283 9896"/>
+                    <Label Text="www.mynepalhouse.com"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Vertical" Padding="13" Margin="0, 0, 0, 13" BackgroundColor="White">
+                    <Label Text="Developed by" FontSize="Medium"/>
+                    <Label Text="Rohan Shrestha"/>
+                    <Label Text="Email: rohnsht@gmail.com"/>
+                    <Label Text="Phone: +977 9806652471"/>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,5 +1,6 @@
 ﻿using NepalHouse.Models;
 using NepalHouse.Persistence;
+using NepalHouse.ViewModels;
 using SQLite;
 using System;
 using System.Collections.Generic;
@@ -96,6 +97,7 @@ namespace NepalHouse
                 order_layout.IsVisible = false;
                 message_lbl.IsVisible = true;
             }
+            MessagingCenter.Send(cart, "BadgeUpdate");
         }
 
         private async void Checkout_Clicked(object sender, EventArgs e)

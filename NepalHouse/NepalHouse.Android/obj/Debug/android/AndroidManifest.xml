@@ -4,8 +4,8 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-  <application android:label="NepalHouse.Android" android:largeHeap="true" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="NepalHouse" android:theme="@style/MainTheme" android:name="md52b99263ed506d12617e4f2bce1b7d93b.MainActivity">
+  <application android:label="NepalHouse.Android" android:largeHeap="true" android:icon="@drawable/ic_launcher" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/ic_launcher" android:label="NepalHouse" android:theme="@style/MainTheme" android:name="md52b99263ed506d12617e4f2bce1b7d93b.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

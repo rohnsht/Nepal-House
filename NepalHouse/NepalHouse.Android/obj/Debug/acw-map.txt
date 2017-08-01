@@ -2,6 +2,14 @@ NepalHouse.Droid.MainActivity, NepalHouse.Android;md52b99263ed506d12617e4f2bce1b
 NepalHouse.Droid.MainActivity, NepalHouse.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52b99263ed506d12617e4f2bce1b7d93b.MainActivity
 NepalHouse.Droid.MainActivity;md52b99263ed506d12617e4f2bce1b7d93b.MainActivity
 nepalhouse.droid.MainActivity;md52b99263ed506d12617e4f2bce1b7d93b.MainActivity
+Plugin.Badge.Droid.BadgedTabbedPageRenderer, Plugin.Badge.Droid;md510722821ec2f8395a9d3cfce4881ed5b.BadgedTabbedPageRenderer
+Plugin.Badge.Droid.BadgedTabbedPageRenderer, Plugin.Badge.Droid, Version=1.1.2.0, Culture=neutral, PublicKeyToken=null;md510722821ec2f8395a9d3cfce4881ed5b.BadgedTabbedPageRenderer
+Plugin.Badge.Droid.BadgedTabbedPageRenderer;md510722821ec2f8395a9d3cfce4881ed5b.BadgedTabbedPageRenderer
+plugin.badge.droid.BadgedTabbedPageRenderer;md510722821ec2f8395a9d3cfce4881ed5b.BadgedTabbedPageRenderer
+Plugin.Badge.Droid.BadgeView, Plugin.Badge.Droid;md510722821ec2f8395a9d3cfce4881ed5b.BadgeView
+Plugin.Badge.Droid.BadgeView, Plugin.Badge.Droid, Version=1.1.2.0, Culture=neutral, PublicKeyToken=null;md510722821ec2f8395a9d3cfce4881ed5b.BadgeView
+Plugin.Badge.Droid.BadgeView;md510722821ec2f8395a9d3cfce4881ed5b.BadgeView
+plugin.badge.droid.BadgeView;md510722821ec2f8395a9d3cfce4881ed5b.BadgeView
 Android.Support.V4.App.SharedElementCallback/IOnSharedElementsReadyListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.app.SharedElementCallback_OnSharedElementsReadyListenerImplementor
 Android.Support.V4.App.SharedElementCallback+IOnSharedElementsReadyListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.app.SharedElementCallback_OnSharedElementsReadyListenerImplementor
 Android.Support.V4.App.SharedElementCallback.IOnSharedElementsReadyListenerImplementor;mono.android.support.v4.app.SharedElementCallback_OnSharedElementsReadyListenerImplementor

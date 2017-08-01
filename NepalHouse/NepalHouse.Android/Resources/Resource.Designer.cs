@@ -26,6 +26,2118 @@ namespace NepalHouse.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Plugin.Badge.Droid.Resource.Animation.abc_fade_in = global::NepalHouse.Droid.Resource.Animation.abc_fade_in;
+			global::Plugin.Badge.Droid.Resource.Animation.abc_fade_out = global::NepalHouse.Droid.Resource.Animation.abc_fade_out;
+			global::Plugin.Badge.Droid.Resource.Animation.abc_grow_fade_in_from_bottom = global::NepalHouse.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Plugin.Badge.Droid.Resource.Animation.abc_popup_enter = global::NepalHouse.Droid.Resource.Animation.abc_popup_enter;
+			global::Plugin.Badge.Droid.Resource.Animation.abc_popup_exit = global::NepalHouse.Droid.Resource.Animation.abc_popup_exit;
+			global::Plugin.Badge.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom = global::NepalHouse.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Plugin.Badge.Droid.Resource.Animation.abc_slide_in_bottom = global::NepalHouse.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Plugin.Badge.Droid.Resource.Animation.abc_slide_in_top = global::NepalHouse.Droid.Resource.Animation.abc_slide_in_top;
+			global::Plugin.Badge.Droid.Resource.Animation.abc_slide_out_bottom = global::NepalHouse.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Plugin.Badge.Droid.Resource.Animation.abc_slide_out_top = global::NepalHouse.Droid.Resource.Animation.abc_slide_out_top;
+			global::Plugin.Badge.Droid.Resource.Animation.design_bottom_sheet_slide_in = global::NepalHouse.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Plugin.Badge.Droid.Resource.Animation.design_bottom_sheet_slide_out = global::NepalHouse.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Plugin.Badge.Droid.Resource.Animation.design_fab_in = global::NepalHouse.Droid.Resource.Animation.design_fab_in;
+			global::Plugin.Badge.Droid.Resource.Animation.design_fab_out = global::NepalHouse.Droid.Resource.Animation.design_fab_out;
+			global::Plugin.Badge.Droid.Resource.Animation.design_snackbar_in = global::NepalHouse.Droid.Resource.Animation.design_snackbar_in;
+			global::Plugin.Badge.Droid.Resource.Animation.design_snackbar_out = global::NepalHouse.Droid.Resource.Animation.design_snackbar_out;
+			global::Plugin.Badge.Droid.Resource.Animator.design_appbar_state_list_animator = global::NepalHouse.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionBarDivider = global::NepalHouse.Droid.Resource.Attribute.actionBarDivider;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionBarItemBackground = global::NepalHouse.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionBarPopupTheme = global::NepalHouse.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionBarSize = global::NepalHouse.Droid.Resource.Attribute.actionBarSize;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionBarSplitStyle = global::NepalHouse.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionBarStyle = global::NepalHouse.Droid.Resource.Attribute.actionBarStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionBarTabBarStyle = global::NepalHouse.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionBarTabStyle = global::NepalHouse.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionBarTabTextStyle = global::NepalHouse.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionBarTheme = global::NepalHouse.Droid.Resource.Attribute.actionBarTheme;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionBarWidgetTheme = global::NepalHouse.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionButtonStyle = global::NepalHouse.Droid.Resource.Attribute.actionButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionDropDownStyle = global::NepalHouse.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionLayout = global::NepalHouse.Droid.Resource.Attribute.actionLayout;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionMenuTextAppearance = global::NepalHouse.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionMenuTextColor = global::NepalHouse.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionModeBackground = global::NepalHouse.Droid.Resource.Attribute.actionModeBackground;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionModeCloseButtonStyle = global::NepalHouse.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionModeCloseDrawable = global::NepalHouse.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionModeCopyDrawable = global::NepalHouse.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionModeCutDrawable = global::NepalHouse.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionModeFindDrawable = global::NepalHouse.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionModePasteDrawable = global::NepalHouse.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionModePopupWindowStyle = global::NepalHouse.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionModeSelectAllDrawable = global::NepalHouse.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionModeShareDrawable = global::NepalHouse.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionModeSplitBackground = global::NepalHouse.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionModeStyle = global::NepalHouse.Droid.Resource.Attribute.actionModeStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionModeWebSearchDrawable = global::NepalHouse.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionOverflowButtonStyle = global::NepalHouse.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionOverflowMenuStyle = global::NepalHouse.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionProviderClass = global::NepalHouse.Droid.Resource.Attribute.actionProviderClass;
+			global::Plugin.Badge.Droid.Resource.Attribute.actionViewClass = global::NepalHouse.Droid.Resource.Attribute.actionViewClass;
+			global::Plugin.Badge.Droid.Resource.Attribute.activityChooserViewStyle = global::NepalHouse.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.alertDialogButtonGroupStyle = global::NepalHouse.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.alertDialogCenterButtons = global::NepalHouse.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Plugin.Badge.Droid.Resource.Attribute.alertDialogStyle = global::NepalHouse.Droid.Resource.Attribute.alertDialogStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.alertDialogTheme = global::NepalHouse.Droid.Resource.Attribute.alertDialogTheme;
+			global::Plugin.Badge.Droid.Resource.Attribute.allowStacking = global::NepalHouse.Droid.Resource.Attribute.allowStacking;
+			global::Plugin.Badge.Droid.Resource.Attribute.alpha = global::NepalHouse.Droid.Resource.Attribute.alpha;
+			global::Plugin.Badge.Droid.Resource.Attribute.arrowHeadLength = global::NepalHouse.Droid.Resource.Attribute.arrowHeadLength;
+			global::Plugin.Badge.Droid.Resource.Attribute.arrowShaftLength = global::NepalHouse.Droid.Resource.Attribute.arrowShaftLength;
+			global::Plugin.Badge.Droid.Resource.Attribute.autoCompleteTextViewStyle = global::NepalHouse.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.background = global::NepalHouse.Droid.Resource.Attribute.background;
+			global::Plugin.Badge.Droid.Resource.Attribute.backgroundSplit = global::NepalHouse.Droid.Resource.Attribute.backgroundSplit;
+			global::Plugin.Badge.Droid.Resource.Attribute.backgroundStacked = global::NepalHouse.Droid.Resource.Attribute.backgroundStacked;
+			global::Plugin.Badge.Droid.Resource.Attribute.backgroundTint = global::NepalHouse.Droid.Resource.Attribute.backgroundTint;
+			global::Plugin.Badge.Droid.Resource.Attribute.backgroundTintMode = global::NepalHouse.Droid.Resource.Attribute.backgroundTintMode;
+			global::Plugin.Badge.Droid.Resource.Attribute.barLength = global::NepalHouse.Droid.Resource.Attribute.barLength;
+			global::Plugin.Badge.Droid.Resource.Attribute.behavior_autoHide = global::NepalHouse.Droid.Resource.Attribute.behavior_autoHide;
+			global::Plugin.Badge.Droid.Resource.Attribute.behavior_hideable = global::NepalHouse.Droid.Resource.Attribute.behavior_hideable;
+			global::Plugin.Badge.Droid.Resource.Attribute.behavior_overlapTop = global::NepalHouse.Droid.Resource.Attribute.behavior_overlapTop;
+			global::Plugin.Badge.Droid.Resource.Attribute.behavior_peekHeight = global::NepalHouse.Droid.Resource.Attribute.behavior_peekHeight;
+			global::Plugin.Badge.Droid.Resource.Attribute.behavior_skipCollapsed = global::NepalHouse.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::Plugin.Badge.Droid.Resource.Attribute.borderWidth = global::NepalHouse.Droid.Resource.Attribute.borderWidth;
+			global::Plugin.Badge.Droid.Resource.Attribute.borderlessButtonStyle = global::NepalHouse.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.bottomSheetDialogTheme = global::NepalHouse.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::Plugin.Badge.Droid.Resource.Attribute.bottomSheetStyle = global::NepalHouse.Droid.Resource.Attribute.bottomSheetStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.buttonBarButtonStyle = global::NepalHouse.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.buttonBarNegativeButtonStyle = global::NepalHouse.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.buttonBarNeutralButtonStyle = global::NepalHouse.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.buttonBarPositiveButtonStyle = global::NepalHouse.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.buttonBarStyle = global::NepalHouse.Droid.Resource.Attribute.buttonBarStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.buttonGravity = global::NepalHouse.Droid.Resource.Attribute.buttonGravity;
+			global::Plugin.Badge.Droid.Resource.Attribute.buttonPanelSideLayout = global::NepalHouse.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Plugin.Badge.Droid.Resource.Attribute.buttonStyle = global::NepalHouse.Droid.Resource.Attribute.buttonStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.buttonStyleSmall = global::NepalHouse.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Plugin.Badge.Droid.Resource.Attribute.buttonTint = global::NepalHouse.Droid.Resource.Attribute.buttonTint;
+			global::Plugin.Badge.Droid.Resource.Attribute.buttonTintMode = global::NepalHouse.Droid.Resource.Attribute.buttonTintMode;
+			global::Plugin.Badge.Droid.Resource.Attribute.cardBackgroundColor = global::NepalHouse.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Plugin.Badge.Droid.Resource.Attribute.cardCornerRadius = global::NepalHouse.Droid.Resource.Attribute.cardCornerRadius;
+			global::Plugin.Badge.Droid.Resource.Attribute.cardElevation = global::NepalHouse.Droid.Resource.Attribute.cardElevation;
+			global::Plugin.Badge.Droid.Resource.Attribute.cardMaxElevation = global::NepalHouse.Droid.Resource.Attribute.cardMaxElevation;
+			global::Plugin.Badge.Droid.Resource.Attribute.cardPreventCornerOverlap = global::NepalHouse.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Plugin.Badge.Droid.Resource.Attribute.cardUseCompatPadding = global::NepalHouse.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Plugin.Badge.Droid.Resource.Attribute.checkboxStyle = global::NepalHouse.Droid.Resource.Attribute.checkboxStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.checkedTextViewStyle = global::NepalHouse.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.closeIcon = global::NepalHouse.Droid.Resource.Attribute.closeIcon;
+			global::Plugin.Badge.Droid.Resource.Attribute.closeItemLayout = global::NepalHouse.Droid.Resource.Attribute.closeItemLayout;
+			global::Plugin.Badge.Droid.Resource.Attribute.collapseContentDescription = global::NepalHouse.Droid.Resource.Attribute.collapseContentDescription;
+			global::Plugin.Badge.Droid.Resource.Attribute.collapseIcon = global::NepalHouse.Droid.Resource.Attribute.collapseIcon;
+			global::Plugin.Badge.Droid.Resource.Attribute.collapsedTitleGravity = global::NepalHouse.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::Plugin.Badge.Droid.Resource.Attribute.collapsedTitleTextAppearance = global::NepalHouse.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Attribute.color = global::NepalHouse.Droid.Resource.Attribute.color;
+			global::Plugin.Badge.Droid.Resource.Attribute.colorAccent = global::NepalHouse.Droid.Resource.Attribute.colorAccent;
+			global::Plugin.Badge.Droid.Resource.Attribute.colorBackgroundFloating = global::NepalHouse.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Plugin.Badge.Droid.Resource.Attribute.colorButtonNormal = global::NepalHouse.Droid.Resource.Attribute.colorButtonNormal;
+			global::Plugin.Badge.Droid.Resource.Attribute.colorControlActivated = global::NepalHouse.Droid.Resource.Attribute.colorControlActivated;
+			global::Plugin.Badge.Droid.Resource.Attribute.colorControlHighlight = global::NepalHouse.Droid.Resource.Attribute.colorControlHighlight;
+			global::Plugin.Badge.Droid.Resource.Attribute.colorControlNormal = global::NepalHouse.Droid.Resource.Attribute.colorControlNormal;
+			global::Plugin.Badge.Droid.Resource.Attribute.colorPrimary = global::NepalHouse.Droid.Resource.Attribute.colorPrimary;
+			global::Plugin.Badge.Droid.Resource.Attribute.colorPrimaryDark = global::NepalHouse.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Plugin.Badge.Droid.Resource.Attribute.colorSwitchThumbNormal = global::NepalHouse.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Plugin.Badge.Droid.Resource.Attribute.commitIcon = global::NepalHouse.Droid.Resource.Attribute.commitIcon;
+			global::Plugin.Badge.Droid.Resource.Attribute.contentInsetEnd = global::NepalHouse.Droid.Resource.Attribute.contentInsetEnd;
+			global::Plugin.Badge.Droid.Resource.Attribute.contentInsetEndWithActions = global::NepalHouse.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Plugin.Badge.Droid.Resource.Attribute.contentInsetLeft = global::NepalHouse.Droid.Resource.Attribute.contentInsetLeft;
+			global::Plugin.Badge.Droid.Resource.Attribute.contentInsetRight = global::NepalHouse.Droid.Resource.Attribute.contentInsetRight;
+			global::Plugin.Badge.Droid.Resource.Attribute.contentInsetStart = global::NepalHouse.Droid.Resource.Attribute.contentInsetStart;
+			global::Plugin.Badge.Droid.Resource.Attribute.contentInsetStartWithNavigation = global::NepalHouse.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Plugin.Badge.Droid.Resource.Attribute.contentPadding = global::NepalHouse.Droid.Resource.Attribute.contentPadding;
+			global::Plugin.Badge.Droid.Resource.Attribute.contentPaddingBottom = global::NepalHouse.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Plugin.Badge.Droid.Resource.Attribute.contentPaddingLeft = global::NepalHouse.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Plugin.Badge.Droid.Resource.Attribute.contentPaddingRight = global::NepalHouse.Droid.Resource.Attribute.contentPaddingRight;
+			global::Plugin.Badge.Droid.Resource.Attribute.contentPaddingTop = global::NepalHouse.Droid.Resource.Attribute.contentPaddingTop;
+			global::Plugin.Badge.Droid.Resource.Attribute.contentScrim = global::NepalHouse.Droid.Resource.Attribute.contentScrim;
+			global::Plugin.Badge.Droid.Resource.Attribute.controlBackground = global::NepalHouse.Droid.Resource.Attribute.controlBackground;
+			global::Plugin.Badge.Droid.Resource.Attribute.counterEnabled = global::NepalHouse.Droid.Resource.Attribute.counterEnabled;
+			global::Plugin.Badge.Droid.Resource.Attribute.counterMaxLength = global::NepalHouse.Droid.Resource.Attribute.counterMaxLength;
+			global::Plugin.Badge.Droid.Resource.Attribute.counterOverflowTextAppearance = global::NepalHouse.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Attribute.counterTextAppearance = global::NepalHouse.Droid.Resource.Attribute.counterTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Attribute.customNavigationLayout = global::NepalHouse.Droid.Resource.Attribute.customNavigationLayout;
+			global::Plugin.Badge.Droid.Resource.Attribute.defaultQueryHint = global::NepalHouse.Droid.Resource.Attribute.defaultQueryHint;
+			global::Plugin.Badge.Droid.Resource.Attribute.dialogPreferredPadding = global::NepalHouse.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Plugin.Badge.Droid.Resource.Attribute.dialogTheme = global::NepalHouse.Droid.Resource.Attribute.dialogTheme;
+			global::Plugin.Badge.Droid.Resource.Attribute.displayOptions = global::NepalHouse.Droid.Resource.Attribute.displayOptions;
+			global::Plugin.Badge.Droid.Resource.Attribute.divider = global::NepalHouse.Droid.Resource.Attribute.divider;
+			global::Plugin.Badge.Droid.Resource.Attribute.dividerHorizontal = global::NepalHouse.Droid.Resource.Attribute.dividerHorizontal;
+			global::Plugin.Badge.Droid.Resource.Attribute.dividerPadding = global::NepalHouse.Droid.Resource.Attribute.dividerPadding;
+			global::Plugin.Badge.Droid.Resource.Attribute.dividerVertical = global::NepalHouse.Droid.Resource.Attribute.dividerVertical;
+			global::Plugin.Badge.Droid.Resource.Attribute.drawableSize = global::NepalHouse.Droid.Resource.Attribute.drawableSize;
+			global::Plugin.Badge.Droid.Resource.Attribute.drawerArrowStyle = global::NepalHouse.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.dropDownListViewStyle = global::NepalHouse.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.dropdownListPreferredItemHeight = global::NepalHouse.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Plugin.Badge.Droid.Resource.Attribute.editTextBackground = global::NepalHouse.Droid.Resource.Attribute.editTextBackground;
+			global::Plugin.Badge.Droid.Resource.Attribute.editTextColor = global::NepalHouse.Droid.Resource.Attribute.editTextColor;
+			global::Plugin.Badge.Droid.Resource.Attribute.editTextStyle = global::NepalHouse.Droid.Resource.Attribute.editTextStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.elevation = global::NepalHouse.Droid.Resource.Attribute.elevation;
+			global::Plugin.Badge.Droid.Resource.Attribute.errorEnabled = global::NepalHouse.Droid.Resource.Attribute.errorEnabled;
+			global::Plugin.Badge.Droid.Resource.Attribute.errorTextAppearance = global::NepalHouse.Droid.Resource.Attribute.errorTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable = global::NepalHouse.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.expanded = global::NepalHouse.Droid.Resource.Attribute.expanded;
+			global::Plugin.Badge.Droid.Resource.Attribute.expandedTitleGravity = global::NepalHouse.Droid.Resource.Attribute.expandedTitleGravity;
+			global::Plugin.Badge.Droid.Resource.Attribute.expandedTitleMargin = global::NepalHouse.Droid.Resource.Attribute.expandedTitleMargin;
+			global::Plugin.Badge.Droid.Resource.Attribute.expandedTitleMarginBottom = global::NepalHouse.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::Plugin.Badge.Droid.Resource.Attribute.expandedTitleMarginEnd = global::NepalHouse.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::Plugin.Badge.Droid.Resource.Attribute.expandedTitleMarginStart = global::NepalHouse.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::Plugin.Badge.Droid.Resource.Attribute.expandedTitleMarginTop = global::NepalHouse.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::Plugin.Badge.Droid.Resource.Attribute.expandedTitleTextAppearance = global::NepalHouse.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Attribute.externalRouteEnabledDrawable = global::NepalHouse.Droid.Resource.Attribute.externalRouteEnabledDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.fabSize = global::NepalHouse.Droid.Resource.Attribute.fabSize;
+			global::Plugin.Badge.Droid.Resource.Attribute.foregroundInsidePadding = global::NepalHouse.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::Plugin.Badge.Droid.Resource.Attribute.gapBetweenBars = global::NepalHouse.Droid.Resource.Attribute.gapBetweenBars;
+			global::Plugin.Badge.Droid.Resource.Attribute.goIcon = global::NepalHouse.Droid.Resource.Attribute.goIcon;
+			global::Plugin.Badge.Droid.Resource.Attribute.headerLayout = global::NepalHouse.Droid.Resource.Attribute.headerLayout;
+			global::Plugin.Badge.Droid.Resource.Attribute.height = global::NepalHouse.Droid.Resource.Attribute.height;
+			global::Plugin.Badge.Droid.Resource.Attribute.hideOnContentScroll = global::NepalHouse.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Plugin.Badge.Droid.Resource.Attribute.hintAnimationEnabled = global::NepalHouse.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::Plugin.Badge.Droid.Resource.Attribute.hintEnabled = global::NepalHouse.Droid.Resource.Attribute.hintEnabled;
+			global::Plugin.Badge.Droid.Resource.Attribute.hintTextAppearance = global::NepalHouse.Droid.Resource.Attribute.hintTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Attribute.homeAsUpIndicator = global::NepalHouse.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Plugin.Badge.Droid.Resource.Attribute.homeLayout = global::NepalHouse.Droid.Resource.Attribute.homeLayout;
+			global::Plugin.Badge.Droid.Resource.Attribute.icon = global::NepalHouse.Droid.Resource.Attribute.icon;
+			global::Plugin.Badge.Droid.Resource.Attribute.iconifiedByDefault = global::NepalHouse.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Plugin.Badge.Droid.Resource.Attribute.imageButtonStyle = global::NepalHouse.Droid.Resource.Attribute.imageButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.indeterminateProgressStyle = global::NepalHouse.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.initialActivityCount = global::NepalHouse.Droid.Resource.Attribute.initialActivityCount;
+			global::Plugin.Badge.Droid.Resource.Attribute.insetForeground = global::NepalHouse.Droid.Resource.Attribute.insetForeground;
+			global::Plugin.Badge.Droid.Resource.Attribute.isLightTheme = global::NepalHouse.Droid.Resource.Attribute.isLightTheme;
+			global::Plugin.Badge.Droid.Resource.Attribute.itemBackground = global::NepalHouse.Droid.Resource.Attribute.itemBackground;
+			global::Plugin.Badge.Droid.Resource.Attribute.itemIconTint = global::NepalHouse.Droid.Resource.Attribute.itemIconTint;
+			global::Plugin.Badge.Droid.Resource.Attribute.itemPadding = global::NepalHouse.Droid.Resource.Attribute.itemPadding;
+			global::Plugin.Badge.Droid.Resource.Attribute.itemTextAppearance = global::NepalHouse.Droid.Resource.Attribute.itemTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Attribute.itemTextColor = global::NepalHouse.Droid.Resource.Attribute.itemTextColor;
+			global::Plugin.Badge.Droid.Resource.Attribute.keylines = global::NepalHouse.Droid.Resource.Attribute.keylines;
+			global::Plugin.Badge.Droid.Resource.Attribute.layout = global::NepalHouse.Droid.Resource.Attribute.layout;
+			global::Plugin.Badge.Droid.Resource.Attribute.layoutManager = global::NepalHouse.Droid.Resource.Attribute.layoutManager;
+			global::Plugin.Badge.Droid.Resource.Attribute.layout_anchor = global::NepalHouse.Droid.Resource.Attribute.layout_anchor;
+			global::Plugin.Badge.Droid.Resource.Attribute.layout_anchorGravity = global::NepalHouse.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Plugin.Badge.Droid.Resource.Attribute.layout_behavior = global::NepalHouse.Droid.Resource.Attribute.layout_behavior;
+			global::Plugin.Badge.Droid.Resource.Attribute.layout_collapseMode = global::NepalHouse.Droid.Resource.Attribute.layout_collapseMode;
+			global::Plugin.Badge.Droid.Resource.Attribute.layout_collapseParallaxMultiplier = global::NepalHouse.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Plugin.Badge.Droid.Resource.Attribute.layout_dodgeInsetEdges = global::NepalHouse.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Plugin.Badge.Droid.Resource.Attribute.layout_insetEdge = global::NepalHouse.Droid.Resource.Attribute.layout_insetEdge;
+			global::Plugin.Badge.Droid.Resource.Attribute.layout_keyline = global::NepalHouse.Droid.Resource.Attribute.layout_keyline;
+			global::Plugin.Badge.Droid.Resource.Attribute.layout_scrollFlags = global::NepalHouse.Droid.Resource.Attribute.layout_scrollFlags;
+			global::Plugin.Badge.Droid.Resource.Attribute.layout_scrollInterpolator = global::NepalHouse.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::Plugin.Badge.Droid.Resource.Attribute.listChoiceBackgroundIndicator = global::NepalHouse.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Plugin.Badge.Droid.Resource.Attribute.listDividerAlertDialog = global::NepalHouse.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Plugin.Badge.Droid.Resource.Attribute.listItemLayout = global::NepalHouse.Droid.Resource.Attribute.listItemLayout;
+			global::Plugin.Badge.Droid.Resource.Attribute.listLayout = global::NepalHouse.Droid.Resource.Attribute.listLayout;
+			global::Plugin.Badge.Droid.Resource.Attribute.listMenuViewStyle = global::NepalHouse.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.listPopupWindowStyle = global::NepalHouse.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.listPreferredItemHeight = global::NepalHouse.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Plugin.Badge.Droid.Resource.Attribute.listPreferredItemHeightLarge = global::NepalHouse.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Plugin.Badge.Droid.Resource.Attribute.listPreferredItemHeightSmall = global::NepalHouse.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Plugin.Badge.Droid.Resource.Attribute.listPreferredItemPaddingLeft = global::NepalHouse.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Plugin.Badge.Droid.Resource.Attribute.listPreferredItemPaddingRight = global::NepalHouse.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Plugin.Badge.Droid.Resource.Attribute.logo = global::NepalHouse.Droid.Resource.Attribute.logo;
+			global::Plugin.Badge.Droid.Resource.Attribute.logoDescription = global::NepalHouse.Droid.Resource.Attribute.logoDescription;
+			global::Plugin.Badge.Droid.Resource.Attribute.maxActionInlineWidth = global::NepalHouse.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::Plugin.Badge.Droid.Resource.Attribute.maxButtonHeight = global::NepalHouse.Droid.Resource.Attribute.maxButtonHeight;
+			global::Plugin.Badge.Droid.Resource.Attribute.measureWithLargestChild = global::NepalHouse.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Plugin.Badge.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable = global::NepalHouse.Droid.Resource.Attribute.mediaRouteAudioTrackDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.mediaRouteButtonStyle = global::NepalHouse.Droid.Resource.Attribute.mediaRouteButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.mediaRouteCloseDrawable = global::NepalHouse.Droid.Resource.Attribute.mediaRouteCloseDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.mediaRouteControlPanelThemeOverlay = global::NepalHouse.Droid.Resource.Attribute.mediaRouteControlPanelThemeOverlay;
+			global::Plugin.Badge.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable = global::NepalHouse.Droid.Resource.Attribute.mediaRouteDefaultIconDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.mediaRoutePauseDrawable = global::NepalHouse.Droid.Resource.Attribute.mediaRoutePauseDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.mediaRoutePlayDrawable = global::NepalHouse.Droid.Resource.Attribute.mediaRoutePlayDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable = global::NepalHouse.Droid.Resource.Attribute.mediaRouteSpeakerGroupIconDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable = global::NepalHouse.Droid.Resource.Attribute.mediaRouteSpeakerIconDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.mediaRouteStopDrawable = global::NepalHouse.Droid.Resource.Attribute.mediaRouteStopDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.mediaRouteTheme = global::NepalHouse.Droid.Resource.Attribute.mediaRouteTheme;
+			global::Plugin.Badge.Droid.Resource.Attribute.mediaRouteTvIconDrawable = global::NepalHouse.Droid.Resource.Attribute.mediaRouteTvIconDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.menu = global::NepalHouse.Droid.Resource.Attribute.menu;
+			global::Plugin.Badge.Droid.Resource.Attribute.multiChoiceItemLayout = global::NepalHouse.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Plugin.Badge.Droid.Resource.Attribute.navigationContentDescription = global::NepalHouse.Droid.Resource.Attribute.navigationContentDescription;
+			global::Plugin.Badge.Droid.Resource.Attribute.navigationIcon = global::NepalHouse.Droid.Resource.Attribute.navigationIcon;
+			global::Plugin.Badge.Droid.Resource.Attribute.navigationMode = global::NepalHouse.Droid.Resource.Attribute.navigationMode;
+			global::Plugin.Badge.Droid.Resource.Attribute.overlapAnchor = global::NepalHouse.Droid.Resource.Attribute.overlapAnchor;
+			global::Plugin.Badge.Droid.Resource.Attribute.paddingBottomNoButtons = global::NepalHouse.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Plugin.Badge.Droid.Resource.Attribute.paddingEnd = global::NepalHouse.Droid.Resource.Attribute.paddingEnd;
+			global::Plugin.Badge.Droid.Resource.Attribute.paddingStart = global::NepalHouse.Droid.Resource.Attribute.paddingStart;
+			global::Plugin.Badge.Droid.Resource.Attribute.paddingTopNoTitle = global::NepalHouse.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Plugin.Badge.Droid.Resource.Attribute.panelBackground = global::NepalHouse.Droid.Resource.Attribute.panelBackground;
+			global::Plugin.Badge.Droid.Resource.Attribute.panelMenuListTheme = global::NepalHouse.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Plugin.Badge.Droid.Resource.Attribute.panelMenuListWidth = global::NepalHouse.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Plugin.Badge.Droid.Resource.Attribute.passwordToggleContentDescription = global::NepalHouse.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::Plugin.Badge.Droid.Resource.Attribute.passwordToggleDrawable = global::NepalHouse.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::Plugin.Badge.Droid.Resource.Attribute.passwordToggleEnabled = global::NepalHouse.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::Plugin.Badge.Droid.Resource.Attribute.passwordToggleTint = global::NepalHouse.Droid.Resource.Attribute.passwordToggleTint;
+			global::Plugin.Badge.Droid.Resource.Attribute.passwordToggleTintMode = global::NepalHouse.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::Plugin.Badge.Droid.Resource.Attribute.popupMenuStyle = global::NepalHouse.Droid.Resource.Attribute.popupMenuStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.popupTheme = global::NepalHouse.Droid.Resource.Attribute.popupTheme;
+			global::Plugin.Badge.Droid.Resource.Attribute.popupWindowStyle = global::NepalHouse.Droid.Resource.Attribute.popupWindowStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.preserveIconSpacing = global::NepalHouse.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Plugin.Badge.Droid.Resource.Attribute.pressedTranslationZ = global::NepalHouse.Droid.Resource.Attribute.pressedTranslationZ;
+			global::Plugin.Badge.Droid.Resource.Attribute.progressBarPadding = global::NepalHouse.Droid.Resource.Attribute.progressBarPadding;
+			global::Plugin.Badge.Droid.Resource.Attribute.progressBarStyle = global::NepalHouse.Droid.Resource.Attribute.progressBarStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.queryBackground = global::NepalHouse.Droid.Resource.Attribute.queryBackground;
+			global::Plugin.Badge.Droid.Resource.Attribute.queryHint = global::NepalHouse.Droid.Resource.Attribute.queryHint;
+			global::Plugin.Badge.Droid.Resource.Attribute.radioButtonStyle = global::NepalHouse.Droid.Resource.Attribute.radioButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.ratingBarStyle = global::NepalHouse.Droid.Resource.Attribute.ratingBarStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.ratingBarStyleIndicator = global::NepalHouse.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Plugin.Badge.Droid.Resource.Attribute.ratingBarStyleSmall = global::NepalHouse.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Plugin.Badge.Droid.Resource.Attribute.reverseLayout = global::NepalHouse.Droid.Resource.Attribute.reverseLayout;
+			global::Plugin.Badge.Droid.Resource.Attribute.rippleColor = global::NepalHouse.Droid.Resource.Attribute.rippleColor;
+			global::Plugin.Badge.Droid.Resource.Attribute.scrimAnimationDuration = global::NepalHouse.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::Plugin.Badge.Droid.Resource.Attribute.scrimVisibleHeightTrigger = global::NepalHouse.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Plugin.Badge.Droid.Resource.Attribute.searchHintIcon = global::NepalHouse.Droid.Resource.Attribute.searchHintIcon;
+			global::Plugin.Badge.Droid.Resource.Attribute.searchIcon = global::NepalHouse.Droid.Resource.Attribute.searchIcon;
+			global::Plugin.Badge.Droid.Resource.Attribute.searchViewStyle = global::NepalHouse.Droid.Resource.Attribute.searchViewStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.seekBarStyle = global::NepalHouse.Droid.Resource.Attribute.seekBarStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.selectableItemBackground = global::NepalHouse.Droid.Resource.Attribute.selectableItemBackground;
+			global::Plugin.Badge.Droid.Resource.Attribute.selectableItemBackgroundBorderless = global::NepalHouse.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Plugin.Badge.Droid.Resource.Attribute.showAsAction = global::NepalHouse.Droid.Resource.Attribute.showAsAction;
+			global::Plugin.Badge.Droid.Resource.Attribute.showDividers = global::NepalHouse.Droid.Resource.Attribute.showDividers;
+			global::Plugin.Badge.Droid.Resource.Attribute.showText = global::NepalHouse.Droid.Resource.Attribute.showText;
+			global::Plugin.Badge.Droid.Resource.Attribute.showTitle = global::NepalHouse.Droid.Resource.Attribute.showTitle;
+			global::Plugin.Badge.Droid.Resource.Attribute.singleChoiceItemLayout = global::NepalHouse.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Plugin.Badge.Droid.Resource.Attribute.spanCount = global::NepalHouse.Droid.Resource.Attribute.spanCount;
+			global::Plugin.Badge.Droid.Resource.Attribute.spinBars = global::NepalHouse.Droid.Resource.Attribute.spinBars;
+			global::Plugin.Badge.Droid.Resource.Attribute.spinnerDropDownItemStyle = global::NepalHouse.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.spinnerStyle = global::NepalHouse.Droid.Resource.Attribute.spinnerStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.splitTrack = global::NepalHouse.Droid.Resource.Attribute.splitTrack;
+			global::Plugin.Badge.Droid.Resource.Attribute.srcCompat = global::NepalHouse.Droid.Resource.Attribute.srcCompat;
+			global::Plugin.Badge.Droid.Resource.Attribute.stackFromEnd = global::NepalHouse.Droid.Resource.Attribute.stackFromEnd;
+			global::Plugin.Badge.Droid.Resource.Attribute.state_above_anchor = global::NepalHouse.Droid.Resource.Attribute.state_above_anchor;
+			global::Plugin.Badge.Droid.Resource.Attribute.state_collapsed = global::NepalHouse.Droid.Resource.Attribute.state_collapsed;
+			global::Plugin.Badge.Droid.Resource.Attribute.state_collapsible = global::NepalHouse.Droid.Resource.Attribute.state_collapsible;
+			global::Plugin.Badge.Droid.Resource.Attribute.statusBarBackground = global::NepalHouse.Droid.Resource.Attribute.statusBarBackground;
+			global::Plugin.Badge.Droid.Resource.Attribute.statusBarScrim = global::NepalHouse.Droid.Resource.Attribute.statusBarScrim;
+			global::Plugin.Badge.Droid.Resource.Attribute.subMenuArrow = global::NepalHouse.Droid.Resource.Attribute.subMenuArrow;
+			global::Plugin.Badge.Droid.Resource.Attribute.submitBackground = global::NepalHouse.Droid.Resource.Attribute.submitBackground;
+			global::Plugin.Badge.Droid.Resource.Attribute.subtitle = global::NepalHouse.Droid.Resource.Attribute.subtitle;
+			global::Plugin.Badge.Droid.Resource.Attribute.subtitleTextAppearance = global::NepalHouse.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Attribute.subtitleTextColor = global::NepalHouse.Droid.Resource.Attribute.subtitleTextColor;
+			global::Plugin.Badge.Droid.Resource.Attribute.subtitleTextStyle = global::NepalHouse.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.suggestionRowLayout = global::NepalHouse.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Plugin.Badge.Droid.Resource.Attribute.switchMinWidth = global::NepalHouse.Droid.Resource.Attribute.switchMinWidth;
+			global::Plugin.Badge.Droid.Resource.Attribute.switchPadding = global::NepalHouse.Droid.Resource.Attribute.switchPadding;
+			global::Plugin.Badge.Droid.Resource.Attribute.switchStyle = global::NepalHouse.Droid.Resource.Attribute.switchStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.switchTextAppearance = global::NepalHouse.Droid.Resource.Attribute.switchTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabBackground = global::NepalHouse.Droid.Resource.Attribute.tabBackground;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabContentStart = global::NepalHouse.Droid.Resource.Attribute.tabContentStart;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabGravity = global::NepalHouse.Droid.Resource.Attribute.tabGravity;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabIndicatorColor = global::NepalHouse.Droid.Resource.Attribute.tabIndicatorColor;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabIndicatorHeight = global::NepalHouse.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabMaxWidth = global::NepalHouse.Droid.Resource.Attribute.tabMaxWidth;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabMinWidth = global::NepalHouse.Droid.Resource.Attribute.tabMinWidth;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabMode = global::NepalHouse.Droid.Resource.Attribute.tabMode;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabPadding = global::NepalHouse.Droid.Resource.Attribute.tabPadding;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabPaddingBottom = global::NepalHouse.Droid.Resource.Attribute.tabPaddingBottom;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabPaddingEnd = global::NepalHouse.Droid.Resource.Attribute.tabPaddingEnd;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabPaddingStart = global::NepalHouse.Droid.Resource.Attribute.tabPaddingStart;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabPaddingTop = global::NepalHouse.Droid.Resource.Attribute.tabPaddingTop;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabSelectedTextColor = global::NepalHouse.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabTextAppearance = global::NepalHouse.Droid.Resource.Attribute.tabTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Attribute.tabTextColor = global::NepalHouse.Droid.Resource.Attribute.tabTextColor;
+			global::Plugin.Badge.Droid.Resource.Attribute.textAllCaps = global::NepalHouse.Droid.Resource.Attribute.textAllCaps;
+			global::Plugin.Badge.Droid.Resource.Attribute.textAppearanceLargePopupMenu = global::NepalHouse.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Plugin.Badge.Droid.Resource.Attribute.textAppearanceListItem = global::NepalHouse.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Plugin.Badge.Droid.Resource.Attribute.textAppearanceListItemSmall = global::NepalHouse.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Plugin.Badge.Droid.Resource.Attribute.textAppearancePopupMenuHeader = global::NepalHouse.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Plugin.Badge.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle = global::NepalHouse.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Plugin.Badge.Droid.Resource.Attribute.textAppearanceSearchResultTitle = global::NepalHouse.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Plugin.Badge.Droid.Resource.Attribute.textAppearanceSmallPopupMenu = global::NepalHouse.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Plugin.Badge.Droid.Resource.Attribute.textColorAlertDialogListItem = global::NepalHouse.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Plugin.Badge.Droid.Resource.Attribute.textColorError = global::NepalHouse.Droid.Resource.Attribute.textColorError;
+			global::Plugin.Badge.Droid.Resource.Attribute.textColorSearchUrl = global::NepalHouse.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Plugin.Badge.Droid.Resource.Attribute.theme = global::NepalHouse.Droid.Resource.Attribute.theme;
+			global::Plugin.Badge.Droid.Resource.Attribute.thickness = global::NepalHouse.Droid.Resource.Attribute.thickness;
+			global::Plugin.Badge.Droid.Resource.Attribute.thumbTextPadding = global::NepalHouse.Droid.Resource.Attribute.thumbTextPadding;
+			global::Plugin.Badge.Droid.Resource.Attribute.thumbTint = global::NepalHouse.Droid.Resource.Attribute.thumbTint;
+			global::Plugin.Badge.Droid.Resource.Attribute.thumbTintMode = global::NepalHouse.Droid.Resource.Attribute.thumbTintMode;
+			global::Plugin.Badge.Droid.Resource.Attribute.tickMark = global::NepalHouse.Droid.Resource.Attribute.tickMark;
+			global::Plugin.Badge.Droid.Resource.Attribute.tickMarkTint = global::NepalHouse.Droid.Resource.Attribute.tickMarkTint;
+			global::Plugin.Badge.Droid.Resource.Attribute.tickMarkTintMode = global::NepalHouse.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Plugin.Badge.Droid.Resource.Attribute.title = global::NepalHouse.Droid.Resource.Attribute.title;
+			global::Plugin.Badge.Droid.Resource.Attribute.titleEnabled = global::NepalHouse.Droid.Resource.Attribute.titleEnabled;
+			global::Plugin.Badge.Droid.Resource.Attribute.titleMargin = global::NepalHouse.Droid.Resource.Attribute.titleMargin;
+			global::Plugin.Badge.Droid.Resource.Attribute.titleMarginBottom = global::NepalHouse.Droid.Resource.Attribute.titleMarginBottom;
+			global::Plugin.Badge.Droid.Resource.Attribute.titleMarginEnd = global::NepalHouse.Droid.Resource.Attribute.titleMarginEnd;
+			global::Plugin.Badge.Droid.Resource.Attribute.titleMarginStart = global::NepalHouse.Droid.Resource.Attribute.titleMarginStart;
+			global::Plugin.Badge.Droid.Resource.Attribute.titleMarginTop = global::NepalHouse.Droid.Resource.Attribute.titleMarginTop;
+			global::Plugin.Badge.Droid.Resource.Attribute.titleMargins = global::NepalHouse.Droid.Resource.Attribute.titleMargins;
+			global::Plugin.Badge.Droid.Resource.Attribute.titleTextAppearance = global::NepalHouse.Droid.Resource.Attribute.titleTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Attribute.titleTextColor = global::NepalHouse.Droid.Resource.Attribute.titleTextColor;
+			global::Plugin.Badge.Droid.Resource.Attribute.titleTextStyle = global::NepalHouse.Droid.Resource.Attribute.titleTextStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.toolbarId = global::NepalHouse.Droid.Resource.Attribute.toolbarId;
+			global::Plugin.Badge.Droid.Resource.Attribute.toolbarNavigationButtonStyle = global::NepalHouse.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.toolbarStyle = global::NepalHouse.Droid.Resource.Attribute.toolbarStyle;
+			global::Plugin.Badge.Droid.Resource.Attribute.track = global::NepalHouse.Droid.Resource.Attribute.track;
+			global::Plugin.Badge.Droid.Resource.Attribute.trackTint = global::NepalHouse.Droid.Resource.Attribute.trackTint;
+			global::Plugin.Badge.Droid.Resource.Attribute.trackTintMode = global::NepalHouse.Droid.Resource.Attribute.trackTintMode;
+			global::Plugin.Badge.Droid.Resource.Attribute.useCompatPadding = global::NepalHouse.Droid.Resource.Attribute.useCompatPadding;
+			global::Plugin.Badge.Droid.Resource.Attribute.voiceIcon = global::NepalHouse.Droid.Resource.Attribute.voiceIcon;
+			global::Plugin.Badge.Droid.Resource.Attribute.windowActionBar = global::NepalHouse.Droid.Resource.Attribute.windowActionBar;
+			global::Plugin.Badge.Droid.Resource.Attribute.windowActionBarOverlay = global::NepalHouse.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Plugin.Badge.Droid.Resource.Attribute.windowActionModeOverlay = global::NepalHouse.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Plugin.Badge.Droid.Resource.Attribute.windowFixedHeightMajor = global::NepalHouse.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Plugin.Badge.Droid.Resource.Attribute.windowFixedHeightMinor = global::NepalHouse.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Plugin.Badge.Droid.Resource.Attribute.windowFixedWidthMajor = global::NepalHouse.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Plugin.Badge.Droid.Resource.Attribute.windowFixedWidthMinor = global::NepalHouse.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Plugin.Badge.Droid.Resource.Attribute.windowMinWidthMajor = global::NepalHouse.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Plugin.Badge.Droid.Resource.Attribute.windowMinWidthMinor = global::NepalHouse.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Plugin.Badge.Droid.Resource.Attribute.windowNoTitle = global::NepalHouse.Droid.Resource.Attribute.windowNoTitle;
+			global::Plugin.Badge.Droid.Resource.Boolean.abc_action_bar_embed_tabs = global::NepalHouse.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Plugin.Badge.Droid.Resource.Boolean.abc_allow_stacked_button_bar = global::NepalHouse.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Plugin.Badge.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::NepalHouse.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Plugin.Badge.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::NepalHouse.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::Plugin.Badge.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::NepalHouse.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::Plugin.Badge.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark = global::NepalHouse.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.abc_background_cache_hint_selector_material_light = global::NepalHouse.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.abc_btn_colored_borderless_text_material = global::NepalHouse.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Plugin.Badge.Droid.Resource.Color.abc_btn_colored_text_material = global::NepalHouse.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Plugin.Badge.Droid.Resource.Color.abc_color_highlight_material = global::NepalHouse.Droid.Resource.Color.abc_color_highlight_material;
+			global::Plugin.Badge.Droid.Resource.Color.abc_hint_foreground_material_dark = global::NepalHouse.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.abc_hint_foreground_material_light = global::NepalHouse.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.abc_input_method_navigation_guard = global::NepalHouse.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::Plugin.Badge.Droid.Resource.Color.abc_primary_text_disable_only_material_dark = global::NepalHouse.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.abc_primary_text_disable_only_material_light = global::NepalHouse.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.abc_primary_text_material_dark = global::NepalHouse.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.abc_primary_text_material_light = global::NepalHouse.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.abc_search_url_text = global::NepalHouse.Droid.Resource.Color.abc_search_url_text;
+			global::Plugin.Badge.Droid.Resource.Color.abc_search_url_text_normal = global::NepalHouse.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Plugin.Badge.Droid.Resource.Color.abc_search_url_text_pressed = global::NepalHouse.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Plugin.Badge.Droid.Resource.Color.abc_search_url_text_selected = global::NepalHouse.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Plugin.Badge.Droid.Resource.Color.abc_secondary_text_material_dark = global::NepalHouse.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.abc_secondary_text_material_light = global::NepalHouse.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.abc_tint_btn_checkable = global::NepalHouse.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Plugin.Badge.Droid.Resource.Color.abc_tint_default = global::NepalHouse.Droid.Resource.Color.abc_tint_default;
+			global::Plugin.Badge.Droid.Resource.Color.abc_tint_edittext = global::NepalHouse.Droid.Resource.Color.abc_tint_edittext;
+			global::Plugin.Badge.Droid.Resource.Color.abc_tint_seek_thumb = global::NepalHouse.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Plugin.Badge.Droid.Resource.Color.abc_tint_spinner = global::NepalHouse.Droid.Resource.Color.abc_tint_spinner;
+			global::Plugin.Badge.Droid.Resource.Color.abc_tint_switch_thumb = global::NepalHouse.Droid.Resource.Color.abc_tint_switch_thumb;
+			global::Plugin.Badge.Droid.Resource.Color.abc_tint_switch_track = global::NepalHouse.Droid.Resource.Color.abc_tint_switch_track;
+			global::Plugin.Badge.Droid.Resource.Color.accent_material_dark = global::NepalHouse.Droid.Resource.Color.accent_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.accent_material_light = global::NepalHouse.Droid.Resource.Color.accent_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.background_floating_material_dark = global::NepalHouse.Droid.Resource.Color.background_floating_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.background_floating_material_light = global::NepalHouse.Droid.Resource.Color.background_floating_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.background_material_dark = global::NepalHouse.Droid.Resource.Color.background_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.background_material_light = global::NepalHouse.Droid.Resource.Color.background_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.bright_foreground_disabled_material_dark = global::NepalHouse.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.bright_foreground_disabled_material_light = global::NepalHouse.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.bright_foreground_inverse_material_dark = global::NepalHouse.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.bright_foreground_inverse_material_light = global::NepalHouse.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.bright_foreground_material_dark = global::NepalHouse.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.bright_foreground_material_light = global::NepalHouse.Droid.Resource.Color.bright_foreground_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.button_material_dark = global::NepalHouse.Droid.Resource.Color.button_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.button_material_light = global::NepalHouse.Droid.Resource.Color.button_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.cardview_dark_background = global::NepalHouse.Droid.Resource.Color.cardview_dark_background;
+			global::Plugin.Badge.Droid.Resource.Color.cardview_light_background = global::NepalHouse.Droid.Resource.Color.cardview_light_background;
+			global::Plugin.Badge.Droid.Resource.Color.cardview_shadow_end_color = global::NepalHouse.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Plugin.Badge.Droid.Resource.Color.cardview_shadow_start_color = global::NepalHouse.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Plugin.Badge.Droid.Resource.Color.design_bottom_navigation_shadow_color = global::NepalHouse.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Plugin.Badge.Droid.Resource.Color.design_error = global::NepalHouse.Droid.Resource.Color.design_error;
+			global::Plugin.Badge.Droid.Resource.Color.design_fab_shadow_end_color = global::NepalHouse.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::Plugin.Badge.Droid.Resource.Color.design_fab_shadow_mid_color = global::NepalHouse.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::Plugin.Badge.Droid.Resource.Color.design_fab_shadow_start_color = global::NepalHouse.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::Plugin.Badge.Droid.Resource.Color.design_fab_stroke_end_inner_color = global::NepalHouse.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Plugin.Badge.Droid.Resource.Color.design_fab_stroke_end_outer_color = global::NepalHouse.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Plugin.Badge.Droid.Resource.Color.design_fab_stroke_top_inner_color = global::NepalHouse.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Plugin.Badge.Droid.Resource.Color.design_fab_stroke_top_outer_color = global::NepalHouse.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Plugin.Badge.Droid.Resource.Color.design_snackbar_background_color = global::NepalHouse.Droid.Resource.Color.design_snackbar_background_color;
+			global::Plugin.Badge.Droid.Resource.Color.design_textinput_error_color_dark = global::NepalHouse.Droid.Resource.Color.design_textinput_error_color_dark;
+			global::Plugin.Badge.Droid.Resource.Color.design_textinput_error_color_light = global::NepalHouse.Droid.Resource.Color.design_textinput_error_color_light;
+			global::Plugin.Badge.Droid.Resource.Color.design_tint_password_toggle = global::NepalHouse.Droid.Resource.Color.design_tint_password_toggle;
+			global::Plugin.Badge.Droid.Resource.Color.dim_foreground_disabled_material_dark = global::NepalHouse.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.dim_foreground_disabled_material_light = global::NepalHouse.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.dim_foreground_material_dark = global::NepalHouse.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.dim_foreground_material_light = global::NepalHouse.Droid.Resource.Color.dim_foreground_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.foreground_material_dark = global::NepalHouse.Droid.Resource.Color.foreground_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.foreground_material_light = global::NepalHouse.Droid.Resource.Color.foreground_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.highlighted_text_material_dark = global::NepalHouse.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.highlighted_text_material_light = global::NepalHouse.Droid.Resource.Color.highlighted_text_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.material_blue_grey_800 = global::NepalHouse.Droid.Resource.Color.material_blue_grey_800;
+			global::Plugin.Badge.Droid.Resource.Color.material_blue_grey_900 = global::NepalHouse.Droid.Resource.Color.material_blue_grey_900;
+			global::Plugin.Badge.Droid.Resource.Color.material_blue_grey_950 = global::NepalHouse.Droid.Resource.Color.material_blue_grey_950;
+			global::Plugin.Badge.Droid.Resource.Color.material_deep_teal_200 = global::NepalHouse.Droid.Resource.Color.material_deep_teal_200;
+			global::Plugin.Badge.Droid.Resource.Color.material_deep_teal_500 = global::NepalHouse.Droid.Resource.Color.material_deep_teal_500;
+			global::Plugin.Badge.Droid.Resource.Color.material_grey_100 = global::NepalHouse.Droid.Resource.Color.material_grey_100;
+			global::Plugin.Badge.Droid.Resource.Color.material_grey_300 = global::NepalHouse.Droid.Resource.Color.material_grey_300;
+			global::Plugin.Badge.Droid.Resource.Color.material_grey_50 = global::NepalHouse.Droid.Resource.Color.material_grey_50;
+			global::Plugin.Badge.Droid.Resource.Color.material_grey_600 = global::NepalHouse.Droid.Resource.Color.material_grey_600;
+			global::Plugin.Badge.Droid.Resource.Color.material_grey_800 = global::NepalHouse.Droid.Resource.Color.material_grey_800;
+			global::Plugin.Badge.Droid.Resource.Color.material_grey_850 = global::NepalHouse.Droid.Resource.Color.material_grey_850;
+			global::Plugin.Badge.Droid.Resource.Color.material_grey_900 = global::NepalHouse.Droid.Resource.Color.material_grey_900;
+			global::Plugin.Badge.Droid.Resource.Color.notification_action_color_filter = global::NepalHouse.Droid.Resource.Color.notification_action_color_filter;
+			global::Plugin.Badge.Droid.Resource.Color.notification_icon_bg_color = global::NepalHouse.Droid.Resource.Color.notification_icon_bg_color;
+			global::Plugin.Badge.Droid.Resource.Color.notification_material_background_media_default_color = global::NepalHouse.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Plugin.Badge.Droid.Resource.Color.primary_dark_material_dark = global::NepalHouse.Droid.Resource.Color.primary_dark_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.primary_dark_material_light = global::NepalHouse.Droid.Resource.Color.primary_dark_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.primary_material_dark = global::NepalHouse.Droid.Resource.Color.primary_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.primary_material_light = global::NepalHouse.Droid.Resource.Color.primary_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.primary_text_default_material_dark = global::NepalHouse.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.primary_text_default_material_light = global::NepalHouse.Droid.Resource.Color.primary_text_default_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.primary_text_disabled_material_dark = global::NepalHouse.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.primary_text_disabled_material_light = global::NepalHouse.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.ripple_material_dark = global::NepalHouse.Droid.Resource.Color.ripple_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.ripple_material_light = global::NepalHouse.Droid.Resource.Color.ripple_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.secondary_text_default_material_dark = global::NepalHouse.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.secondary_text_default_material_light = global::NepalHouse.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.secondary_text_disabled_material_dark = global::NepalHouse.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.secondary_text_disabled_material_light = global::NepalHouse.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.switch_thumb_disabled_material_dark = global::NepalHouse.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.switch_thumb_disabled_material_light = global::NepalHouse.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.switch_thumb_material_dark = global::NepalHouse.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.switch_thumb_material_light = global::NepalHouse.Droid.Resource.Color.switch_thumb_material_light;
+			global::Plugin.Badge.Droid.Resource.Color.switch_thumb_normal_material_dark = global::NepalHouse.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Plugin.Badge.Droid.Resource.Color.switch_thumb_normal_material_light = global::NepalHouse.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_bar_content_inset_material = global::NepalHouse.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::NepalHouse.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_bar_default_height_material = global::NepalHouse.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material = global::NepalHouse.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material = global::NepalHouse.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_bar_elevation_material = global::NepalHouse.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::NepalHouse.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::NepalHouse.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::NepalHouse.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_bar_progress_bar_size = global::NepalHouse.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_bar_stacked_max_height = global::NepalHouse.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::NepalHouse.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::NepalHouse.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::NepalHouse.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_button_min_height_material = global::NepalHouse.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_button_min_width_material = global::NepalHouse.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material = global::NepalHouse.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height = global::NepalHouse.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_button_inset_horizontal_material = global::NepalHouse.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_button_inset_vertical_material = global::NepalHouse.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_button_padding_horizontal_material = global::NepalHouse.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_button_padding_vertical_material = global::NepalHouse.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::NepalHouse.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_config_prefDialogWidth = global::NepalHouse.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_control_corner_material = global::NepalHouse.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_control_inset_material = global::NepalHouse.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_control_padding_material = global::NepalHouse.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_dialog_fixed_height_major = global::NepalHouse.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_dialog_fixed_height_minor = global::NepalHouse.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_dialog_fixed_width_major = global::NepalHouse.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_dialog_fixed_width_minor = global::NepalHouse.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::NepalHouse.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::NepalHouse.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_dialog_min_width_major = global::NepalHouse.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_dialog_min_width_minor = global::NepalHouse.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_dialog_padding_material = global::NepalHouse.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_dialog_padding_top_material = global::NepalHouse.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_dialog_title_divider_material = global::NepalHouse.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_disabled_alpha_material_dark = global::NepalHouse.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_disabled_alpha_material_light = global::NepalHouse.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_dropdownitem_icon_width = global::NepalHouse.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left = global::NepalHouse.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right = global::NepalHouse.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material = global::NepalHouse.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::NepalHouse.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_edit_text_inset_top_material = global::NepalHouse.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_floating_window_z = global::NepalHouse.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material = global::NepalHouse.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_panel_menu_list_width = global::NepalHouse.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_progress_bar_height_material = global::NepalHouse.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_search_view_preferred_height = global::NepalHouse.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_search_view_preferred_width = global::NepalHouse.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_seekbar_track_background_height_material = global::NepalHouse.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material = global::NepalHouse.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_select_dialog_padding_start_material = global::NepalHouse.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_switch_padding = global::NepalHouse.Droid.Resource.Dimension.abc_switch_padding;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_body_1_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_body_2_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_button_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_caption_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_display_1_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_display_2_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_display_3_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_display_4_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_headline_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_large_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_medium_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_menu_header_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_menu_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_small_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_subhead_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_title_material = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Plugin.Badge.Droid.Resource.Dimension.abc_text_size_title_material_toolbar = global::NepalHouse.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Plugin.Badge.Droid.Resource.Dimension.cardview_compat_inset_shadow = global::NepalHouse.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Plugin.Badge.Droid.Resource.Dimension.cardview_default_elevation = global::NepalHouse.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Plugin.Badge.Droid.Resource.Dimension.cardview_default_radius = global::NepalHouse.Droid.Resource.Dimension.cardview_default_radius;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_appbar_elevation = global::NepalHouse.Droid.Resource.Dimension.design_appbar_elevation;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::NepalHouse.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_bottom_navigation_active_text_size = global::NepalHouse.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_bottom_navigation_elevation = global::NepalHouse.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_bottom_navigation_height = global::NepalHouse.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_bottom_navigation_item_max_width = global::NepalHouse.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_bottom_navigation_item_min_width = global::NepalHouse.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_bottom_navigation_margin = global::NepalHouse.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_bottom_navigation_shadow_height = global::NepalHouse.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_bottom_navigation_text_size = global::NepalHouse.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation = global::NepalHouse.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min = global::NepalHouse.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_fab_border_width = global::NepalHouse.Droid.Resource.Dimension.design_fab_border_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_fab_elevation = global::NepalHouse.Droid.Resource.Dimension.design_fab_elevation;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_fab_image_size = global::NepalHouse.Droid.Resource.Dimension.design_fab_image_size;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_fab_size_mini = global::NepalHouse.Droid.Resource.Dimension.design_fab_size_mini;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_fab_size_normal = global::NepalHouse.Droid.Resource.Dimension.design_fab_size_normal;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_fab_translation_z_pressed = global::NepalHouse.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_navigation_elevation = global::NepalHouse.Droid.Resource.Dimension.design_navigation_elevation;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_navigation_icon_padding = global::NepalHouse.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_navigation_icon_size = global::NepalHouse.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_navigation_max_width = global::NepalHouse.Droid.Resource.Dimension.design_navigation_max_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_navigation_padding_bottom = global::NepalHouse.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_navigation_separator_vertical_padding = global::NepalHouse.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_snackbar_action_inline_max_width = global::NepalHouse.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_snackbar_background_corner_radius = global::NepalHouse.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_snackbar_elevation = global::NepalHouse.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::NepalHouse.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_snackbar_max_width = global::NepalHouse.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_snackbar_min_width = global::NepalHouse.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_snackbar_padding_horizontal = global::NepalHouse.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_snackbar_padding_vertical = global::NepalHouse.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::NepalHouse.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_snackbar_text_size = global::NepalHouse.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_tab_max_width = global::NepalHouse.Droid.Resource.Dimension.design_tab_max_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_tab_scrollable_min_width = global::NepalHouse.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_tab_text_size = global::NepalHouse.Droid.Resource.Dimension.design_tab_text_size;
+			global::Plugin.Badge.Droid.Resource.Dimension.design_tab_text_size_2line = global::NepalHouse.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::Plugin.Badge.Droid.Resource.Dimension.disabled_alpha_material_dark = global::NepalHouse.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Plugin.Badge.Droid.Resource.Dimension.disabled_alpha_material_light = global::NepalHouse.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Plugin.Badge.Droid.Resource.Dimension.highlight_alpha_material_colored = global::NepalHouse.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Plugin.Badge.Droid.Resource.Dimension.highlight_alpha_material_dark = global::NepalHouse.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Plugin.Badge.Droid.Resource.Dimension.highlight_alpha_material_light = global::NepalHouse.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Plugin.Badge.Droid.Resource.Dimension.hint_alpha_material_dark = global::NepalHouse.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Plugin.Badge.Droid.Resource.Dimension.hint_alpha_material_light = global::NepalHouse.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Plugin.Badge.Droid.Resource.Dimension.hint_pressed_alpha_material_dark = global::NepalHouse.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Plugin.Badge.Droid.Resource.Dimension.hint_pressed_alpha_material_light = global::NepalHouse.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Plugin.Badge.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::NepalHouse.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Plugin.Badge.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::NepalHouse.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Plugin.Badge.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::NepalHouse.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Plugin.Badge.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height = global::NepalHouse.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height;
+			global::Plugin.Badge.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size = global::NepalHouse.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size;
+			global::Plugin.Badge.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height = global::NepalHouse.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height;
+			global::Plugin.Badge.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top = global::NepalHouse.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top;
+			global::Plugin.Badge.Droid.Resource.Dimension.mr_dialog_fixed_width_major = global::NepalHouse.Droid.Resource.Dimension.mr_dialog_fixed_width_major;
+			global::Plugin.Badge.Droid.Resource.Dimension.mr_dialog_fixed_width_minor = global::NepalHouse.Droid.Resource.Dimension.mr_dialog_fixed_width_minor;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_action_icon_size = global::NepalHouse.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_action_text_size = global::NepalHouse.Droid.Resource.Dimension.notification_action_text_size;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_big_circle_margin = global::NepalHouse.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_content_margin_start = global::NepalHouse.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_large_icon_height = global::NepalHouse.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_large_icon_width = global::NepalHouse.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_main_column_padding_top = global::NepalHouse.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_media_narrow_margin = global::NepalHouse.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_right_icon_size = global::NepalHouse.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_right_side_padding_top = global::NepalHouse.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_small_icon_background_padding = global::NepalHouse.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_small_icon_size_as_large = global::NepalHouse.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_subtext_size = global::NepalHouse.Droid.Resource.Dimension.notification_subtext_size;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_top_pad = global::NepalHouse.Droid.Resource.Dimension.notification_top_pad;
+			global::Plugin.Badge.Droid.Resource.Dimension.notification_top_pad_large_text = global::NepalHouse.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_action_bar_item_background_material = global::NepalHouse.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_btn_borderless_material = global::NepalHouse.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_btn_check_material = global::NepalHouse.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::NepalHouse.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::NepalHouse.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_btn_colored_material = global::NepalHouse.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_btn_default_mtrl_shape = global::NepalHouse.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_btn_radio_material = global::NepalHouse.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::NepalHouse.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::NepalHouse.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::NepalHouse.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::NepalHouse.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_cab_background_internal_bg = global::NepalHouse.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_cab_background_top_material = global::NepalHouse.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_control_background_material = global::NepalHouse.Droid.Resource.Drawable.abc_control_background_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_dialog_material_background = global::NepalHouse.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_edit_text_material = global::NepalHouse.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_ab_back_material = global::NepalHouse.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::NepalHouse.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_clear_material = global::NepalHouse.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_go_search_api_material = global::NepalHouse.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_menu_overflow_material = global::NepalHouse.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_search_api_material = global::NepalHouse.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_star_black_16dp = global::NepalHouse.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_star_black_36dp = global::NepalHouse.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_star_black_48dp = global::NepalHouse.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_star_half_black_16dp = global::NepalHouse.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_star_half_black_36dp = global::NepalHouse.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_star_half_black_48dp = global::NepalHouse.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ic_voice_search_api_material = global::NepalHouse.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_item_background_holo_dark = global::NepalHouse.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_item_background_holo_light = global::NepalHouse.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_list_focused_holo = global::NepalHouse.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_list_longpressed_holo = global::NepalHouse.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_list_pressed_holo_dark = global::NepalHouse.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_list_pressed_holo_light = global::NepalHouse.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::NepalHouse.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::NepalHouse.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::NepalHouse.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light = global::NepalHouse.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_list_selector_holo_dark = global::NepalHouse.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_list_selector_holo_light = global::NepalHouse.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::NepalHouse.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_popup_background_mtrl_mult = global::NepalHouse.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ratingbar_indicator_material = global::NepalHouse.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ratingbar_material = global::NepalHouse.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_ratingbar_small_material = global::NepalHouse.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::NepalHouse.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::NepalHouse.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_seekbar_thumb_material = global::NepalHouse.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_seekbar_tick_mark_material = global::NepalHouse.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_seekbar_track_material = global::NepalHouse.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_spinner_textfield_background_material = global::NepalHouse.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_switch_thumb_material = global::NepalHouse.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_tab_indicator_material = global::NepalHouse.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_text_cursor_material = global::NepalHouse.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::NepalHouse.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::NepalHouse.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::NepalHouse.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::NepalHouse.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::NepalHouse.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::NepalHouse.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::NepalHouse.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_textfield_search_material = global::NepalHouse.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Plugin.Badge.Droid.Resource.Drawable.abc_vector_test = global::NepalHouse.Droid.Resource.Drawable.abc_vector_test;
+			global::Plugin.Badge.Droid.Resource.Drawable.avd_hide_password = global::NepalHouse.Droid.Resource.Drawable.avd_hide_password;
+			global::Plugin.Badge.Droid.Resource.Drawable.avd_hide_password_1 = global::NepalHouse.Droid.Resource.Drawable.avd_hide_password_1;
+			global::Plugin.Badge.Droid.Resource.Drawable.avd_hide_password_2 = global::NepalHouse.Droid.Resource.Drawable.avd_hide_password_2;
+			global::Plugin.Badge.Droid.Resource.Drawable.avd_hide_password_3 = global::NepalHouse.Droid.Resource.Drawable.avd_hide_password_3;
+			global::Plugin.Badge.Droid.Resource.Drawable.avd_show_password = global::NepalHouse.Droid.Resource.Drawable.avd_show_password;
+			global::Plugin.Badge.Droid.Resource.Drawable.avd_show_password_1 = global::NepalHouse.Droid.Resource.Drawable.avd_show_password_1;
+			global::Plugin.Badge.Droid.Resource.Drawable.avd_show_password_2 = global::NepalHouse.Droid.Resource.Drawable.avd_show_password_2;
+			global::Plugin.Badge.Droid.Resource.Drawable.avd_show_password_3 = global::NepalHouse.Droid.Resource.Drawable.avd_show_password_3;
+			global::Plugin.Badge.Droid.Resource.Drawable.design_bottom_navigation_item_background = global::NepalHouse.Droid.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Plugin.Badge.Droid.Resource.Drawable.design_fab_background = global::NepalHouse.Droid.Resource.Drawable.design_fab_background;
+			global::Plugin.Badge.Droid.Resource.Drawable.design_ic_visibility = global::NepalHouse.Droid.Resource.Drawable.design_ic_visibility;
+			global::Plugin.Badge.Droid.Resource.Drawable.design_ic_visibility_off = global::NepalHouse.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::Plugin.Badge.Droid.Resource.Drawable.design_password_eye = global::NepalHouse.Droid.Resource.Drawable.design_password_eye;
+			global::Plugin.Badge.Droid.Resource.Drawable.design_snackbar_background = global::NepalHouse.Droid.Resource.Drawable.design_snackbar_background;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_audiotrack_dark = global::NepalHouse.Droid.Resource.Drawable.ic_audiotrack_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_audiotrack_light = global::NepalHouse.Droid.Resource.Drawable.ic_audiotrack_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_dialog_close_dark = global::NepalHouse.Droid.Resource.Drawable.ic_dialog_close_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_dialog_close_light = global::NepalHouse.Droid.Resource.Drawable.ic_dialog_close_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_00 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_00;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_01 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_01;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_02 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_02;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_03 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_03;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_04 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_04;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_05 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_05;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_06 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_06;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_07 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_07;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_08 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_08;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_09 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_09;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_10 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_10;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_11 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_11;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_12 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_12;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_13 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_13;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_14 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_14;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_collapse_15 = global::NepalHouse.Droid.Resource.Drawable.ic_group_collapse_15;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_00 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_00;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_01 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_01;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_02 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_02;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_03 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_03;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_04 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_04;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_05 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_05;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_06 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_06;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_07 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_07;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_08 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_08;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_09 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_09;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_10 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_10;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_11 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_11;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_12 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_12;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_13 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_13;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_14 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_14;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_group_expand_15 = global::NepalHouse.Droid.Resource.Drawable.ic_group_expand_15;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_media_pause_dark = global::NepalHouse.Droid.Resource.Drawable.ic_media_pause_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_media_pause_light = global::NepalHouse.Droid.Resource.Drawable.ic_media_pause_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_media_play_dark = global::NepalHouse.Droid.Resource.Drawable.ic_media_play_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_media_play_light = global::NepalHouse.Droid.Resource.Drawable.ic_media_play_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_media_stop_dark = global::NepalHouse.Droid.Resource.Drawable.ic_media_stop_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_media_stop_light = global::NepalHouse.Droid.Resource.Drawable.ic_media_stop_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_00_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_00_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_00_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_00_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_01_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_01_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_01_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_01_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_02_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_02_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_02_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_02_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_03_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_03_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_03_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_03_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_04_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_04_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_04_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_04_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_05_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_05_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_05_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_05_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_06_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_06_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_06_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_06_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_07_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_07_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_07_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_07_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_08_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_08_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_08_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_08_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_09_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_09_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_09_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_09_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_10_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_10_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_10_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_10_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_11_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_11_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_11_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_11_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_12_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_12_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_12_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_12_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_13_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_13_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_13_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_13_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_14_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_14_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_14_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_14_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_15_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_15_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_15_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_15_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_16_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_16_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_16_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_16_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_17_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_17_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_17_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_17_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_18_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_18_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_18_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_18_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_19_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_19_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_19_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_19_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_20_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_20_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_20_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_20_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_21_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_21_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_21_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_21_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_22_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_22_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connected_22_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connected_22_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_00_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_00_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_00_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_00_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_01_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_01_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_01_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_01_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_02_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_02_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_02_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_02_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_03_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_03_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_03_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_03_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_04_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_04_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_04_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_04_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_05_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_05_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_05_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_05_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_06_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_06_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_06_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_06_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_07_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_07_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_07_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_07_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_08_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_08_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_08_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_08_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_09_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_09_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_09_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_09_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_10_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_10_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_10_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_10_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_11_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_11_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_11_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_11_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_12_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_12_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_12_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_12_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_13_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_13_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_13_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_13_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_14_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_14_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_14_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_14_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_15_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_15_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_15_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_15_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_16_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_16_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_16_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_16_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_17_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_17_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_17_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_17_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_18_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_18_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_18_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_18_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_19_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_19_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_19_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_19_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_20_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_20_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_20_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_20_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_21_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_21_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_21_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_21_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_22_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_22_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_connecting_22_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_connecting_22_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_disabled_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_disabled_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_disabled_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_disabled_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_disconnected_dark = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_disconnected_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_disconnected_light = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_disconnected_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_mr_button_grey = global::NepalHouse.Droid.Resource.Drawable.ic_mr_button_grey;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_vol_type_speaker_dark = global::NepalHouse.Droid.Resource.Drawable.ic_vol_type_speaker_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_vol_type_speaker_group_dark = global::NepalHouse.Droid.Resource.Drawable.ic_vol_type_speaker_group_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_vol_type_speaker_group_light = global::NepalHouse.Droid.Resource.Drawable.ic_vol_type_speaker_group_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_vol_type_speaker_light = global::NepalHouse.Droid.Resource.Drawable.ic_vol_type_speaker_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_vol_type_tv_dark = global::NepalHouse.Droid.Resource.Drawable.ic_vol_type_tv_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.ic_vol_type_tv_light = global::NepalHouse.Droid.Resource.Drawable.ic_vol_type_tv_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_button_connected_dark = global::NepalHouse.Droid.Resource.Drawable.mr_button_connected_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_button_connected_light = global::NepalHouse.Droid.Resource.Drawable.mr_button_connected_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_button_connecting_dark = global::NepalHouse.Droid.Resource.Drawable.mr_button_connecting_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_button_connecting_light = global::NepalHouse.Droid.Resource.Drawable.mr_button_connecting_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_button_dark = global::NepalHouse.Droid.Resource.Drawable.mr_button_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_button_light = global::NepalHouse.Droid.Resource.Drawable.mr_button_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_dialog_close_dark = global::NepalHouse.Droid.Resource.Drawable.mr_dialog_close_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_dialog_close_light = global::NepalHouse.Droid.Resource.Drawable.mr_dialog_close_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_dialog_material_background_dark = global::NepalHouse.Droid.Resource.Drawable.mr_dialog_material_background_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_dialog_material_background_light = global::NepalHouse.Droid.Resource.Drawable.mr_dialog_material_background_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_group_collapse = global::NepalHouse.Droid.Resource.Drawable.mr_group_collapse;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_group_expand = global::NepalHouse.Droid.Resource.Drawable.mr_group_expand;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_media_pause_dark = global::NepalHouse.Droid.Resource.Drawable.mr_media_pause_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_media_pause_light = global::NepalHouse.Droid.Resource.Drawable.mr_media_pause_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_media_play_dark = global::NepalHouse.Droid.Resource.Drawable.mr_media_play_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_media_play_light = global::NepalHouse.Droid.Resource.Drawable.mr_media_play_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_media_stop_dark = global::NepalHouse.Droid.Resource.Drawable.mr_media_stop_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_media_stop_light = global::NepalHouse.Droid.Resource.Drawable.mr_media_stop_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_vol_type_audiotrack_dark = global::NepalHouse.Droid.Resource.Drawable.mr_vol_type_audiotrack_dark;
+			global::Plugin.Badge.Droid.Resource.Drawable.mr_vol_type_audiotrack_light = global::NepalHouse.Droid.Resource.Drawable.mr_vol_type_audiotrack_light;
+			global::Plugin.Badge.Droid.Resource.Drawable.navigation_empty_icon = global::NepalHouse.Droid.Resource.Drawable.navigation_empty_icon;
+			global::Plugin.Badge.Droid.Resource.Drawable.notification_action_background = global::NepalHouse.Droid.Resource.Drawable.notification_action_background;
+			global::Plugin.Badge.Droid.Resource.Drawable.notification_bg = global::NepalHouse.Droid.Resource.Drawable.notification_bg;
+			global::Plugin.Badge.Droid.Resource.Drawable.notification_bg_low = global::NepalHouse.Droid.Resource.Drawable.notification_bg_low;
+			global::Plugin.Badge.Droid.Resource.Drawable.notification_bg_low_normal = global::NepalHouse.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Plugin.Badge.Droid.Resource.Drawable.notification_bg_low_pressed = global::NepalHouse.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Plugin.Badge.Droid.Resource.Drawable.notification_bg_normal = global::NepalHouse.Droid.Resource.Drawable.notification_bg_normal;
+			global::Plugin.Badge.Droid.Resource.Drawable.notification_bg_normal_pressed = global::NepalHouse.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Plugin.Badge.Droid.Resource.Drawable.notification_icon_background = global::NepalHouse.Droid.Resource.Drawable.notification_icon_background;
+			global::Plugin.Badge.Droid.Resource.Drawable.notification_template_icon_bg = global::NepalHouse.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Plugin.Badge.Droid.Resource.Drawable.notification_template_icon_low_bg = global::NepalHouse.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Plugin.Badge.Droid.Resource.Drawable.notification_tile_bg = global::NepalHouse.Droid.Resource.Drawable.notification_tile_bg;
+			global::Plugin.Badge.Droid.Resource.Drawable.notify_panel_notification_icon_bg = global::NepalHouse.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Plugin.Badge.Droid.Resource.Id.action0 = global::NepalHouse.Droid.Resource.Id.action0;
+			global::Plugin.Badge.Droid.Resource.Id.action_bar = global::NepalHouse.Droid.Resource.Id.action_bar;
+			global::Plugin.Badge.Droid.Resource.Id.action_bar_activity_content = global::NepalHouse.Droid.Resource.Id.action_bar_activity_content;
+			global::Plugin.Badge.Droid.Resource.Id.action_bar_container = global::NepalHouse.Droid.Resource.Id.action_bar_container;
+			global::Plugin.Badge.Droid.Resource.Id.action_bar_root = global::NepalHouse.Droid.Resource.Id.action_bar_root;
+			global::Plugin.Badge.Droid.Resource.Id.action_bar_spinner = global::NepalHouse.Droid.Resource.Id.action_bar_spinner;
+			global::Plugin.Badge.Droid.Resource.Id.action_bar_subtitle = global::NepalHouse.Droid.Resource.Id.action_bar_subtitle;
+			global::Plugin.Badge.Droid.Resource.Id.action_bar_title = global::NepalHouse.Droid.Resource.Id.action_bar_title;
+			global::Plugin.Badge.Droid.Resource.Id.action_container = global::NepalHouse.Droid.Resource.Id.action_container;
+			global::Plugin.Badge.Droid.Resource.Id.action_context_bar = global::NepalHouse.Droid.Resource.Id.action_context_bar;
+			global::Plugin.Badge.Droid.Resource.Id.action_divider = global::NepalHouse.Droid.Resource.Id.action_divider;
+			global::Plugin.Badge.Droid.Resource.Id.action_image = global::NepalHouse.Droid.Resource.Id.action_image;
+			global::Plugin.Badge.Droid.Resource.Id.action_menu_divider = global::NepalHouse.Droid.Resource.Id.action_menu_divider;
+			global::Plugin.Badge.Droid.Resource.Id.action_menu_presenter = global::NepalHouse.Droid.Resource.Id.action_menu_presenter;
+			global::Plugin.Badge.Droid.Resource.Id.action_mode_bar = global::NepalHouse.Droid.Resource.Id.action_mode_bar;
+			global::Plugin.Badge.Droid.Resource.Id.action_mode_bar_stub = global::NepalHouse.Droid.Resource.Id.action_mode_bar_stub;
+			global::Plugin.Badge.Droid.Resource.Id.action_mode_close_button = global::NepalHouse.Droid.Resource.Id.action_mode_close_button;
+			global::Plugin.Badge.Droid.Resource.Id.action_text = global::NepalHouse.Droid.Resource.Id.action_text;
+			global::Plugin.Badge.Droid.Resource.Id.actions = global::NepalHouse.Droid.Resource.Id.actions;
+			global::Plugin.Badge.Droid.Resource.Id.activity_chooser_view_content = global::NepalHouse.Droid.Resource.Id.activity_chooser_view_content;
+			global::Plugin.Badge.Droid.Resource.Id.add = global::NepalHouse.Droid.Resource.Id.add;
+			global::Plugin.Badge.Droid.Resource.Id.alertTitle = global::NepalHouse.Droid.Resource.Id.alertTitle;
+			global::Plugin.Badge.Droid.Resource.Id.all = global::NepalHouse.Droid.Resource.Id.all;
+			global::Plugin.Badge.Droid.Resource.Id.always = global::NepalHouse.Droid.Resource.Id.always;
+			global::Plugin.Badge.Droid.Resource.Id.auto = global::NepalHouse.Droid.Resource.Id.auto;
+			global::Plugin.Badge.Droid.Resource.Id.beginning = global::NepalHouse.Droid.Resource.Id.beginning;
+			global::Plugin.Badge.Droid.Resource.Id.bottom = global::NepalHouse.Droid.Resource.Id.bottom;
+			global::Plugin.Badge.Droid.Resource.Id.buttonPanel = global::NepalHouse.Droid.Resource.Id.buttonPanel;
+			global::Plugin.Badge.Droid.Resource.Id.cancel_action = global::NepalHouse.Droid.Resource.Id.cancel_action;
+			global::Plugin.Badge.Droid.Resource.Id.center = global::NepalHouse.Droid.Resource.Id.center;
+			global::Plugin.Badge.Droid.Resource.Id.center_horizontal = global::NepalHouse.Droid.Resource.Id.center_horizontal;
+			global::Plugin.Badge.Droid.Resource.Id.center_vertical = global::NepalHouse.Droid.Resource.Id.center_vertical;
+			global::Plugin.Badge.Droid.Resource.Id.checkbox = global::NepalHouse.Droid.Resource.Id.checkbox;
+			global::Plugin.Badge.Droid.Resource.Id.chronometer = global::NepalHouse.Droid.Resource.Id.chronometer;
+			global::Plugin.Badge.Droid.Resource.Id.clip_horizontal = global::NepalHouse.Droid.Resource.Id.clip_horizontal;
+			global::Plugin.Badge.Droid.Resource.Id.clip_vertical = global::NepalHouse.Droid.Resource.Id.clip_vertical;
+			global::Plugin.Badge.Droid.Resource.Id.collapseActionView = global::NepalHouse.Droid.Resource.Id.collapseActionView;
+			global::Plugin.Badge.Droid.Resource.Id.contentPanel = global::NepalHouse.Droid.Resource.Id.contentPanel;
+			global::Plugin.Badge.Droid.Resource.Id.custom = global::NepalHouse.Droid.Resource.Id.custom;
+			global::Plugin.Badge.Droid.Resource.Id.customPanel = global::NepalHouse.Droid.Resource.Id.customPanel;
+			global::Plugin.Badge.Droid.Resource.Id.decor_content_parent = global::NepalHouse.Droid.Resource.Id.decor_content_parent;
+			global::Plugin.Badge.Droid.Resource.Id.default_activity_button = global::NepalHouse.Droid.Resource.Id.default_activity_button;
+			global::Plugin.Badge.Droid.Resource.Id.design_bottom_sheet = global::NepalHouse.Droid.Resource.Id.design_bottom_sheet;
+			global::Plugin.Badge.Droid.Resource.Id.design_menu_item_action_area = global::NepalHouse.Droid.Resource.Id.design_menu_item_action_area;
+			global::Plugin.Badge.Droid.Resource.Id.design_menu_item_action_area_stub = global::NepalHouse.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::Plugin.Badge.Droid.Resource.Id.design_menu_item_text = global::NepalHouse.Droid.Resource.Id.design_menu_item_text;
+			global::Plugin.Badge.Droid.Resource.Id.design_navigation_view = global::NepalHouse.Droid.Resource.Id.design_navigation_view;
+			global::Plugin.Badge.Droid.Resource.Id.disableHome = global::NepalHouse.Droid.Resource.Id.disableHome;
+			global::Plugin.Badge.Droid.Resource.Id.edit_query = global::NepalHouse.Droid.Resource.Id.edit_query;
+			global::Plugin.Badge.Droid.Resource.Id.end = global::NepalHouse.Droid.Resource.Id.end;
+			global::Plugin.Badge.Droid.Resource.Id.end_padder = global::NepalHouse.Droid.Resource.Id.end_padder;
+			global::Plugin.Badge.Droid.Resource.Id.enterAlways = global::NepalHouse.Droid.Resource.Id.enterAlways;
+			global::Plugin.Badge.Droid.Resource.Id.enterAlwaysCollapsed = global::NepalHouse.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::Plugin.Badge.Droid.Resource.Id.exitUntilCollapsed = global::NepalHouse.Droid.Resource.Id.exitUntilCollapsed;
+			global::Plugin.Badge.Droid.Resource.Id.expand_activities_button = global::NepalHouse.Droid.Resource.Id.expand_activities_button;
+			global::Plugin.Badge.Droid.Resource.Id.expanded_menu = global::NepalHouse.Droid.Resource.Id.expanded_menu;
+			global::Plugin.Badge.Droid.Resource.Id.fill = global::NepalHouse.Droid.Resource.Id.fill;
+			global::Plugin.Badge.Droid.Resource.Id.fill_horizontal = global::NepalHouse.Droid.Resource.Id.fill_horizontal;
+			global::Plugin.Badge.Droid.Resource.Id.fill_vertical = global::NepalHouse.Droid.Resource.Id.fill_vertical;
+			global::Plugin.Badge.Droid.Resource.Id.@fixed = global::NepalHouse.Droid.Resource.Id.@fixed;
+			global::Plugin.Badge.Droid.Resource.Id.home = global::NepalHouse.Droid.Resource.Id.home;
+			global::Plugin.Badge.Droid.Resource.Id.homeAsUp = global::NepalHouse.Droid.Resource.Id.homeAsUp;
+			global::Plugin.Badge.Droid.Resource.Id.icon = global::NepalHouse.Droid.Resource.Id.icon;
+			global::Plugin.Badge.Droid.Resource.Id.icon_group = global::NepalHouse.Droid.Resource.Id.icon_group;
+			global::Plugin.Badge.Droid.Resource.Id.ifRoom = global::NepalHouse.Droid.Resource.Id.ifRoom;
+			global::Plugin.Badge.Droid.Resource.Id.image = global::NepalHouse.Droid.Resource.Id.image;
+			global::Plugin.Badge.Droid.Resource.Id.info = global::NepalHouse.Droid.Resource.Id.info;
+			global::Plugin.Badge.Droid.Resource.Id.item_touch_helper_previous_elevation = global::NepalHouse.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::Plugin.Badge.Droid.Resource.Id.largeLabel = global::NepalHouse.Droid.Resource.Id.largeLabel;
+			global::Plugin.Badge.Droid.Resource.Id.left = global::NepalHouse.Droid.Resource.Id.left;
+			global::Plugin.Badge.Droid.Resource.Id.line1 = global::NepalHouse.Droid.Resource.Id.line1;
+			global::Plugin.Badge.Droid.Resource.Id.line3 = global::NepalHouse.Droid.Resource.Id.line3;
+			global::Plugin.Badge.Droid.Resource.Id.listMode = global::NepalHouse.Droid.Resource.Id.listMode;
+			global::Plugin.Badge.Droid.Resource.Id.list_item = global::NepalHouse.Droid.Resource.Id.list_item;
+			global::Plugin.Badge.Droid.Resource.Id.masked = global::NepalHouse.Droid.Resource.Id.masked;
+			global::Plugin.Badge.Droid.Resource.Id.media_actions = global::NepalHouse.Droid.Resource.Id.media_actions;
+			global::Plugin.Badge.Droid.Resource.Id.middle = global::NepalHouse.Droid.Resource.Id.middle;
+			global::Plugin.Badge.Droid.Resource.Id.mini = global::NepalHouse.Droid.Resource.Id.mini;
+			global::Plugin.Badge.Droid.Resource.Id.mr_art = global::NepalHouse.Droid.Resource.Id.mr_art;
+			global::Plugin.Badge.Droid.Resource.Id.mr_chooser_list = global::NepalHouse.Droid.Resource.Id.mr_chooser_list;
+			global::Plugin.Badge.Droid.Resource.Id.mr_chooser_route_desc = global::NepalHouse.Droid.Resource.Id.mr_chooser_route_desc;
+			global::Plugin.Badge.Droid.Resource.Id.mr_chooser_route_icon = global::NepalHouse.Droid.Resource.Id.mr_chooser_route_icon;
+			global::Plugin.Badge.Droid.Resource.Id.mr_chooser_route_name = global::NepalHouse.Droid.Resource.Id.mr_chooser_route_name;
+			global::Plugin.Badge.Droid.Resource.Id.mr_chooser_title = global::NepalHouse.Droid.Resource.Id.mr_chooser_title;
+			global::Plugin.Badge.Droid.Resource.Id.mr_close = global::NepalHouse.Droid.Resource.Id.mr_close;
+			global::Plugin.Badge.Droid.Resource.Id.mr_control_divider = global::NepalHouse.Droid.Resource.Id.mr_control_divider;
+			global::Plugin.Badge.Droid.Resource.Id.mr_control_playback_ctrl = global::NepalHouse.Droid.Resource.Id.mr_control_playback_ctrl;
+			global::Plugin.Badge.Droid.Resource.Id.mr_control_subtitle = global::NepalHouse.Droid.Resource.Id.mr_control_subtitle;
+			global::Plugin.Badge.Droid.Resource.Id.mr_control_title = global::NepalHouse.Droid.Resource.Id.mr_control_title;
+			global::Plugin.Badge.Droid.Resource.Id.mr_control_title_container = global::NepalHouse.Droid.Resource.Id.mr_control_title_container;
+			global::Plugin.Badge.Droid.Resource.Id.mr_custom_control = global::NepalHouse.Droid.Resource.Id.mr_custom_control;
+			global::Plugin.Badge.Droid.Resource.Id.mr_default_control = global::NepalHouse.Droid.Resource.Id.mr_default_control;
+			global::Plugin.Badge.Droid.Resource.Id.mr_dialog_area = global::NepalHouse.Droid.Resource.Id.mr_dialog_area;
+			global::Plugin.Badge.Droid.Resource.Id.mr_expandable_area = global::NepalHouse.Droid.Resource.Id.mr_expandable_area;
+			global::Plugin.Badge.Droid.Resource.Id.mr_group_expand_collapse = global::NepalHouse.Droid.Resource.Id.mr_group_expand_collapse;
+			global::Plugin.Badge.Droid.Resource.Id.mr_media_main_control = global::NepalHouse.Droid.Resource.Id.mr_media_main_control;
+			global::Plugin.Badge.Droid.Resource.Id.mr_name = global::NepalHouse.Droid.Resource.Id.mr_name;
+			global::Plugin.Badge.Droid.Resource.Id.mr_playback_control = global::NepalHouse.Droid.Resource.Id.mr_playback_control;
+			global::Plugin.Badge.Droid.Resource.Id.mr_title_bar = global::NepalHouse.Droid.Resource.Id.mr_title_bar;
+			global::Plugin.Badge.Droid.Resource.Id.mr_volume_control = global::NepalHouse.Droid.Resource.Id.mr_volume_control;
+			global::Plugin.Badge.Droid.Resource.Id.mr_volume_group_list = global::NepalHouse.Droid.Resource.Id.mr_volume_group_list;
+			global::Plugin.Badge.Droid.Resource.Id.mr_volume_item_icon = global::NepalHouse.Droid.Resource.Id.mr_volume_item_icon;
+			global::Plugin.Badge.Droid.Resource.Id.mr_volume_slider = global::NepalHouse.Droid.Resource.Id.mr_volume_slider;
+			global::Plugin.Badge.Droid.Resource.Id.multiply = global::NepalHouse.Droid.Resource.Id.multiply;
+			global::Plugin.Badge.Droid.Resource.Id.navigation_header_container = global::NepalHouse.Droid.Resource.Id.navigation_header_container;
+			global::Plugin.Badge.Droid.Resource.Id.never = global::NepalHouse.Droid.Resource.Id.never;
+			global::Plugin.Badge.Droid.Resource.Id.none = global::NepalHouse.Droid.Resource.Id.none;
+			global::Plugin.Badge.Droid.Resource.Id.normal = global::NepalHouse.Droid.Resource.Id.normal;
+			global::Plugin.Badge.Droid.Resource.Id.notification_background = global::NepalHouse.Droid.Resource.Id.notification_background;
+			global::Plugin.Badge.Droid.Resource.Id.notification_main_column = global::NepalHouse.Droid.Resource.Id.notification_main_column;
+			global::Plugin.Badge.Droid.Resource.Id.notification_main_column_container = global::NepalHouse.Droid.Resource.Id.notification_main_column_container;
+			global::Plugin.Badge.Droid.Resource.Id.parallax = global::NepalHouse.Droid.Resource.Id.parallax;
+			global::Plugin.Badge.Droid.Resource.Id.parentPanel = global::NepalHouse.Droid.Resource.Id.parentPanel;
+			global::Plugin.Badge.Droid.Resource.Id.pin = global::NepalHouse.Droid.Resource.Id.pin;
+			global::Plugin.Badge.Droid.Resource.Id.progress_circular = global::NepalHouse.Droid.Resource.Id.progress_circular;
+			global::Plugin.Badge.Droid.Resource.Id.progress_horizontal = global::NepalHouse.Droid.Resource.Id.progress_horizontal;
+			global::Plugin.Badge.Droid.Resource.Id.radio = global::NepalHouse.Droid.Resource.Id.radio;
+			global::Plugin.Badge.Droid.Resource.Id.right = global::NepalHouse.Droid.Resource.Id.right;
+			global::Plugin.Badge.Droid.Resource.Id.right_icon = global::NepalHouse.Droid.Resource.Id.right_icon;
+			global::Plugin.Badge.Droid.Resource.Id.right_side = global::NepalHouse.Droid.Resource.Id.right_side;
+			global::Plugin.Badge.Droid.Resource.Id.screen = global::NepalHouse.Droid.Resource.Id.screen;
+			global::Plugin.Badge.Droid.Resource.Id.scroll = global::NepalHouse.Droid.Resource.Id.scroll;
+			global::Plugin.Badge.Droid.Resource.Id.scrollIndicatorDown = global::NepalHouse.Droid.Resource.Id.scrollIndicatorDown;
+			global::Plugin.Badge.Droid.Resource.Id.scrollIndicatorUp = global::NepalHouse.Droid.Resource.Id.scrollIndicatorUp;
+			global::Plugin.Badge.Droid.Resource.Id.scrollView = global::NepalHouse.Droid.Resource.Id.scrollView;
+			global::Plugin.Badge.Droid.Resource.Id.scrollable = global::NepalHouse.Droid.Resource.Id.scrollable;
+			global::Plugin.Badge.Droid.Resource.Id.search_badge = global::NepalHouse.Droid.Resource.Id.search_badge;
+			global::Plugin.Badge.Droid.Resource.Id.search_bar = global::NepalHouse.Droid.Resource.Id.search_bar;
+			global::Plugin.Badge.Droid.Resource.Id.search_button = global::NepalHouse.Droid.Resource.Id.search_button;
+			global::Plugin.Badge.Droid.Resource.Id.search_close_btn = global::NepalHouse.Droid.Resource.Id.search_close_btn;
+			global::Plugin.Badge.Droid.Resource.Id.search_edit_frame = global::NepalHouse.Droid.Resource.Id.search_edit_frame;
+			global::Plugin.Badge.Droid.Resource.Id.search_go_btn = global::NepalHouse.Droid.Resource.Id.search_go_btn;
+			global::Plugin.Badge.Droid.Resource.Id.search_mag_icon = global::NepalHouse.Droid.Resource.Id.search_mag_icon;
+			global::Plugin.Badge.Droid.Resource.Id.search_plate = global::NepalHouse.Droid.Resource.Id.search_plate;
+			global::Plugin.Badge.Droid.Resource.Id.search_src_text = global::NepalHouse.Droid.Resource.Id.search_src_text;
+			global::Plugin.Badge.Droid.Resource.Id.search_voice_btn = global::NepalHouse.Droid.Resource.Id.search_voice_btn;
+			global::Plugin.Badge.Droid.Resource.Id.select_dialog_listview = global::NepalHouse.Droid.Resource.Id.select_dialog_listview;
+			global::Plugin.Badge.Droid.Resource.Id.shortcut = global::NepalHouse.Droid.Resource.Id.shortcut;
+			global::Plugin.Badge.Droid.Resource.Id.showCustom = global::NepalHouse.Droid.Resource.Id.showCustom;
+			global::Plugin.Badge.Droid.Resource.Id.showHome = global::NepalHouse.Droid.Resource.Id.showHome;
+			global::Plugin.Badge.Droid.Resource.Id.showTitle = global::NepalHouse.Droid.Resource.Id.showTitle;
+			global::Plugin.Badge.Droid.Resource.Id.smallLabel = global::NepalHouse.Droid.Resource.Id.smallLabel;
+			global::Plugin.Badge.Droid.Resource.Id.snackbar_action = global::NepalHouse.Droid.Resource.Id.snackbar_action;
+			global::Plugin.Badge.Droid.Resource.Id.snackbar_text = global::NepalHouse.Droid.Resource.Id.snackbar_text;
+			global::Plugin.Badge.Droid.Resource.Id.snap = global::NepalHouse.Droid.Resource.Id.snap;
+			global::Plugin.Badge.Droid.Resource.Id.spacer = global::NepalHouse.Droid.Resource.Id.spacer;
+			global::Plugin.Badge.Droid.Resource.Id.split_action_bar = global::NepalHouse.Droid.Resource.Id.split_action_bar;
+			global::Plugin.Badge.Droid.Resource.Id.src_atop = global::NepalHouse.Droid.Resource.Id.src_atop;
+			global::Plugin.Badge.Droid.Resource.Id.src_in = global::NepalHouse.Droid.Resource.Id.src_in;
+			global::Plugin.Badge.Droid.Resource.Id.src_over = global::NepalHouse.Droid.Resource.Id.src_over;
+			global::Plugin.Badge.Droid.Resource.Id.start = global::NepalHouse.Droid.Resource.Id.start;
+			global::Plugin.Badge.Droid.Resource.Id.status_bar_latest_event_content = global::NepalHouse.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Plugin.Badge.Droid.Resource.Id.submenuarrow = global::NepalHouse.Droid.Resource.Id.submenuarrow;
+			global::Plugin.Badge.Droid.Resource.Id.submit_area = global::NepalHouse.Droid.Resource.Id.submit_area;
+			global::Plugin.Badge.Droid.Resource.Id.tabMode = global::NepalHouse.Droid.Resource.Id.tabMode;
+			global::Plugin.Badge.Droid.Resource.Id.text = global::NepalHouse.Droid.Resource.Id.text;
+			global::Plugin.Badge.Droid.Resource.Id.text2 = global::NepalHouse.Droid.Resource.Id.text2;
+			global::Plugin.Badge.Droid.Resource.Id.textSpacerNoButtons = global::NepalHouse.Droid.Resource.Id.textSpacerNoButtons;
+			global::Plugin.Badge.Droid.Resource.Id.textSpacerNoTitle = global::NepalHouse.Droid.Resource.Id.textSpacerNoTitle;
+			global::Plugin.Badge.Droid.Resource.Id.text_input_password_toggle = global::NepalHouse.Droid.Resource.Id.text_input_password_toggle;
+			global::Plugin.Badge.Droid.Resource.Id.textinput_counter = global::NepalHouse.Droid.Resource.Id.textinput_counter;
+			global::Plugin.Badge.Droid.Resource.Id.textinput_error = global::NepalHouse.Droid.Resource.Id.textinput_error;
+			global::Plugin.Badge.Droid.Resource.Id.time = global::NepalHouse.Droid.Resource.Id.time;
+			global::Plugin.Badge.Droid.Resource.Id.title = global::NepalHouse.Droid.Resource.Id.title;
+			global::Plugin.Badge.Droid.Resource.Id.titleDividerNoCustom = global::NepalHouse.Droid.Resource.Id.titleDividerNoCustom;
+			global::Plugin.Badge.Droid.Resource.Id.title_template = global::NepalHouse.Droid.Resource.Id.title_template;
+			global::Plugin.Badge.Droid.Resource.Id.top = global::NepalHouse.Droid.Resource.Id.top;
+			global::Plugin.Badge.Droid.Resource.Id.topPanel = global::NepalHouse.Droid.Resource.Id.topPanel;
+			global::Plugin.Badge.Droid.Resource.Id.touch_outside = global::NepalHouse.Droid.Resource.Id.touch_outside;
+			global::Plugin.Badge.Droid.Resource.Id.transition_current_scene = global::NepalHouse.Droid.Resource.Id.transition_current_scene;
+			global::Plugin.Badge.Droid.Resource.Id.transition_scene_layoutid_cache = global::NepalHouse.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::Plugin.Badge.Droid.Resource.Id.up = global::NepalHouse.Droid.Resource.Id.up;
+			global::Plugin.Badge.Droid.Resource.Id.useLogo = global::NepalHouse.Droid.Resource.Id.useLogo;
+			global::Plugin.Badge.Droid.Resource.Id.view_offset_helper = global::NepalHouse.Droid.Resource.Id.view_offset_helper;
+			global::Plugin.Badge.Droid.Resource.Id.visible = global::NepalHouse.Droid.Resource.Id.visible;
+			global::Plugin.Badge.Droid.Resource.Id.volume_item_container = global::NepalHouse.Droid.Resource.Id.volume_item_container;
+			global::Plugin.Badge.Droid.Resource.Id.withText = global::NepalHouse.Droid.Resource.Id.withText;
+			global::Plugin.Badge.Droid.Resource.Id.wrap_content = global::NepalHouse.Droid.Resource.Id.wrap_content;
+			global::Plugin.Badge.Droid.Resource.Integer.abc_config_activityDefaultDur = global::NepalHouse.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Plugin.Badge.Droid.Resource.Integer.abc_config_activityShortDur = global::NepalHouse.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Plugin.Badge.Droid.Resource.Integer.app_bar_elevation_anim_duration = global::NepalHouse.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Plugin.Badge.Droid.Resource.Integer.bottom_sheet_slide_duration = global::NepalHouse.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::Plugin.Badge.Droid.Resource.Integer.cancel_button_image_alpha = global::NepalHouse.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Plugin.Badge.Droid.Resource.Integer.design_snackbar_text_max_lines = global::NepalHouse.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::Plugin.Badge.Droid.Resource.Integer.hide_password_duration = global::NepalHouse.Droid.Resource.Integer.hide_password_duration;
+			global::Plugin.Badge.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms = global::NepalHouse.Droid.Resource.Integer.mr_controller_volume_group_list_animation_duration_ms;
+			global::Plugin.Badge.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms = global::NepalHouse.Droid.Resource.Integer.mr_controller_volume_group_list_fade_in_duration_ms;
+			global::Plugin.Badge.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms = global::NepalHouse.Droid.Resource.Integer.mr_controller_volume_group_list_fade_out_duration_ms;
+			global::Plugin.Badge.Droid.Resource.Integer.show_password_duration = global::NepalHouse.Droid.Resource.Integer.show_password_duration;
+			global::Plugin.Badge.Droid.Resource.Integer.status_bar_notification_info_maxnum = global::NepalHouse.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Plugin.Badge.Droid.Resource.Interpolator.mr_fast_out_slow_in = global::NepalHouse.Droid.Resource.Interpolator.mr_fast_out_slow_in;
+			global::Plugin.Badge.Droid.Resource.Interpolator.mr_linear_out_slow_in = global::NepalHouse.Droid.Resource.Interpolator.mr_linear_out_slow_in;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_action_bar_title_item = global::NepalHouse.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_action_bar_up_container = global::NepalHouse.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout = global::NepalHouse.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_action_menu_item_layout = global::NepalHouse.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_action_menu_layout = global::NepalHouse.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_action_mode_bar = global::NepalHouse.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_action_mode_close_item_material = global::NepalHouse.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_activity_chooser_view = global::NepalHouse.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_activity_chooser_view_list_item = global::NepalHouse.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_alert_dialog_button_bar_material = global::NepalHouse.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_alert_dialog_material = global::NepalHouse.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_alert_dialog_title_material = global::NepalHouse.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_dialog_title_material = global::NepalHouse.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_expanded_menu_layout = global::NepalHouse.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_list_menu_item_checkbox = global::NepalHouse.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_list_menu_item_icon = global::NepalHouse.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_list_menu_item_layout = global::NepalHouse.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_list_menu_item_radio = global::NepalHouse.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_popup_menu_header_item_layout = global::NepalHouse.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_popup_menu_item_layout = global::NepalHouse.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_screen_content_include = global::NepalHouse.Droid.Resource.Layout.abc_screen_content_include;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_screen_simple = global::NepalHouse.Droid.Resource.Layout.abc_screen_simple;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode = global::NepalHouse.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_screen_toolbar = global::NepalHouse.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line = global::NepalHouse.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_search_view = global::NepalHouse.Droid.Resource.Layout.abc_search_view;
+			global::Plugin.Badge.Droid.Resource.Layout.abc_select_dialog_material = global::NepalHouse.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Plugin.Badge.Droid.Resource.Layout.design_bottom_navigation_item = global::NepalHouse.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::Plugin.Badge.Droid.Resource.Layout.design_bottom_sheet_dialog = global::NepalHouse.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::Plugin.Badge.Droid.Resource.Layout.design_layout_snackbar = global::NepalHouse.Droid.Resource.Layout.design_layout_snackbar;
+			global::Plugin.Badge.Droid.Resource.Layout.design_layout_snackbar_include = global::NepalHouse.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::Plugin.Badge.Droid.Resource.Layout.design_layout_tab_icon = global::NepalHouse.Droid.Resource.Layout.design_layout_tab_icon;
+			global::Plugin.Badge.Droid.Resource.Layout.design_layout_tab_text = global::NepalHouse.Droid.Resource.Layout.design_layout_tab_text;
+			global::Plugin.Badge.Droid.Resource.Layout.design_menu_item_action_area = global::NepalHouse.Droid.Resource.Layout.design_menu_item_action_area;
+			global::Plugin.Badge.Droid.Resource.Layout.design_navigation_item = global::NepalHouse.Droid.Resource.Layout.design_navigation_item;
+			global::Plugin.Badge.Droid.Resource.Layout.design_navigation_item_header = global::NepalHouse.Droid.Resource.Layout.design_navigation_item_header;
+			global::Plugin.Badge.Droid.Resource.Layout.design_navigation_item_separator = global::NepalHouse.Droid.Resource.Layout.design_navigation_item_separator;
+			global::Plugin.Badge.Droid.Resource.Layout.design_navigation_item_subheader = global::NepalHouse.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::Plugin.Badge.Droid.Resource.Layout.design_navigation_menu = global::NepalHouse.Droid.Resource.Layout.design_navigation_menu;
+			global::Plugin.Badge.Droid.Resource.Layout.design_navigation_menu_item = global::NepalHouse.Droid.Resource.Layout.design_navigation_menu_item;
+			global::Plugin.Badge.Droid.Resource.Layout.design_text_input_password_icon = global::NepalHouse.Droid.Resource.Layout.design_text_input_password_icon;
+			global::Plugin.Badge.Droid.Resource.Layout.mr_chooser_dialog = global::NepalHouse.Droid.Resource.Layout.mr_chooser_dialog;
+			global::Plugin.Badge.Droid.Resource.Layout.mr_chooser_list_item = global::NepalHouse.Droid.Resource.Layout.mr_chooser_list_item;
+			global::Plugin.Badge.Droid.Resource.Layout.mr_controller_material_dialog_b = global::NepalHouse.Droid.Resource.Layout.mr_controller_material_dialog_b;
+			global::Plugin.Badge.Droid.Resource.Layout.mr_controller_volume_item = global::NepalHouse.Droid.Resource.Layout.mr_controller_volume_item;
+			global::Plugin.Badge.Droid.Resource.Layout.mr_playback_control = global::NepalHouse.Droid.Resource.Layout.mr_playback_control;
+			global::Plugin.Badge.Droid.Resource.Layout.mr_volume_control = global::NepalHouse.Droid.Resource.Layout.mr_volume_control;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_action = global::NepalHouse.Droid.Resource.Layout.notification_action;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_action_tombstone = global::NepalHouse.Droid.Resource.Layout.notification_action_tombstone;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_media_action = global::NepalHouse.Droid.Resource.Layout.notification_media_action;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_media_cancel_action = global::NepalHouse.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_template_big_media = global::NepalHouse.Droid.Resource.Layout.notification_template_big_media;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_template_big_media_custom = global::NepalHouse.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_template_big_media_narrow = global::NepalHouse.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_template_big_media_narrow_custom = global::NepalHouse.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_template_custom_big = global::NepalHouse.Droid.Resource.Layout.notification_template_custom_big;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_template_icon_group = global::NepalHouse.Droid.Resource.Layout.notification_template_icon_group;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_template_lines_media = global::NepalHouse.Droid.Resource.Layout.notification_template_lines_media;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_template_media = global::NepalHouse.Droid.Resource.Layout.notification_template_media;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_template_media_custom = global::NepalHouse.Droid.Resource.Layout.notification_template_media_custom;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_template_part_chronometer = global::NepalHouse.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Plugin.Badge.Droid.Resource.Layout.notification_template_part_time = global::NepalHouse.Droid.Resource.Layout.notification_template_part_time;
+			global::Plugin.Badge.Droid.Resource.Layout.select_dialog_item_material = global::NepalHouse.Droid.Resource.Layout.select_dialog_item_material;
+			global::Plugin.Badge.Droid.Resource.Layout.select_dialog_multichoice_material = global::NepalHouse.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Plugin.Badge.Droid.Resource.Layout.select_dialog_singlechoice_material = global::NepalHouse.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Plugin.Badge.Droid.Resource.Layout.support_simple_spinner_dropdown_item = global::NepalHouse.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Plugin.Badge.Droid.Resource.String.abc_action_bar_home_description = global::NepalHouse.Droid.Resource.String.abc_action_bar_home_description;
+			global::Plugin.Badge.Droid.Resource.String.abc_action_bar_home_description_format = global::NepalHouse.Droid.Resource.String.abc_action_bar_home_description_format;
+			global::Plugin.Badge.Droid.Resource.String.abc_action_bar_home_subtitle_description_format = global::NepalHouse.Droid.Resource.String.abc_action_bar_home_subtitle_description_format;
+			global::Plugin.Badge.Droid.Resource.String.abc_action_bar_up_description = global::NepalHouse.Droid.Resource.String.abc_action_bar_up_description;
+			global::Plugin.Badge.Droid.Resource.String.abc_action_menu_overflow_description = global::NepalHouse.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Plugin.Badge.Droid.Resource.String.abc_action_mode_done = global::NepalHouse.Droid.Resource.String.abc_action_mode_done;
+			global::Plugin.Badge.Droid.Resource.String.abc_activity_chooser_view_see_all = global::NepalHouse.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Plugin.Badge.Droid.Resource.String.abc_activitychooserview_choose_application = global::NepalHouse.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Plugin.Badge.Droid.Resource.String.abc_capital_off = global::NepalHouse.Droid.Resource.String.abc_capital_off;
+			global::Plugin.Badge.Droid.Resource.String.abc_capital_on = global::NepalHouse.Droid.Resource.String.abc_capital_on;
+			global::Plugin.Badge.Droid.Resource.String.abc_font_family_body_1_material = global::NepalHouse.Droid.Resource.String.abc_font_family_body_1_material;
+			global::Plugin.Badge.Droid.Resource.String.abc_font_family_body_2_material = global::NepalHouse.Droid.Resource.String.abc_font_family_body_2_material;
+			global::Plugin.Badge.Droid.Resource.String.abc_font_family_button_material = global::NepalHouse.Droid.Resource.String.abc_font_family_button_material;
+			global::Plugin.Badge.Droid.Resource.String.abc_font_family_caption_material = global::NepalHouse.Droid.Resource.String.abc_font_family_caption_material;
+			global::Plugin.Badge.Droid.Resource.String.abc_font_family_display_1_material = global::NepalHouse.Droid.Resource.String.abc_font_family_display_1_material;
+			global::Plugin.Badge.Droid.Resource.String.abc_font_family_display_2_material = global::NepalHouse.Droid.Resource.String.abc_font_family_display_2_material;
+			global::Plugin.Badge.Droid.Resource.String.abc_font_family_display_3_material = global::NepalHouse.Droid.Resource.String.abc_font_family_display_3_material;
+			global::Plugin.Badge.Droid.Resource.String.abc_font_family_display_4_material = global::NepalHouse.Droid.Resource.String.abc_font_family_display_4_material;
+			global::Plugin.Badge.Droid.Resource.String.abc_font_family_headline_material = global::NepalHouse.Droid.Resource.String.abc_font_family_headline_material;
+			global::Plugin.Badge.Droid.Resource.String.abc_font_family_menu_material = global::NepalHouse.Droid.Resource.String.abc_font_family_menu_material;
+			global::Plugin.Badge.Droid.Resource.String.abc_font_family_subhead_material = global::NepalHouse.Droid.Resource.String.abc_font_family_subhead_material;
+			global::Plugin.Badge.Droid.Resource.String.abc_font_family_title_material = global::NepalHouse.Droid.Resource.String.abc_font_family_title_material;
+			global::Plugin.Badge.Droid.Resource.String.abc_search_hint = global::NepalHouse.Droid.Resource.String.abc_search_hint;
+			global::Plugin.Badge.Droid.Resource.String.abc_searchview_description_clear = global::NepalHouse.Droid.Resource.String.abc_searchview_description_clear;
+			global::Plugin.Badge.Droid.Resource.String.abc_searchview_description_query = global::NepalHouse.Droid.Resource.String.abc_searchview_description_query;
+			global::Plugin.Badge.Droid.Resource.String.abc_searchview_description_search = global::NepalHouse.Droid.Resource.String.abc_searchview_description_search;
+			global::Plugin.Badge.Droid.Resource.String.abc_searchview_description_submit = global::NepalHouse.Droid.Resource.String.abc_searchview_description_submit;
+			global::Plugin.Badge.Droid.Resource.String.abc_searchview_description_voice = global::NepalHouse.Droid.Resource.String.abc_searchview_description_voice;
+			global::Plugin.Badge.Droid.Resource.String.abc_shareactionprovider_share_with = global::NepalHouse.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Plugin.Badge.Droid.Resource.String.abc_shareactionprovider_share_with_application = global::NepalHouse.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Plugin.Badge.Droid.Resource.String.abc_toolbar_collapse_description = global::NepalHouse.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Plugin.Badge.Droid.Resource.String.appbar_scrolling_view_behavior = global::NepalHouse.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::Plugin.Badge.Droid.Resource.String.bottom_sheet_behavior = global::NepalHouse.Droid.Resource.String.bottom_sheet_behavior;
+			global::Plugin.Badge.Droid.Resource.String.character_counter_pattern = global::NepalHouse.Droid.Resource.String.character_counter_pattern;
+			global::Plugin.Badge.Droid.Resource.String.library_name = global::NepalHouse.Droid.Resource.String.library_name;
+			global::Plugin.Badge.Droid.Resource.String.mr_button_content_description = global::NepalHouse.Droid.Resource.String.mr_button_content_description;
+			global::Plugin.Badge.Droid.Resource.String.mr_cast_button_connected = global::NepalHouse.Droid.Resource.String.mr_cast_button_connected;
+			global::Plugin.Badge.Droid.Resource.String.mr_cast_button_connecting = global::NepalHouse.Droid.Resource.String.mr_cast_button_connecting;
+			global::Plugin.Badge.Droid.Resource.String.mr_cast_button_disconnected = global::NepalHouse.Droid.Resource.String.mr_cast_button_disconnected;
+			global::Plugin.Badge.Droid.Resource.String.mr_chooser_searching = global::NepalHouse.Droid.Resource.String.mr_chooser_searching;
+			global::Plugin.Badge.Droid.Resource.String.mr_chooser_title = global::NepalHouse.Droid.Resource.String.mr_chooser_title;
+			global::Plugin.Badge.Droid.Resource.String.mr_controller_album_art = global::NepalHouse.Droid.Resource.String.mr_controller_album_art;
+			global::Plugin.Badge.Droid.Resource.String.mr_controller_casting_screen = global::NepalHouse.Droid.Resource.String.mr_controller_casting_screen;
+			global::Plugin.Badge.Droid.Resource.String.mr_controller_close_description = global::NepalHouse.Droid.Resource.String.mr_controller_close_description;
+			global::Plugin.Badge.Droid.Resource.String.mr_controller_collapse_group = global::NepalHouse.Droid.Resource.String.mr_controller_collapse_group;
+			global::Plugin.Badge.Droid.Resource.String.mr_controller_disconnect = global::NepalHouse.Droid.Resource.String.mr_controller_disconnect;
+			global::Plugin.Badge.Droid.Resource.String.mr_controller_expand_group = global::NepalHouse.Droid.Resource.String.mr_controller_expand_group;
+			global::Plugin.Badge.Droid.Resource.String.mr_controller_no_info_available = global::NepalHouse.Droid.Resource.String.mr_controller_no_info_available;
+			global::Plugin.Badge.Droid.Resource.String.mr_controller_no_media_selected = global::NepalHouse.Droid.Resource.String.mr_controller_no_media_selected;
+			global::Plugin.Badge.Droid.Resource.String.mr_controller_pause = global::NepalHouse.Droid.Resource.String.mr_controller_pause;
+			global::Plugin.Badge.Droid.Resource.String.mr_controller_play = global::NepalHouse.Droid.Resource.String.mr_controller_play;
+			global::Plugin.Badge.Droid.Resource.String.mr_controller_stop = global::NepalHouse.Droid.Resource.String.mr_controller_stop;
+			global::Plugin.Badge.Droid.Resource.String.mr_controller_stop_casting = global::NepalHouse.Droid.Resource.String.mr_controller_stop_casting;
+			global::Plugin.Badge.Droid.Resource.String.mr_controller_volume_slider = global::NepalHouse.Droid.Resource.String.mr_controller_volume_slider;
+			global::Plugin.Badge.Droid.Resource.String.mr_system_route_name = global::NepalHouse.Droid.Resource.String.mr_system_route_name;
+			global::Plugin.Badge.Droid.Resource.String.mr_user_route_category_name = global::NepalHouse.Droid.Resource.String.mr_user_route_category_name;
+			global::Plugin.Badge.Droid.Resource.String.password_toggle_content_description = global::NepalHouse.Droid.Resource.String.password_toggle_content_description;
+			global::Plugin.Badge.Droid.Resource.String.path_password_eye = global::NepalHouse.Droid.Resource.String.path_password_eye;
+			global::Plugin.Badge.Droid.Resource.String.path_password_eye_mask_strike_through = global::NepalHouse.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::Plugin.Badge.Droid.Resource.String.path_password_eye_mask_visible = global::NepalHouse.Droid.Resource.String.path_password_eye_mask_visible;
+			global::Plugin.Badge.Droid.Resource.String.path_password_strike_through = global::NepalHouse.Droid.Resource.String.path_password_strike_through;
+			global::Plugin.Badge.Droid.Resource.String.search_menu_title = global::NepalHouse.Droid.Resource.String.search_menu_title;
+			global::Plugin.Badge.Droid.Resource.String.status_bar_notification_info_overflow = global::NepalHouse.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Plugin.Badge.Droid.Resource.Style.AlertDialog_AppCompat = global::NepalHouse.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.AlertDialog_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Animation_AppCompat_Dialog = global::NepalHouse.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Animation_AppCompat_DropDownUp = global::NepalHouse.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Plugin.Badge.Droid.Resource.Style.Animation_Design_BottomSheetDialog = global::NepalHouse.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_AlertDialog_AppCompat = global::NepalHouse.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Animation_AppCompat_Dialog = global::NepalHouse.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::NepalHouse.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Plugin.Badge.Droid.Resource.Style.Base_CardView = global::NepalHouse.Droid.Resource.Style.Base_CardView;
+			global::Plugin.Badge.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat = global::NepalHouse.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::NepalHouse.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Plugin.Badge.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::NepalHouse.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Theme_AppCompat = global::NepalHouse.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::NepalHouse.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Theme_AppCompat_Dialog = global::NepalHouse.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::NepalHouse.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::NepalHouse.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::NepalHouse.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::NepalHouse.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Theme_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::NepalHouse.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::NepalHouse.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::NepalHouse.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::NepalHouse.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::NepalHouse.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::NepalHouse.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Plugin.Badge.Droid.Resource.Style.Base_ThemeOverlay_AppCompat = global::NepalHouse.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::NepalHouse.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::NepalHouse.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Plugin.Badge.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::NepalHouse.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::NepalHouse.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::NepalHouse.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Plugin.Badge.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::NepalHouse.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::NepalHouse.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::NepalHouse.Droid.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::NepalHouse.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::NepalHouse.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V21_Theme_AppCompat = global::NepalHouse.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::NepalHouse.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::NepalHouse.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::NepalHouse.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V22_Theme_AppCompat = global::NepalHouse.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V23_Theme_AppCompat = global::NepalHouse.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V7_Theme_AppCompat = global::NepalHouse.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::NepalHouse.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::NepalHouse.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::NepalHouse.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::NepalHouse.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Plugin.Badge.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::NepalHouse.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Button = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_EditText = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ListView = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_SearchView = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Spinner = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::NepalHouse.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_Design_AppBarLayout = global::NepalHouse.Droid.Resource.Style.Base_Widget_Design_AppBarLayout;
+			global::Plugin.Badge.Droid.Resource.Style.Base_Widget_Design_TabLayout = global::NepalHouse.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Plugin.Badge.Droid.Resource.Style.CardView = global::NepalHouse.Droid.Resource.Style.CardView;
+			global::Plugin.Badge.Droid.Resource.Style.CardView_Dark = global::NepalHouse.Droid.Resource.Style.CardView_Dark;
+			global::Plugin.Badge.Droid.Resource.Style.CardView_Light = global::NepalHouse.Droid.Resource.Style.CardView_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Platform_AppCompat = global::NepalHouse.Droid.Resource.Style.Platform_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Platform_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat = global::NepalHouse.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::NepalHouse.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Plugin.Badge.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Platform_V11_AppCompat = global::NepalHouse.Droid.Resource.Style.Platform_V11_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Platform_V11_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.Platform_V11_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Platform_V14_AppCompat = global::NepalHouse.Droid.Resource.Style.Platform_V14_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Platform_V14_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.Platform_V14_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Platform_V21_AppCompat = global::NepalHouse.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Platform_V21_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Platform_V25_AppCompat = global::NepalHouse.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Platform_V25_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner = global::NepalHouse.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Plugin.Badge.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::NepalHouse.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::NepalHouse.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Plugin.Badge.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::NepalHouse.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Plugin.Badge.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::NepalHouse.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Plugin.Badge.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::NepalHouse.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Plugin.Badge.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::NepalHouse.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Plugin.Badge.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::NepalHouse.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Plugin.Badge.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::NepalHouse.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Plugin.Badge.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::NepalHouse.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Plugin.Badge.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::NepalHouse.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Plugin.Badge.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::NepalHouse.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Plugin.Badge.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::NepalHouse.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Plugin.Badge.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::NepalHouse.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Plugin.Badge.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::NepalHouse.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Body1 = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Body2 = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Button = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Caption = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Display1 = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Display2 = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Display3 = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Display4 = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Headline = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Inverse = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Large = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Medium = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Menu = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Notification = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Notification;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Info = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Info;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Info_Media = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Info_Media;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Line2 = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Line2;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Line2_Media = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Line2_Media;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Media = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Media;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Time = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Time;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Time_Media = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Time_Media;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Title = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Title;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Title_Media = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Notification_Title_Media;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Small = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Subhead = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Title = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::NepalHouse.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::NepalHouse.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_Design_Counter = global::NepalHouse.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow = global::NepalHouse.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_Design_Error = global::NepalHouse.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_Design_Hint = global::NepalHouse.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message = global::NepalHouse.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_Design_Tab = global::NepalHouse.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_MediaRouter_PrimaryText = global::NepalHouse.Droid.Resource.Style.TextAppearance_MediaRouter_PrimaryText;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_MediaRouter_SecondaryText = global::NepalHouse.Droid.Resource.Style.TextAppearance_MediaRouter_SecondaryText;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_MediaRouter_Title = global::NepalHouse.Droid.Resource.Style.TextAppearance_MediaRouter_Title;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_StatusBar_EventContent = global::NepalHouse.Droid.Resource.Style.TextAppearance_StatusBar_EventContent;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Info = global::NepalHouse.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Info;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Line2 = global::NepalHouse.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Line2;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Time = global::NepalHouse.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Time;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Title = global::NepalHouse.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Title;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::NepalHouse.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::NepalHouse.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Plugin.Badge.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::NepalHouse.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_CompactMenu = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_DayNight = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_Dialog = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_Light_Dialog = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_AppCompat_NoActionBar = global::NepalHouse.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_Design = global::NepalHouse.Droid.Resource.Style.Theme_Design;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_Design_BottomSheetDialog = global::NepalHouse.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_Design_Light = global::NepalHouse.Droid.Resource.Style.Theme_Design_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::NepalHouse.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_Design_Light_NoActionBar = global::NepalHouse.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_Design_NoActionBar = global::NepalHouse.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_MediaRouter = global::NepalHouse.Droid.Resource.Style.Theme_MediaRouter;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_MediaRouter_Light = global::NepalHouse.Droid.Resource.Style.Theme_MediaRouter_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel = global::NepalHouse.Droid.Resource.Style.Theme_MediaRouter_Light_DarkControlPanel;
+			global::Plugin.Badge.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel = global::NepalHouse.Droid.Resource.Style.Theme_MediaRouter_LightControlPanel;
+			global::Plugin.Badge.Droid.Resource.Style.ThemeOverlay_AppCompat = global::NepalHouse.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Plugin.Badge.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::NepalHouse.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark = global::NepalHouse.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Plugin.Badge.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::NepalHouse.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::NepalHouse.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Plugin.Badge.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::NepalHouse.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Plugin.Badge.Droid.Resource.Style.ThemeOverlay_AppCompat_Light = global::NepalHouse.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Plugin.Badge.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark = global::NepalHouse.Droid.Resource.Style.ThemeOverlay_MediaRouter_Dark;
+			global::Plugin.Badge.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light = global::NepalHouse.Droid.Resource.Style.ThemeOverlay_MediaRouter_Light;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ActionBar = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ActionButton = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ActionMode = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Button = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Button_Borderless = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Button_Colored = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Button_Small = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ButtonBar = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_EditText = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ImageButton = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_SearchView = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ListMenuView = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ListView = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ListView_Menu = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_NotificationActionContainer = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_NotificationActionContainer;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_NotificationActionText = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_NotificationActionText;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_PopupMenu = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_PopupWindow = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ProgressBar = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_RatingBar = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_SearchView = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_SeekBar = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Spinner = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Toolbar = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::NepalHouse.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_Design_AppBarLayout = global::NepalHouse.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_Design_BottomNavigationView = global::NepalHouse.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_Design_BottomSheet_Modal = global::NepalHouse.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_Design_CollapsingToolbar = global::NepalHouse.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_Design_CoordinatorLayout = global::NepalHouse.Droid.Resource.Style.Widget_Design_CoordinatorLayout;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_Design_FloatingActionButton = global::NepalHouse.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_Design_NavigationView = global::NepalHouse.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::NepalHouse.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_Design_Snackbar = global::NepalHouse.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_Design_TabLayout = global::NepalHouse.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_Design_TextInputLayout = global::NepalHouse.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton = global::NepalHouse.Droid.Resource.Style.Widget_MediaRouter_Light_MediaRouteButton;
+			global::Plugin.Badge.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton = global::NepalHouse.Droid.Resource.Style.Widget_MediaRouter_MediaRouteButton;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar = global::NepalHouse.Droid.Resource.Styleable.ActionBar;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_background = global::NepalHouse.Droid.Resource.Styleable.ActionBar_background;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_backgroundSplit = global::NepalHouse.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_backgroundStacked = global::NepalHouse.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_contentInsetEnd = global::NepalHouse.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::NepalHouse.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_contentInsetLeft = global::NepalHouse.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_contentInsetRight = global::NepalHouse.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_contentInsetStart = global::NepalHouse.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::NepalHouse.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_customNavigationLayout = global::NepalHouse.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_displayOptions = global::NepalHouse.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_divider = global::NepalHouse.Droid.Resource.Styleable.ActionBar_divider;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_elevation = global::NepalHouse.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_height = global::NepalHouse.Droid.Resource.Styleable.ActionBar_height;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_hideOnContentScroll = global::NepalHouse.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator = global::NepalHouse.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_homeLayout = global::NepalHouse.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_icon = global::NepalHouse.Droid.Resource.Styleable.ActionBar_icon;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::NepalHouse.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_itemPadding = global::NepalHouse.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_logo = global::NepalHouse.Droid.Resource.Styleable.ActionBar_logo;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_navigationMode = global::NepalHouse.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_popupTheme = global::NepalHouse.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_progressBarPadding = global::NepalHouse.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_progressBarStyle = global::NepalHouse.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_subtitle = global::NepalHouse.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_subtitleTextStyle = global::NepalHouse.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_title = global::NepalHouse.Droid.Resource.Styleable.ActionBar_title;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBar_titleTextStyle = global::NepalHouse.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBarLayout = global::NepalHouse.Droid.Resource.Styleable.ActionBarLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::NepalHouse.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionMenuItemView = global::NepalHouse.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth = global::NepalHouse.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionMenuView = global::NepalHouse.Droid.Resource.Styleable.ActionMenuView;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionMode = global::NepalHouse.Droid.Resource.Styleable.ActionMode;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionMode_background = global::NepalHouse.Droid.Resource.Styleable.ActionMode_background;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionMode_backgroundSplit = global::NepalHouse.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionMode_closeItemLayout = global::NepalHouse.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionMode_height = global::NepalHouse.Droid.Resource.Styleable.ActionMode_height;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionMode_subtitleTextStyle = global::NepalHouse.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActionMode_titleTextStyle = global::NepalHouse.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActivityChooserView = global::NepalHouse.Droid.Resource.Styleable.ActivityChooserView;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::NepalHouse.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Plugin.Badge.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount = global::NepalHouse.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Plugin.Badge.Droid.Resource.Styleable.AlertDialog = global::NepalHouse.Droid.Resource.Styleable.AlertDialog;
+			global::Plugin.Badge.Droid.Resource.Styleable.AlertDialog_android_layout = global::NepalHouse.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Plugin.Badge.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::NepalHouse.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.AlertDialog_listItemLayout = global::NepalHouse.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.AlertDialog_listLayout = global::NepalHouse.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::NepalHouse.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.AlertDialog_showTitle = global::NepalHouse.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::NepalHouse.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppBarLayout = global::NepalHouse.Droid.Resource.Styleable.AppBarLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppBarLayout_android_background = global::NepalHouse.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppBarLayout_elevation = global::NepalHouse.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppBarLayout_expanded = global::NepalHouse.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppBarLayoutStates = global::NepalHouse.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::NepalHouse.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::NepalHouse.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppBarLayout_Layout = global::NepalHouse.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::NepalHouse.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::NepalHouse.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatImageView = global::NepalHouse.Droid.Resource.Styleable.AppCompatImageView;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatImageView_android_src = global::NepalHouse.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatImageView_srcCompat = global::NepalHouse.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatSeekBar = global::NepalHouse.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb = global::NepalHouse.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatSeekBar_tickMark = global::NepalHouse.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::NepalHouse.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::NepalHouse.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTextHelper = global::NepalHouse.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::NepalHouse.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::NepalHouse.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::NepalHouse.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::NepalHouse.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::NepalHouse.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::NepalHouse.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::NepalHouse.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTextView = global::NepalHouse.Droid.Resource.Styleable.AppCompatTextView;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance = global::NepalHouse.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTextView_textAllCaps = global::NepalHouse.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionBarSize = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_buttonStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_colorAccent = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_colorPrimary = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_controlBackground = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_dialogTheme = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_dividerVertical = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_editTextBackground = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_editTextColor = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_editTextStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_panelBackground = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_switchStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_windowActionBar = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Plugin.Badge.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle = global::NepalHouse.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Plugin.Badge.Droid.Resource.Styleable.BottomNavigationView = global::NepalHouse.Droid.Resource.Styleable.BottomNavigationView;
+			global::Plugin.Badge.Droid.Resource.Styleable.BottomNavigationView_elevation = global::NepalHouse.Droid.Resource.Styleable.BottomNavigationView_elevation;
+			global::Plugin.Badge.Droid.Resource.Styleable.BottomNavigationView_itemBackground = global::NepalHouse.Droid.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.BottomNavigationView_itemIconTint = global::NepalHouse.Droid.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Plugin.Badge.Droid.Resource.Styleable.BottomNavigationView_itemTextColor = global::NepalHouse.Droid.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Plugin.Badge.Droid.Resource.Styleable.BottomNavigationView_menu = global::NepalHouse.Droid.Resource.Styleable.BottomNavigationView_menu;
+			global::Plugin.Badge.Droid.Resource.Styleable.BottomSheetBehavior_Layout = global::NepalHouse.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Plugin.Badge.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::NepalHouse.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Plugin.Badge.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::NepalHouse.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Plugin.Badge.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::NepalHouse.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Plugin.Badge.Droid.Resource.Styleable.ButtonBarLayout = global::NepalHouse.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.ButtonBarLayout_allowStacking = global::NepalHouse.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Plugin.Badge.Droid.Resource.Styleable.CardView = global::NepalHouse.Droid.Resource.Styleable.CardView;
+			global::Plugin.Badge.Droid.Resource.Styleable.CardView_android_minHeight = global::NepalHouse.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Plugin.Badge.Droid.Resource.Styleable.CardView_android_minWidth = global::NepalHouse.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Plugin.Badge.Droid.Resource.Styleable.CardView_cardBackgroundColor = global::NepalHouse.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Plugin.Badge.Droid.Resource.Styleable.CardView_cardCornerRadius = global::NepalHouse.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Plugin.Badge.Droid.Resource.Styleable.CardView_cardElevation = global::NepalHouse.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Plugin.Badge.Droid.Resource.Styleable.CardView_cardMaxElevation = global::NepalHouse.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Plugin.Badge.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap = global::NepalHouse.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Plugin.Badge.Droid.Resource.Styleable.CardView_cardUseCompatPadding = global::NepalHouse.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Plugin.Badge.Droid.Resource.Styleable.CardView_contentPadding = global::NepalHouse.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Plugin.Badge.Droid.Resource.Styleable.CardView_contentPaddingBottom = global::NepalHouse.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Plugin.Badge.Droid.Resource.Styleable.CardView_contentPaddingLeft = global::NepalHouse.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Plugin.Badge.Droid.Resource.Styleable.CardView_contentPaddingRight = global::NepalHouse.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Plugin.Badge.Droid.Resource.Styleable.CardView_contentPaddingTop = global::NepalHouse.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_title = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Plugin.Badge.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::NepalHouse.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Plugin.Badge.Droid.Resource.Styleable.ColorStateListItem = global::NepalHouse.Droid.Resource.Styleable.ColorStateListItem;
+			global::Plugin.Badge.Droid.Resource.Styleable.ColorStateListItem_alpha = global::NepalHouse.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Plugin.Badge.Droid.Resource.Styleable.ColorStateListItem_android_alpha = global::NepalHouse.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Plugin.Badge.Droid.Resource.Styleable.ColorStateListItem_android_color = global::NepalHouse.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Plugin.Badge.Droid.Resource.Styleable.CompoundButton = global::NepalHouse.Droid.Resource.Styleable.CompoundButton;
+			global::Plugin.Badge.Droid.Resource.Styleable.CompoundButton_android_button = global::NepalHouse.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Plugin.Badge.Droid.Resource.Styleable.CompoundButton_buttonTint = global::NepalHouse.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Plugin.Badge.Droid.Resource.Styleable.CompoundButton_buttonTintMode = global::NepalHouse.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Plugin.Badge.Droid.Resource.Styleable.CoordinatorLayout = global::NepalHouse.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.CoordinatorLayout_keylines = global::NepalHouse.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Plugin.Badge.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::NepalHouse.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.CoordinatorLayout_Layout = global::NepalHouse.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Plugin.Badge.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::NepalHouse.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Plugin.Badge.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::NepalHouse.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Plugin.Badge.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::NepalHouse.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Plugin.Badge.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::NepalHouse.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Plugin.Badge.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::NepalHouse.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Plugin.Badge.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::NepalHouse.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Plugin.Badge.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::NepalHouse.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Plugin.Badge.Droid.Resource.Styleable.DesignTheme = global::NepalHouse.Droid.Resource.Styleable.DesignTheme;
+			global::Plugin.Badge.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::NepalHouse.Droid.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Plugin.Badge.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle = global::NepalHouse.Droid.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.DesignTheme_textColorError = global::NepalHouse.Droid.Resource.Styleable.DesignTheme_textColorError;
+			global::Plugin.Badge.Droid.Resource.Styleable.DrawerArrowToggle = global::NepalHouse.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Plugin.Badge.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::NepalHouse.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Plugin.Badge.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::NepalHouse.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Plugin.Badge.Droid.Resource.Styleable.DrawerArrowToggle_barLength = global::NepalHouse.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Plugin.Badge.Droid.Resource.Styleable.DrawerArrowToggle_color = global::NepalHouse.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Plugin.Badge.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize = global::NepalHouse.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Plugin.Badge.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::NepalHouse.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Plugin.Badge.Droid.Resource.Styleable.DrawerArrowToggle_spinBars = global::NepalHouse.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Plugin.Badge.Droid.Resource.Styleable.DrawerArrowToggle_thickness = global::NepalHouse.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Plugin.Badge.Droid.Resource.Styleable.FloatingActionButton = global::NepalHouse.Droid.Resource.Styleable.FloatingActionButton;
+			global::Plugin.Badge.Droid.Resource.Styleable.FloatingActionButton_backgroundTint = global::NepalHouse.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Plugin.Badge.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::NepalHouse.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Plugin.Badge.Droid.Resource.Styleable.FloatingActionButton_borderWidth = global::NepalHouse.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Plugin.Badge.Droid.Resource.Styleable.FloatingActionButton_elevation = global::NepalHouse.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::Plugin.Badge.Droid.Resource.Styleable.FloatingActionButton_fabSize = global::NepalHouse.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Plugin.Badge.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::NepalHouse.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Plugin.Badge.Droid.Resource.Styleable.FloatingActionButton_rippleColor = global::NepalHouse.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Plugin.Badge.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding = global::NepalHouse.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Plugin.Badge.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::NepalHouse.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Plugin.Badge.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::NepalHouse.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Plugin.Badge.Droid.Resource.Styleable.ForegroundLinearLayout = global::NepalHouse.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::NepalHouse.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Plugin.Badge.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::NepalHouse.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Plugin.Badge.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::NepalHouse.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat_divider = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat_showDividers = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat_Layout = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Plugin.Badge.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::NepalHouse.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Plugin.Badge.Droid.Resource.Styleable.ListPopupWindow = global::NepalHouse.Droid.Resource.Styleable.ListPopupWindow;
+			global::Plugin.Badge.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::NepalHouse.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Plugin.Badge.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::NepalHouse.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Plugin.Badge.Droid.Resource.Styleable.MediaRouteButton = global::NepalHouse.Droid.Resource.Styleable.MediaRouteButton;
+			global::Plugin.Badge.Droid.Resource.Styleable.MediaRouteButton_android_minHeight = global::NepalHouse.Droid.Resource.Styleable.MediaRouteButton_android_minHeight;
+			global::Plugin.Badge.Droid.Resource.Styleable.MediaRouteButton_android_minWidth = global::NepalHouse.Droid.Resource.Styleable.MediaRouteButton_android_minWidth;
+			global::Plugin.Badge.Droid.Resource.Styleable.MediaRouteButton_buttonTint = global::NepalHouse.Droid.Resource.Styleable.MediaRouteButton_buttonTint;
+			global::Plugin.Badge.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable = global::NepalHouse.Droid.Resource.Styleable.MediaRouteButton_externalRouteEnabledDrawable;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuGroup = global::NepalHouse.Droid.Resource.Styleable.MenuGroup;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior = global::NepalHouse.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuGroup_android_enabled = global::NepalHouse.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuGroup_android_id = global::NepalHouse.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuGroup_android_menuCategory = global::NepalHouse.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuGroup_android_orderInCategory = global::NepalHouse.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuGroup_android_visible = global::NepalHouse.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem = global::NepalHouse.Droid.Resource.Styleable.MenuItem;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_actionLayout = global::NepalHouse.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_actionProviderClass = global::NepalHouse.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_actionViewClass = global::NepalHouse.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::NepalHouse.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_android_checkable = global::NepalHouse.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_android_checked = global::NepalHouse.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_android_enabled = global::NepalHouse.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_android_icon = global::NepalHouse.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_android_id = global::NepalHouse.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_android_menuCategory = global::NepalHouse.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_android_numericShortcut = global::NepalHouse.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_android_onClick = global::NepalHouse.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_android_orderInCategory = global::NepalHouse.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_android_title = global::NepalHouse.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_android_titleCondensed = global::NepalHouse.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_android_visible = global::NepalHouse.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuItem_showAsAction = global::NepalHouse.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuView = global::NepalHouse.Droid.Resource.Styleable.MenuView;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuView_android_headerBackground = global::NepalHouse.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuView_android_horizontalDivider = global::NepalHouse.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuView_android_itemBackground = global::NepalHouse.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::NepalHouse.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuView_android_itemTextAppearance = global::NepalHouse.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuView_android_verticalDivider = global::NepalHouse.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle = global::NepalHouse.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuView_preserveIconSpacing = global::NepalHouse.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Plugin.Badge.Droid.Resource.Styleable.MenuView_subMenuArrow = global::NepalHouse.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Plugin.Badge.Droid.Resource.Styleable.NavigationView = global::NepalHouse.Droid.Resource.Styleable.NavigationView;
+			global::Plugin.Badge.Droid.Resource.Styleable.NavigationView_android_background = global::NepalHouse.Droid.Resource.Styleable.NavigationView_android_background;
+			global::Plugin.Badge.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::NepalHouse.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Plugin.Badge.Droid.Resource.Styleable.NavigationView_android_maxWidth = global::NepalHouse.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Plugin.Badge.Droid.Resource.Styleable.NavigationView_elevation = global::NepalHouse.Droid.Resource.Styleable.NavigationView_elevation;
+			global::Plugin.Badge.Droid.Resource.Styleable.NavigationView_headerLayout = global::NepalHouse.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.NavigationView_itemBackground = global::NepalHouse.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.NavigationView_itemIconTint = global::NepalHouse.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::Plugin.Badge.Droid.Resource.Styleable.NavigationView_itemTextAppearance = global::NepalHouse.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.NavigationView_itemTextColor = global::NepalHouse.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::Plugin.Badge.Droid.Resource.Styleable.NavigationView_menu = global::NepalHouse.Droid.Resource.Styleable.NavigationView_menu;
+			global::Plugin.Badge.Droid.Resource.Styleable.PopupWindow = global::NepalHouse.Droid.Resource.Styleable.PopupWindow;
+			global::Plugin.Badge.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::NepalHouse.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.PopupWindow_android_popupBackground = global::NepalHouse.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.PopupWindow_overlapAnchor = global::NepalHouse.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Plugin.Badge.Droid.Resource.Styleable.PopupWindowBackgroundState = global::NepalHouse.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Plugin.Badge.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::NepalHouse.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Plugin.Badge.Droid.Resource.Styleable.RecycleListView = global::NepalHouse.Droid.Resource.Styleable.RecycleListView;
+			global::Plugin.Badge.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::NepalHouse.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Plugin.Badge.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::NepalHouse.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Plugin.Badge.Droid.Resource.Styleable.RecyclerView = global::NepalHouse.Droid.Resource.Styleable.RecyclerView;
+			global::Plugin.Badge.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability = global::NepalHouse.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Plugin.Badge.Droid.Resource.Styleable.RecyclerView_android_orientation = global::NepalHouse.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::Plugin.Badge.Droid.Resource.Styleable.RecyclerView_layoutManager = global::NepalHouse.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::Plugin.Badge.Droid.Resource.Styleable.RecyclerView_reverseLayout = global::NepalHouse.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.RecyclerView_spanCount = global::NepalHouse.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::Plugin.Badge.Droid.Resource.Styleable.RecyclerView_stackFromEnd = global::NepalHouse.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Plugin.Badge.Droid.Resource.Styleable.ScrimInsetsFrameLayout = global::NepalHouse.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::NepalHouse.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Plugin.Badge.Droid.Resource.Styleable.ScrollingViewBehavior_Layout = global::NepalHouse.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Plugin.Badge.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::NepalHouse.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView = global::NepalHouse.Droid.Resource.Styleable.SearchView;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_android_focusable = global::NepalHouse.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_android_imeOptions = global::NepalHouse.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_android_inputType = global::NepalHouse.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_android_maxWidth = global::NepalHouse.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_closeIcon = global::NepalHouse.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_commitIcon = global::NepalHouse.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_defaultQueryHint = global::NepalHouse.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_goIcon = global::NepalHouse.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_iconifiedByDefault = global::NepalHouse.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_layout = global::NepalHouse.Droid.Resource.Styleable.SearchView_layout;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_queryBackground = global::NepalHouse.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_queryHint = global::NepalHouse.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_searchHintIcon = global::NepalHouse.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_searchIcon = global::NepalHouse.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_submitBackground = global::NepalHouse.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_suggestionRowLayout = global::NepalHouse.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.SearchView_voiceIcon = global::NepalHouse.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Plugin.Badge.Droid.Resource.Styleable.SnackbarLayout = global::NepalHouse.Droid.Resource.Styleable.SnackbarLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth = global::NepalHouse.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Plugin.Badge.Droid.Resource.Styleable.SnackbarLayout_elevation = global::NepalHouse.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::Plugin.Badge.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::NepalHouse.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Plugin.Badge.Droid.Resource.Styleable.Spinner = global::NepalHouse.Droid.Resource.Styleable.Spinner;
+			global::Plugin.Badge.Droid.Resource.Styleable.Spinner_android_dropDownWidth = global::NepalHouse.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Plugin.Badge.Droid.Resource.Styleable.Spinner_android_entries = global::NepalHouse.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Plugin.Badge.Droid.Resource.Styleable.Spinner_android_popupBackground = global::NepalHouse.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.Spinner_android_prompt = global::NepalHouse.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Plugin.Badge.Droid.Resource.Styleable.Spinner_popupTheme = global::NepalHouse.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat_android_textOff = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat_android_textOn = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat_android_thumb = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat_showText = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat_splitTrack = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat_switchMinWidth = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat_switchPadding = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat_thumbTint = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat_thumbTintMode = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat_track = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat_trackTint = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Plugin.Badge.Droid.Resource.Styleable.SwitchCompat_trackTintMode = global::NepalHouse.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabItem = global::NepalHouse.Droid.Resource.Styleable.TabItem;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabItem_android_icon = global::NepalHouse.Droid.Resource.Styleable.TabItem_android_icon;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabItem_android_layout = global::NepalHouse.Droid.Resource.Styleable.TabItem_android_layout;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabItem_android_text = global::NepalHouse.Droid.Resource.Styleable.TabItem_android_text;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout = global::NepalHouse.Droid.Resource.Styleable.TabLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabBackground = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabContentStart = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabGravity = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabIndicatorColor = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabMaxWidth = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabMinWidth = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabMode = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabPadding = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabPaddingBottom = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabPaddingEnd = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabPaddingStart = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabPaddingTop = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabTextAppearance = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.TabLayout_tabTextColor = global::NepalHouse.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextAppearance = global::NepalHouse.Droid.Resource.Styleable.TextAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextAppearance_android_shadowColor = global::NepalHouse.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextAppearance_android_shadowDx = global::NepalHouse.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextAppearance_android_shadowDy = global::NepalHouse.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextAppearance_android_shadowRadius = global::NepalHouse.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextAppearance_android_textColor = global::NepalHouse.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextAppearance_android_textColorHint = global::NepalHouse.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextAppearance_android_textSize = global::NepalHouse.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextAppearance_android_textStyle = global::NepalHouse.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextAppearance_android_typeface = global::NepalHouse.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextAppearance_textAllCaps = global::NepalHouse.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_android_hint = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_android_textColorHint = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_counterEnabled = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_counterMaxLength = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_errorEnabled = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_hintEnabled = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Plugin.Badge.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::NepalHouse.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar = global::NepalHouse.Droid.Resource.Styleable.Toolbar;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_android_gravity = global::NepalHouse.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_android_minHeight = global::NepalHouse.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_buttonGravity = global::NepalHouse.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_collapseContentDescription = global::NepalHouse.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_collapseIcon = global::NepalHouse.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_contentInsetEnd = global::NepalHouse.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::NepalHouse.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_contentInsetLeft = global::NepalHouse.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_contentInsetRight = global::NepalHouse.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_contentInsetStart = global::NepalHouse.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::NepalHouse.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_logo = global::NepalHouse.Droid.Resource.Styleable.Toolbar_logo;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_logoDescription = global::NepalHouse.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_maxButtonHeight = global::NepalHouse.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_navigationContentDescription = global::NepalHouse.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_navigationIcon = global::NepalHouse.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_popupTheme = global::NepalHouse.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_subtitle = global::NepalHouse.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance = global::NepalHouse.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_subtitleTextColor = global::NepalHouse.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_title = global::NepalHouse.Droid.Resource.Styleable.Toolbar_title;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_titleMargin = global::NepalHouse.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_titleMarginBottom = global::NepalHouse.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_titleMarginEnd = global::NepalHouse.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_titleMarginStart = global::NepalHouse.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_titleMarginTop = global::NepalHouse.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_titleMargins = global::NepalHouse.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_titleTextAppearance = global::NepalHouse.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Plugin.Badge.Droid.Resource.Styleable.Toolbar_titleTextColor = global::NepalHouse.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Plugin.Badge.Droid.Resource.Styleable.View = global::NepalHouse.Droid.Resource.Styleable.View;
+			global::Plugin.Badge.Droid.Resource.Styleable.View_android_focusable = global::NepalHouse.Droid.Resource.Styleable.View_android_focusable;
+			global::Plugin.Badge.Droid.Resource.Styleable.View_android_theme = global::NepalHouse.Droid.Resource.Styleable.View_android_theme;
+			global::Plugin.Badge.Droid.Resource.Styleable.View_paddingEnd = global::NepalHouse.Droid.Resource.Styleable.View_paddingEnd;
+			global::Plugin.Badge.Droid.Resource.Styleable.View_paddingStart = global::NepalHouse.Droid.Resource.Styleable.View_paddingStart;
+			global::Plugin.Badge.Droid.Resource.Styleable.View_theme = global::NepalHouse.Droid.Resource.Styleable.View_theme;
+			global::Plugin.Badge.Droid.Resource.Styleable.ViewBackgroundHelper = global::NepalHouse.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Plugin.Badge.Droid.Resource.Styleable.ViewBackgroundHelper_android_background = global::NepalHouse.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Plugin.Badge.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::NepalHouse.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Plugin.Badge.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::NepalHouse.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Plugin.Badge.Droid.Resource.Styleable.ViewStubCompat = global::NepalHouse.Droid.Resource.Styleable.ViewStubCompat;
+			global::Plugin.Badge.Droid.Resource.Styleable.ViewStubCompat_android_id = global::NepalHouse.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Plugin.Badge.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId = global::NepalHouse.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Plugin.Badge.Droid.Resource.Styleable.ViewStubCompat_android_layout = global::NepalHouse.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::NepalHouse.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -2183,26 +4295,26 @@ namespace NepalHouse.Droid
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f020114
-			public const int avd_hide_password_1 = 2130837780;
-			
 			// aapt resource value: 0x7f020115
-			public const int avd_hide_password_2 = 2130837781;
+			public const int avd_hide_password_1 = 2130837781;
 			
 			// aapt resource value: 0x7f020116
-			public const int avd_hide_password_3 = 2130837782;
+			public const int avd_hide_password_2 = 2130837782;
+			
+			// aapt resource value: 0x7f020117
+			public const int avd_hide_password_3 = 2130837783;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f020117
-			public const int avd_show_password_1 = 2130837783;
-			
 			// aapt resource value: 0x7f020118
-			public const int avd_show_password_2 = 2130837784;
+			public const int avd_show_password_1 = 2130837784;
 			
 			// aapt resource value: 0x7f020119
-			public const int avd_show_password_3 = 2130837785;
+			public const int avd_show_password_2 = 2130837785;
+			
+			// aapt resource value: 0x7f02011a
+			public const int avd_show_password_3 = 2130837786;
 			
 			// aapt resource value: 0x7f020055
 			public const int design_bottom_navigation_item_background = 2130837589;
@@ -2223,559 +4335,562 @@ namespace NepalHouse.Droid
 			public const int design_snackbar_background = 2130837594;
 			
 			// aapt resource value: 0x7f02005b
-			public const int ic_arrow_drop_down = 2130837595;
+			public const int ic_action_info = 2130837595;
 			
 			// aapt resource value: 0x7f02005c
-			public const int ic_audiotrack_dark = 2130837596;
+			public const int ic_arrow_drop_down = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int ic_audiotrack_light = 2130837597;
+			public const int ic_audiotrack_dark = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int ic_delete = 2130837598;
+			public const int ic_audiotrack_light = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int ic_dialog_close_dark = 2130837599;
+			public const int ic_delete = 2130837599;
 			
 			// aapt resource value: 0x7f020060
-			public const int ic_dialog_close_light = 2130837600;
+			public const int ic_dialog_close_dark = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int ic_group_collapse_00 = 2130837601;
+			public const int ic_dialog_close_light = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int ic_group_collapse_01 = 2130837602;
+			public const int ic_group_collapse_00 = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int ic_group_collapse_02 = 2130837603;
+			public const int ic_group_collapse_01 = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int ic_group_collapse_03 = 2130837604;
+			public const int ic_group_collapse_02 = 2130837604;
 			
 			// aapt resource value: 0x7f020065
-			public const int ic_group_collapse_04 = 2130837605;
+			public const int ic_group_collapse_03 = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int ic_group_collapse_05 = 2130837606;
+			public const int ic_group_collapse_04 = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int ic_group_collapse_06 = 2130837607;
+			public const int ic_group_collapse_05 = 2130837607;
 			
 			// aapt resource value: 0x7f020068
-			public const int ic_group_collapse_07 = 2130837608;
+			public const int ic_group_collapse_06 = 2130837608;
 			
 			// aapt resource value: 0x7f020069
-			public const int ic_group_collapse_08 = 2130837609;
+			public const int ic_group_collapse_07 = 2130837609;
 			
 			// aapt resource value: 0x7f02006a
-			public const int ic_group_collapse_09 = 2130837610;
+			public const int ic_group_collapse_08 = 2130837610;
 			
 			// aapt resource value: 0x7f02006b
-			public const int ic_group_collapse_10 = 2130837611;
+			public const int ic_group_collapse_09 = 2130837611;
 			
 			// aapt resource value: 0x7f02006c
-			public const int ic_group_collapse_11 = 2130837612;
+			public const int ic_group_collapse_10 = 2130837612;
 			
 			// aapt resource value: 0x7f02006d
-			public const int ic_group_collapse_12 = 2130837613;
+			public const int ic_group_collapse_11 = 2130837613;
 			
 			// aapt resource value: 0x7f02006e
-			public const int ic_group_collapse_13 = 2130837614;
+			public const int ic_group_collapse_12 = 2130837614;
 			
 			// aapt resource value: 0x7f02006f
-			public const int ic_group_collapse_14 = 2130837615;
+			public const int ic_group_collapse_13 = 2130837615;
 			
 			// aapt resource value: 0x7f020070
-			public const int ic_group_collapse_15 = 2130837616;
+			public const int ic_group_collapse_14 = 2130837616;
 			
 			// aapt resource value: 0x7f020071
-			public const int ic_group_expand_00 = 2130837617;
+			public const int ic_group_collapse_15 = 2130837617;
 			
 			// aapt resource value: 0x7f020072
-			public const int ic_group_expand_01 = 2130837618;
+			public const int ic_group_expand_00 = 2130837618;
 			
 			// aapt resource value: 0x7f020073
-			public const int ic_group_expand_02 = 2130837619;
+			public const int ic_group_expand_01 = 2130837619;
 			
 			// aapt resource value: 0x7f020074
-			public const int ic_group_expand_03 = 2130837620;
+			public const int ic_group_expand_02 = 2130837620;
 			
 			// aapt resource value: 0x7f020075
-			public const int ic_group_expand_04 = 2130837621;
+			public const int ic_group_expand_03 = 2130837621;
 			
 			// aapt resource value: 0x7f020076
-			public const int ic_group_expand_05 = 2130837622;
+			public const int ic_group_expand_04 = 2130837622;
 			
 			// aapt resource value: 0x7f020077
-			public const int ic_group_expand_06 = 2130837623;
+			public const int ic_group_expand_05 = 2130837623;
 			
 			// aapt resource value: 0x7f020078
-			public const int ic_group_expand_07 = 2130837624;
+			public const int ic_group_expand_06 = 2130837624;
 			
 			// aapt resource value: 0x7f020079
-			public const int ic_group_expand_08 = 2130837625;
+			public const int ic_group_expand_07 = 2130837625;
 			
 			// aapt resource value: 0x7f02007a
-			public const int ic_group_expand_09 = 2130837626;
+			public const int ic_group_expand_08 = 2130837626;
 			
 			// aapt resource value: 0x7f02007b
-			public const int ic_group_expand_10 = 2130837627;
+			public const int ic_group_expand_09 = 2130837627;
 			
 			// aapt resource value: 0x7f02007c
-			public const int ic_group_expand_11 = 2130837628;
+			public const int ic_group_expand_10 = 2130837628;
 			
 			// aapt resource value: 0x7f02007d
-			public const int ic_group_expand_12 = 2130837629;
+			public const int ic_group_expand_11 = 2130837629;
 			
 			// aapt resource value: 0x7f02007e
-			public const int ic_group_expand_13 = 2130837630;
+			public const int ic_group_expand_12 = 2130837630;
 			
 			// aapt resource value: 0x7f02007f
-			public const int ic_group_expand_14 = 2130837631;
+			public const int ic_group_expand_13 = 2130837631;
 			
 			// aapt resource value: 0x7f020080
-			public const int ic_group_expand_15 = 2130837632;
+			public const int ic_group_expand_14 = 2130837632;
 			
 			// aapt resource value: 0x7f020081
-			public const int ic_library_books = 2130837633;
+			public const int ic_group_expand_15 = 2130837633;
 			
 			// aapt resource value: 0x7f020082
-			public const int ic_media_pause_dark = 2130837634;
+			public const int ic_launcher = 2130837634;
 			
 			// aapt resource value: 0x7f020083
-			public const int ic_media_pause_light = 2130837635;
+			public const int ic_library_books = 2130837635;
 			
 			// aapt resource value: 0x7f020084
-			public const int ic_media_play_dark = 2130837636;
+			public const int ic_media_pause_dark = 2130837636;
 			
 			// aapt resource value: 0x7f020085
-			public const int ic_media_play_light = 2130837637;
+			public const int ic_media_pause_light = 2130837637;
 			
 			// aapt resource value: 0x7f020086
-			public const int ic_media_stop_dark = 2130837638;
+			public const int ic_media_play_dark = 2130837638;
 			
 			// aapt resource value: 0x7f020087
-			public const int ic_media_stop_light = 2130837639;
+			public const int ic_media_play_light = 2130837639;
 			
 			// aapt resource value: 0x7f020088
-			public const int ic_mr_button_connected_00_dark = 2130837640;
+			public const int ic_media_stop_dark = 2130837640;
 			
 			// aapt resource value: 0x7f020089
-			public const int ic_mr_button_connected_00_light = 2130837641;
+			public const int ic_media_stop_light = 2130837641;
 			
 			// aapt resource value: 0x7f02008a
-			public const int ic_mr_button_connected_01_dark = 2130837642;
+			public const int ic_mr_button_connected_00_dark = 2130837642;
 			
 			// aapt resource value: 0x7f02008b
-			public const int ic_mr_button_connected_01_light = 2130837643;
+			public const int ic_mr_button_connected_00_light = 2130837643;
 			
 			// aapt resource value: 0x7f02008c
-			public const int ic_mr_button_connected_02_dark = 2130837644;
+			public const int ic_mr_button_connected_01_dark = 2130837644;
 			
 			// aapt resource value: 0x7f02008d
-			public const int ic_mr_button_connected_02_light = 2130837645;
+			public const int ic_mr_button_connected_01_light = 2130837645;
 			
 			// aapt resource value: 0x7f02008e
-			public const int ic_mr_button_connected_03_dark = 2130837646;
+			public const int ic_mr_button_connected_02_dark = 2130837646;
 			
 			// aapt resource value: 0x7f02008f
-			public const int ic_mr_button_connected_03_light = 2130837647;
+			public const int ic_mr_button_connected_02_light = 2130837647;
 			
 			// aapt resource value: 0x7f020090
-			public const int ic_mr_button_connected_04_dark = 2130837648;
+			public const int ic_mr_button_connected_03_dark = 2130837648;
 			
 			// aapt resource value: 0x7f020091
-			public const int ic_mr_button_connected_04_light = 2130837649;
+			public const int ic_mr_button_connected_03_light = 2130837649;
 			
 			// aapt resource value: 0x7f020092
-			public const int ic_mr_button_connected_05_dark = 2130837650;
+			public const int ic_mr_button_connected_04_dark = 2130837650;
 			
 			// aapt resource value: 0x7f020093
-			public const int ic_mr_button_connected_05_light = 2130837651;
+			public const int ic_mr_button_connected_04_light = 2130837651;
 			
 			// aapt resource value: 0x7f020094
-			public const int ic_mr_button_connected_06_dark = 2130837652;
+			public const int ic_mr_button_connected_05_dark = 2130837652;
 			
 			// aapt resource value: 0x7f020095
-			public const int ic_mr_button_connected_06_light = 2130837653;
+			public const int ic_mr_button_connected_05_light = 2130837653;
 			
 			// aapt resource value: 0x7f020096
-			public const int ic_mr_button_connected_07_dark = 2130837654;
+			public const int ic_mr_button_connected_06_dark = 2130837654;
 			
 			// aapt resource value: 0x7f020097
-			public const int ic_mr_button_connected_07_light = 2130837655;
+			public const int ic_mr_button_connected_06_light = 2130837655;
 			
 			// aapt resource value: 0x7f020098
-			public const int ic_mr_button_connected_08_dark = 2130837656;
+			public const int ic_mr_button_connected_07_dark = 2130837656;
 			
 			// aapt resource value: 0x7f020099
-			public const int ic_mr_button_connected_08_light = 2130837657;
+			public const int ic_mr_button_connected_07_light = 2130837657;
 			
 			// aapt resource value: 0x7f02009a
-			public const int ic_mr_button_connected_09_dark = 2130837658;
+			public const int ic_mr_button_connected_08_dark = 2130837658;
 			
 			// aapt resource value: 0x7f02009b
-			public const int ic_mr_button_connected_09_light = 2130837659;
+			public const int ic_mr_button_connected_08_light = 2130837659;
 			
 			// aapt resource value: 0x7f02009c
-			public const int ic_mr_button_connected_10_dark = 2130837660;
+			public const int ic_mr_button_connected_09_dark = 2130837660;
 			
 			// aapt resource value: 0x7f02009d
-			public const int ic_mr_button_connected_10_light = 2130837661;
+			public const int ic_mr_button_connected_09_light = 2130837661;
 			
 			// aapt resource value: 0x7f02009e
-			public const int ic_mr_button_connected_11_dark = 2130837662;
+			public const int ic_mr_button_connected_10_dark = 2130837662;
 			
 			// aapt resource value: 0x7f02009f
-			public const int ic_mr_button_connected_11_light = 2130837663;
+			public const int ic_mr_button_connected_10_light = 2130837663;
 			
 			// aapt resource value: 0x7f0200a0
-			public const int ic_mr_button_connected_12_dark = 2130837664;
+			public const int ic_mr_button_connected_11_dark = 2130837664;
 			
 			// aapt resource value: 0x7f0200a1
-			public const int ic_mr_button_connected_12_light = 2130837665;
+			public const int ic_mr_button_connected_11_light = 2130837665;
 			
 			// aapt resource value: 0x7f0200a2
-			public const int ic_mr_button_connected_13_dark = 2130837666;
+			public const int ic_mr_button_connected_12_dark = 2130837666;
 			
 			// aapt resource value: 0x7f0200a3
-			public const int ic_mr_button_connected_13_light = 2130837667;
+			public const int ic_mr_button_connected_12_light = 2130837667;
 			
 			// aapt resource value: 0x7f0200a4
-			public const int ic_mr_button_connected_14_dark = 2130837668;
+			public const int ic_mr_button_connected_13_dark = 2130837668;
 			
 			// aapt resource value: 0x7f0200a5
-			public const int ic_mr_button_connected_14_light = 2130837669;
+			public const int ic_mr_button_connected_13_light = 2130837669;
 			
 			// aapt resource value: 0x7f0200a6
-			public const int ic_mr_button_connected_15_dark = 2130837670;
+			public const int ic_mr_button_connected_14_dark = 2130837670;
 			
 			// aapt resource value: 0x7f0200a7
-			public const int ic_mr_button_connected_15_light = 2130837671;
+			public const int ic_mr_button_connected_14_light = 2130837671;
 			
 			// aapt resource value: 0x7f0200a8
-			public const int ic_mr_button_connected_16_dark = 2130837672;
+			public const int ic_mr_button_connected_15_dark = 2130837672;
 			
 			// aapt resource value: 0x7f0200a9
-			public const int ic_mr_button_connected_16_light = 2130837673;
+			public const int ic_mr_button_connected_15_light = 2130837673;
 			
 			// aapt resource value: 0x7f0200aa
-			public const int ic_mr_button_connected_17_dark = 2130837674;
+			public const int ic_mr_button_connected_16_dark = 2130837674;
 			
 			// aapt resource value: 0x7f0200ab
-			public const int ic_mr_button_connected_17_light = 2130837675;
+			public const int ic_mr_button_connected_16_light = 2130837675;
 			
 			// aapt resource value: 0x7f0200ac
-			public const int ic_mr_button_connected_18_dark = 2130837676;
+			public const int ic_mr_button_connected_17_dark = 2130837676;
 			
 			// aapt resource value: 0x7f0200ad
-			public const int ic_mr_button_connected_18_light = 2130837677;
+			public const int ic_mr_button_connected_17_light = 2130837677;
 			
 			// aapt resource value: 0x7f0200ae
-			public const int ic_mr_button_connected_19_dark = 2130837678;
+			public const int ic_mr_button_connected_18_dark = 2130837678;
 			
 			// aapt resource value: 0x7f0200af
-			public const int ic_mr_button_connected_19_light = 2130837679;
+			public const int ic_mr_button_connected_18_light = 2130837679;
 			
 			// aapt resource value: 0x7f0200b0
-			public const int ic_mr_button_connected_20_dark = 2130837680;
+			public const int ic_mr_button_connected_19_dark = 2130837680;
 			
 			// aapt resource value: 0x7f0200b1
-			public const int ic_mr_button_connected_20_light = 2130837681;
+			public const int ic_mr_button_connected_19_light = 2130837681;
 			
 			// aapt resource value: 0x7f0200b2
-			public const int ic_mr_button_connected_21_dark = 2130837682;
+			public const int ic_mr_button_connected_20_dark = 2130837682;
 			
 			// aapt resource value: 0x7f0200b3
-			public const int ic_mr_button_connected_21_light = 2130837683;
+			public const int ic_mr_button_connected_20_light = 2130837683;
 			
 			// aapt resource value: 0x7f0200b4
-			public const int ic_mr_button_connected_22_dark = 2130837684;
+			public const int ic_mr_button_connected_21_dark = 2130837684;
 			
 			// aapt resource value: 0x7f0200b5
-			public const int ic_mr_button_connected_22_light = 2130837685;
+			public const int ic_mr_button_connected_21_light = 2130837685;
 			
 			// aapt resource value: 0x7f0200b6
-			public const int ic_mr_button_connecting_00_dark = 2130837686;
+			public const int ic_mr_button_connected_22_dark = 2130837686;
 			
 			// aapt resource value: 0x7f0200b7
-			public const int ic_mr_button_connecting_00_light = 2130837687;
+			public const int ic_mr_button_connected_22_light = 2130837687;
 			
 			// aapt resource value: 0x7f0200b8
-			public const int ic_mr_button_connecting_01_dark = 2130837688;
+			public const int ic_mr_button_connecting_00_dark = 2130837688;
 			
 			// aapt resource value: 0x7f0200b9
-			public const int ic_mr_button_connecting_01_light = 2130837689;
+			public const int ic_mr_button_connecting_00_light = 2130837689;
 			
 			// aapt resource value: 0x7f0200ba
-			public const int ic_mr_button_connecting_02_dark = 2130837690;
+			public const int ic_mr_button_connecting_01_dark = 2130837690;
 			
 			// aapt resource value: 0x7f0200bb
-			public const int ic_mr_button_connecting_02_light = 2130837691;
+			public const int ic_mr_button_connecting_01_light = 2130837691;
 			
 			// aapt resource value: 0x7f0200bc
-			public const int ic_mr_button_connecting_03_dark = 2130837692;
+			public const int ic_mr_button_connecting_02_dark = 2130837692;
 			
 			// aapt resource value: 0x7f0200bd
-			public const int ic_mr_button_connecting_03_light = 2130837693;
+			public const int ic_mr_button_connecting_02_light = 2130837693;
 			
 			// aapt resource value: 0x7f0200be
-			public const int ic_mr_button_connecting_04_dark = 2130837694;
+			public const int ic_mr_button_connecting_03_dark = 2130837694;
 			
 			// aapt resource value: 0x7f0200bf
-			public const int ic_mr_button_connecting_04_light = 2130837695;
+			public const int ic_mr_button_connecting_03_light = 2130837695;
 			
 			// aapt resource value: 0x7f0200c0
-			public const int ic_mr_button_connecting_05_dark = 2130837696;
+			public const int ic_mr_button_connecting_04_dark = 2130837696;
 			
 			// aapt resource value: 0x7f0200c1
-			public const int ic_mr_button_connecting_05_light = 2130837697;
+			public const int ic_mr_button_connecting_04_light = 2130837697;
 			
 			// aapt resource value: 0x7f0200c2
-			public const int ic_mr_button_connecting_06_dark = 2130837698;
+			public const int ic_mr_button_connecting_05_dark = 2130837698;
 			
 			// aapt resource value: 0x7f0200c3
-			public const int ic_mr_button_connecting_06_light = 2130837699;
+			public const int ic_mr_button_connecting_05_light = 2130837699;
 			
 			// aapt resource value: 0x7f0200c4
-			public const int ic_mr_button_connecting_07_dark = 2130837700;
+			public const int ic_mr_button_connecting_06_dark = 2130837700;
 			
 			// aapt resource value: 0x7f0200c5
-			public const int ic_mr_button_connecting_07_light = 2130837701;
+			public const int ic_mr_button_connecting_06_light = 2130837701;
 			
 			// aapt resource value: 0x7f0200c6
-			public const int ic_mr_button_connecting_08_dark = 2130837702;
+			public const int ic_mr_button_connecting_07_dark = 2130837702;
 			
 			// aapt resource value: 0x7f0200c7
-			public const int ic_mr_button_connecting_08_light = 2130837703;
+			public const int ic_mr_button_connecting_07_light = 2130837703;
 			
 			// aapt resource value: 0x7f0200c8
-			public const int ic_mr_button_connecting_09_dark = 2130837704;
+			public const int ic_mr_button_connecting_08_dark = 2130837704;
 			
 			// aapt resource value: 0x7f0200c9
-			public const int ic_mr_button_connecting_09_light = 2130837705;
+			public const int ic_mr_button_connecting_08_light = 2130837705;
 			
 			// aapt resource value: 0x7f0200ca
-			public const int ic_mr_button_connecting_10_dark = 2130837706;
+			public const int ic_mr_button_connecting_09_dark = 2130837706;
 			
 			// aapt resource value: 0x7f0200cb
-			public const int ic_mr_button_connecting_10_light = 2130837707;
+			public const int ic_mr_button_connecting_09_light = 2130837707;
 			
 			// aapt resource value: 0x7f0200cc
-			public const int ic_mr_button_connecting_11_dark = 2130837708;
+			public const int ic_mr_button_connecting_10_dark = 2130837708;
 			
 			// aapt resource value: 0x7f0200cd
-			public const int ic_mr_button_connecting_11_light = 2130837709;
+			public const int ic_mr_button_connecting_10_light = 2130837709;
 			
 			// aapt resource value: 0x7f0200ce
-			public const int ic_mr_button_connecting_12_dark = 2130837710;
+			public const int ic_mr_button_connecting_11_dark = 2130837710;
 			
 			// aapt resource value: 0x7f0200cf
-			public const int ic_mr_button_connecting_12_light = 2130837711;
+			public const int ic_mr_button_connecting_11_light = 2130837711;
 			
 			// aapt resource value: 0x7f0200d0
-			public const int ic_mr_button_connecting_13_dark = 2130837712;
+			public const int ic_mr_button_connecting_12_dark = 2130837712;
 			
 			// aapt resource value: 0x7f0200d1
-			public const int ic_mr_button_connecting_13_light = 2130837713;
+			public const int ic_mr_button_connecting_12_light = 2130837713;
 			
 			// aapt resource value: 0x7f0200d2
-			public const int ic_mr_button_connecting_14_dark = 2130837714;
+			public const int ic_mr_button_connecting_13_dark = 2130837714;
 			
 			// aapt resource value: 0x7f0200d3
-			public const int ic_mr_button_connecting_14_light = 2130837715;
+			public const int ic_mr_button_connecting_13_light = 2130837715;
 			
 			// aapt resource value: 0x7f0200d4
-			public const int ic_mr_button_connecting_15_dark = 2130837716;
+			public const int ic_mr_button_connecting_14_dark = 2130837716;
 			
 			// aapt resource value: 0x7f0200d5
-			public const int ic_mr_button_connecting_15_light = 2130837717;
+			public const int ic_mr_button_connecting_14_light = 2130837717;
 			
 			// aapt resource value: 0x7f0200d6
-			public const int ic_mr_button_connecting_16_dark = 2130837718;
+			public const int ic_mr_button_connecting_15_dark = 2130837718;
 			
 			// aapt resource value: 0x7f0200d7
-			public const int ic_mr_button_connecting_16_light = 2130837719;
+			public const int ic_mr_button_connecting_15_light = 2130837719;
 			
 			// aapt resource value: 0x7f0200d8
-			public const int ic_mr_button_connecting_17_dark = 2130837720;
+			public const int ic_mr_button_connecting_16_dark = 2130837720;
 			
 			// aapt resource value: 0x7f0200d9
-			public const int ic_mr_button_connecting_17_light = 2130837721;
+			public const int ic_mr_button_connecting_16_light = 2130837721;
 			
 			// aapt resource value: 0x7f0200da
-			public const int ic_mr_button_connecting_18_dark = 2130837722;
+			public const int ic_mr_button_connecting_17_dark = 2130837722;
 			
 			// aapt resource value: 0x7f0200db
-			public const int ic_mr_button_connecting_18_light = 2130837723;
+			public const int ic_mr_button_connecting_17_light = 2130837723;
 			
 			// aapt resource value: 0x7f0200dc
-			public const int ic_mr_button_connecting_19_dark = 2130837724;
+			public const int ic_mr_button_connecting_18_dark = 2130837724;
 			
 			// aapt resource value: 0x7f0200dd
-			public const int ic_mr_button_connecting_19_light = 2130837725;
+			public const int ic_mr_button_connecting_18_light = 2130837725;
 			
 			// aapt resource value: 0x7f0200de
-			public const int ic_mr_button_connecting_20_dark = 2130837726;
+			public const int ic_mr_button_connecting_19_dark = 2130837726;
 			
 			// aapt resource value: 0x7f0200df
-			public const int ic_mr_button_connecting_20_light = 2130837727;
+			public const int ic_mr_button_connecting_19_light = 2130837727;
 			
 			// aapt resource value: 0x7f0200e0
-			public const int ic_mr_button_connecting_21_dark = 2130837728;
+			public const int ic_mr_button_connecting_20_dark = 2130837728;
 			
 			// aapt resource value: 0x7f0200e1
-			public const int ic_mr_button_connecting_21_light = 2130837729;
+			public const int ic_mr_button_connecting_20_light = 2130837729;
 			
 			// aapt resource value: 0x7f0200e2
-			public const int ic_mr_button_connecting_22_dark = 2130837730;
+			public const int ic_mr_button_connecting_21_dark = 2130837730;
 			
 			// aapt resource value: 0x7f0200e3
-			public const int ic_mr_button_connecting_22_light = 2130837731;
+			public const int ic_mr_button_connecting_21_light = 2130837731;
 			
 			// aapt resource value: 0x7f0200e4
-			public const int ic_mr_button_disabled_dark = 2130837732;
+			public const int ic_mr_button_connecting_22_dark = 2130837732;
 			
 			// aapt resource value: 0x7f0200e5
-			public const int ic_mr_button_disabled_light = 2130837733;
+			public const int ic_mr_button_connecting_22_light = 2130837733;
 			
 			// aapt resource value: 0x7f0200e6
-			public const int ic_mr_button_disconnected_dark = 2130837734;
+			public const int ic_mr_button_disabled_dark = 2130837734;
 			
 			// aapt resource value: 0x7f0200e7
-			public const int ic_mr_button_disconnected_light = 2130837735;
+			public const int ic_mr_button_disabled_light = 2130837735;
 			
 			// aapt resource value: 0x7f0200e8
-			public const int ic_mr_button_grey = 2130837736;
+			public const int ic_mr_button_disconnected_dark = 2130837736;
 			
 			// aapt resource value: 0x7f0200e9
-			public const int ic_search = 2130837737;
+			public const int ic_mr_button_disconnected_light = 2130837737;
 			
 			// aapt resource value: 0x7f0200ea
-			public const int ic_shopping_cart = 2130837738;
+			public const int ic_mr_button_grey = 2130837738;
 			
 			// aapt resource value: 0x7f0200eb
-			public const int ic_store = 2130837739;
+			public const int ic_search = 2130837739;
 			
 			// aapt resource value: 0x7f0200ec
-			public const int ic_vol_type_speaker_dark = 2130837740;
+			public const int ic_shopping_cart = 2130837740;
 			
 			// aapt resource value: 0x7f0200ed
-			public const int ic_vol_type_speaker_group_dark = 2130837741;
+			public const int ic_store = 2130837741;
 			
 			// aapt resource value: 0x7f0200ee
-			public const int ic_vol_type_speaker_group_light = 2130837742;
+			public const int ic_vol_type_speaker_dark = 2130837742;
 			
 			// aapt resource value: 0x7f0200ef
-			public const int ic_vol_type_speaker_light = 2130837743;
+			public const int ic_vol_type_speaker_group_dark = 2130837743;
 			
 			// aapt resource value: 0x7f0200f0
-			public const int ic_vol_type_tv_dark = 2130837744;
+			public const int ic_vol_type_speaker_group_light = 2130837744;
 			
 			// aapt resource value: 0x7f0200f1
-			public const int ic_vol_type_tv_light = 2130837745;
+			public const int ic_vol_type_speaker_light = 2130837745;
 			
 			// aapt resource value: 0x7f0200f2
-			public const int icon = 2130837746;
+			public const int ic_vol_type_tv_dark = 2130837746;
 			
 			// aapt resource value: 0x7f0200f3
-			public const int mr_button_connected_dark = 2130837747;
+			public const int ic_vol_type_tv_light = 2130837747;
 			
 			// aapt resource value: 0x7f0200f4
-			public const int mr_button_connected_light = 2130837748;
+			public const int mr_button_connected_dark = 2130837748;
 			
 			// aapt resource value: 0x7f0200f5
-			public const int mr_button_connecting_dark = 2130837749;
+			public const int mr_button_connected_light = 2130837749;
 			
 			// aapt resource value: 0x7f0200f6
-			public const int mr_button_connecting_light = 2130837750;
+			public const int mr_button_connecting_dark = 2130837750;
 			
 			// aapt resource value: 0x7f0200f7
-			public const int mr_button_dark = 2130837751;
+			public const int mr_button_connecting_light = 2130837751;
 			
 			// aapt resource value: 0x7f0200f8
-			public const int mr_button_light = 2130837752;
+			public const int mr_button_dark = 2130837752;
 			
 			// aapt resource value: 0x7f0200f9
-			public const int mr_dialog_close_dark = 2130837753;
+			public const int mr_button_light = 2130837753;
 			
 			// aapt resource value: 0x7f0200fa
-			public const int mr_dialog_close_light = 2130837754;
+			public const int mr_dialog_close_dark = 2130837754;
 			
 			// aapt resource value: 0x7f0200fb
-			public const int mr_dialog_material_background_dark = 2130837755;
+			public const int mr_dialog_close_light = 2130837755;
 			
 			// aapt resource value: 0x7f0200fc
-			public const int mr_dialog_material_background_light = 2130837756;
+			public const int mr_dialog_material_background_dark = 2130837756;
 			
 			// aapt resource value: 0x7f0200fd
-			public const int mr_group_collapse = 2130837757;
+			public const int mr_dialog_material_background_light = 2130837757;
 			
 			// aapt resource value: 0x7f0200fe
-			public const int mr_group_expand = 2130837758;
+			public const int mr_group_collapse = 2130837758;
 			
 			// aapt resource value: 0x7f0200ff
-			public const int mr_media_pause_dark = 2130837759;
+			public const int mr_group_expand = 2130837759;
 			
 			// aapt resource value: 0x7f020100
-			public const int mr_media_pause_light = 2130837760;
+			public const int mr_media_pause_dark = 2130837760;
 			
 			// aapt resource value: 0x7f020101
-			public const int mr_media_play_dark = 2130837761;
+			public const int mr_media_pause_light = 2130837761;
 			
 			// aapt resource value: 0x7f020102
-			public const int mr_media_play_light = 2130837762;
+			public const int mr_media_play_dark = 2130837762;
 			
 			// aapt resource value: 0x7f020103
-			public const int mr_media_stop_dark = 2130837763;
+			public const int mr_media_play_light = 2130837763;
 			
 			// aapt resource value: 0x7f020104
-			public const int mr_media_stop_light = 2130837764;
+			public const int mr_media_stop_dark = 2130837764;
 			
 			// aapt resource value: 0x7f020105
-			public const int mr_vol_type_audiotrack_dark = 2130837765;
+			public const int mr_media_stop_light = 2130837765;
 			
 			// aapt resource value: 0x7f020106
-			public const int mr_vol_type_audiotrack_light = 2130837766;
+			public const int mr_vol_type_audiotrack_dark = 2130837766;
 			
 			// aapt resource value: 0x7f020107
-			public const int navigation_empty_icon = 2130837767;
+			public const int mr_vol_type_audiotrack_light = 2130837767;
 			
 			// aapt resource value: 0x7f020108
-			public const int notification_action_background = 2130837768;
+			public const int navigation_empty_icon = 2130837768;
 			
 			// aapt resource value: 0x7f020109
-			public const int notification_bg = 2130837769;
+			public const int notification_action_background = 2130837769;
 			
 			// aapt resource value: 0x7f02010a
-			public const int notification_bg_low = 2130837770;
+			public const int notification_bg = 2130837770;
 			
 			// aapt resource value: 0x7f02010b
-			public const int notification_bg_low_normal = 2130837771;
+			public const int notification_bg_low = 2130837771;
 			
 			// aapt resource value: 0x7f02010c
-			public const int notification_bg_low_pressed = 2130837772;
+			public const int notification_bg_low_normal = 2130837772;
 			
 			// aapt resource value: 0x7f02010d
-			public const int notification_bg_normal = 2130837773;
+			public const int notification_bg_low_pressed = 2130837773;
 			
 			// aapt resource value: 0x7f02010e
-			public const int notification_bg_normal_pressed = 2130837774;
+			public const int notification_bg_normal = 2130837774;
 			
 			// aapt resource value: 0x7f02010f
-			public const int notification_icon_background = 2130837775;
-			
-			// aapt resource value: 0x7f020112
-			public const int notification_template_icon_bg = 2130837778;
-			
-			// aapt resource value: 0x7f020113
-			public const int notification_template_icon_low_bg = 2130837779;
+			public const int notification_bg_normal_pressed = 2130837775;
 			
 			// aapt resource value: 0x7f020110
-			public const int notification_tile_bg = 2130837776;
+			public const int notification_icon_background = 2130837776;
+			
+			// aapt resource value: 0x7f020113
+			public const int notification_template_icon_bg = 2130837779;
+			
+			// aapt resource value: 0x7f020114
+			public const int notification_template_icon_low_bg = 2130837780;
 			
 			// aapt resource value: 0x7f020111
-			public const int notify_panel_notification_icon_bg = 2130837777;
+			public const int notification_tile_bg = 2130837777;
+			
+			// aapt resource value: 0x7f020112
+			public const int notify_panel_notification_icon_bg = 2130837778;
 			
 			static Drawable()
 			{
@@ -3729,6 +5844,9 @@ namespace NepalHouse.Droid
 			
 			// aapt resource value: 0x7f090038
 			public const int character_counter_pattern = 2131296312;
+			
+			// aapt resource value: 0x7f09003e
+			public const int library_name = 2131296318;
 			
 			// aapt resource value: 0x7f090000
 			public const int mr_button_content_description = 2131296256;

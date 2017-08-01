@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+namespace NepalHouse
+{
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class ImagePage : ContentPage
+    {
+        public ImagePage(String imageUrl)
+        {
+            InitializeComponent();
+
+            image_view.Source = ImageSource.FromUri(new Uri(imageUrl));
+        }
+    }
+}

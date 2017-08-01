@@ -35,7 +35,12 @@
 
                 <Label Text="{Binding short_description}"/>
 
-                <Image Source="{Binding images[0].src}"/>
+                <Image Source="{Binding images[0].src}">
+                    <Image.GestureRecognizers>
+                        <TapGestureRecognizer
+                            Tapped="OnImageTapped" />     
+                    </Image.GestureRecognizers>
+                </Image>
 
                 <Button
                     Text="ADD TO CART" 
@@ -93,7 +98,7 @@
                             <DataTemplate>
                                 <ViewCell>
                                     <StackLayout Orientation="Horizontal" Padding="8">
-                                        <Image Source="{Binding images[0].src}" WidthRequest="130" HeightRequest="130" Aspect="AspectFit"/>
+                                        <Image Source="{Binding images[0].src}" WidthRequest="100" HeightRequest="100" Aspect="AspectFit"/>
                                         <StackLayout Orientation="Vertical">
                                             <Label Text = "{Binding name}" FontSize="Medium"/>
                                             <Label Text = "{Binding short_description}" FontSize="Small"/>

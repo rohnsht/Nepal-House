@@ -2,7 +2,9 @@
 <TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:NepalHouse"
+             xmlns:plugin="clr-namespace:Plugin.Badge.Abstractions;assembly=Plugin.Badge.Abstractions" 
              x:Class="NepalHouse.MainPage">
+   
     <NavigationPage Title="Home">
         <NavigationPage.Icon>
             <OnPlatform x:TypeArguments="FileImageSource"
@@ -30,7 +32,7 @@
             <local:CategoryPage/>
         </x:Arguments>
     </NavigationPage>
-    <NavigationPage Title="Cart">
+    <NavigationPage Title="Cart" plugin:TabBadge.BadgeText="{Binding Count}">
         <NavigationPage.Icon>
             <OnPlatform x:TypeArguments="FileImageSource"
                         iOS="ic_shopping_cart.png"/>
@@ -39,4 +41,5 @@
             <local:CartPage/>
         </x:Arguments>
     </NavigationPage>
+
 </TabbedPage>

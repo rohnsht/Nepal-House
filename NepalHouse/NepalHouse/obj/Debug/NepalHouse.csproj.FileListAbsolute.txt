@@ -2,6 +2,7 @@ C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\Nepal
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\NepalHouse.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\NepalHouse.pdb
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Newtonsoft.Json.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Plugin.Badge.Abstractions.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLite-net.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLitePCLRaw.batteries_green.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLitePCLRaw.batteries_v2.dll
@@ -41,6 +42,8 @@ C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\Nepal
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.OrderPage.xaml.g.cs
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.CategoryPage.xaml.g.cs
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.CheckoutPage.xaml.g.cs
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.AboutPage.xaml.g.cs
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.ImagePage.xaml.g.cs
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.pdb
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.csprojResolveAssemblyReference.cache
