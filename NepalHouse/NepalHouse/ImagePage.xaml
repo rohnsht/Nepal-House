@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             BackgroundColor="Black"
              x:Class="NepalHouse.ImagePage">
     <ContentPage.Padding>
         <OnPlatform x:TypeArguments="Thickness"
@@ -9,6 +8,22 @@
     </ContentPage.Padding>
 
     <ContentPage.Content>
-        <Image x:Name="image_view" HorizontalOptions="Fill" Aspect="AspectFit"/>
+        <AbsoluteLayout BackgroundColor="Black">
+            <Image x:Name="image_view"
+                   Aspect="AspectFit"
+                   AbsoluteLayout.LayoutBounds="0.5, 0.5, 1, 1"
+                   AbsoluteLayout.LayoutFlags="All">
+                <Image.GestureRecognizers>
+                    <PinchGestureRecognizer PinchUpdated="Image_PinchUpdated" />
+                </Image.GestureRecognizers>
+            </Image>
+
+            <Button Text="Close"
+                    TextColor="White"
+                    FontSize="Medium"
+                    Clicked="Close_Clicked"
+                    AbsoluteLayout.LayoutBounds="1, 0, 100, 50"
+                    AbsoluteLayout.LayoutFlags="PositionProportional"/>
+        </AbsoluteLayout>
     </ContentPage.Content>
 </ContentPage>

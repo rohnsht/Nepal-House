@@ -18,5 +18,15 @@ namespace NepalHouse
 
             image_view.Source = ImageSource.FromUri(new Uri(imageUrl));
         }
+
+        private async void Close_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PopModalAsync();
+        }
+
+        private void Image_PinchUpdated(object sender, PinchGestureUpdatedEventArgs e)
+        {
+            image_view.ScaleTo(e.Scale);
+        }
     }
 }
