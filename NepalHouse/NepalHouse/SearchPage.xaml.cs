@@ -15,6 +15,7 @@ using System.Threading.Tasks;
 using WooCommerceNET.WooCommerce.v2;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using System.Runtime.CompilerServices;
 
 namespace NepalHouse
 {
@@ -30,7 +31,6 @@ namespace NepalHouse
             DbConnection = DependencyService.Get<ISQLiteDb>().GetConnection();
    
         }
-
 
         private async void SearchBar_SearchButtonPressed(object sender, EventArgs e)
         {
@@ -99,7 +99,8 @@ namespace NepalHouse
             String searchQuery = e.NewTextValue;
             if (String.IsNullOrWhiteSpace(searchQuery))
             {
-                productList.Clear();
+                if(productList != null)
+                    productList.Clear();
             }
         }
     }

@@ -25,8 +25,6 @@ namespace NepalHouse
             DbConnection = DependencyService.Get<ISQLiteDb>().GetConnection();
             BindingContext = order;
 
-            emptyCarts();
-
             string products = null;
             double? subtotal = 0.0;
             foreach (OrderLineItem item in order.line_items) {
@@ -45,9 +43,15 @@ namespace NepalHouse
                 order.shipping.state, order.shipping.postcode);
         }
 
+        protected override void OnAppearing()
+        {
+            base.OnAppearing();
+            emptyCarts();
+        }
+
         private async void emptyCarts()
         {
-            await DbConnection.DropTableAsync<Cart>();
+            await DbConnection.ExecuteAsync("delete from Cart");
             MessagingCenter.Send(new Cart(), "BadgeUpdate");
         }
 

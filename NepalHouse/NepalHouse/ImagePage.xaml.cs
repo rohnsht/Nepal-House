@@ -26,7 +26,7 @@ namespace NepalHouse
 
         private void Image_PinchUpdated(object sender, PinchGestureUpdatedEventArgs e)
         {
-            image_view.ScaleTo(e.Scale);
+            
         }
     }
 }

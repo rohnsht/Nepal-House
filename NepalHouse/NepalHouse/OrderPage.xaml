@@ -17,17 +17,17 @@
                             <ColumnDefinition Width="*"/>
                             <ColumnDefinition Width="*"/>
                         </Grid.ColumnDefinitions>
-                        <Entry x:Name="first_entry" Grid.Row="0" Grid.Column="0" Placeholder="First name *"/>
-                        <Entry x:Name="last_entry" Grid.Row="0" Grid.Column="1" Placeholder="Last name *"/>
+                        <Entry x:Name="first_entry" Grid.Row="0" Grid.Column="0" Placeholder="First name *" Keyboard="Text"/>
+                        <Entry x:Name="last_entry" Grid.Row="0" Grid.Column="1" Placeholder="Last name *" Keyboard="Text"/>
                     </Grid>
 
-                    <Entry x:Name="company_entry" Placeholder="Company name"/>
+                    <Entry x:Name="company_entry" Placeholder="Company name" Keyboard="Text"/>
                     <Label Text="Country *" Margin="0, 10"/>
                     <Entry x:Name="country_entry" Text="Australia" IsEnabled="False"/>
                     <Label Text="Street Address *" Margin=" 0, 10"/>
-                    <Entry x:Name="address1_entry" Placeholder="House number and street name *"/>
-                    <Entry x:Name="address2_entry" Placeholder="Apartment, suite, unit etc (optional)"/>
-                    <Entry x:Name="suburb_entry" Placeholder="Suburb *"/>
+                    <Entry x:Name="address1_entry" Placeholder="House number and street name *" Keyboard="Text"/>
+                    <Entry x:Name="address2_entry" Placeholder="Apartment, suite, unit etc (optional)" Keyboard="Text"/>
+                    <Entry x:Name="suburb_entry" Placeholder="Suburb *" Keyboard="Text"/>
 
                     <Picker x:Name="state_picker" Title="State">
                         <Picker.Items>

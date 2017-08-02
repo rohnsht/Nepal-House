@@ -77,10 +77,12 @@
     </Compile>
     <Compile Include="Utils\Constants.cs" />
     <Compile Include="Utils\DescriptionFormatConverter.cs" />
+    <Compile Include="Utils\DoubleExtensions.cs" />
     <Compile Include="Utils\ImageSourceExtension.cs" />
     <Compile Include="Utils\IntToStringConverter.cs" />
     <Compile Include="Utils\MyRestAPI.cs" />
     <Compile Include="Utils\OAuth1.cs" />
+    <Compile Include="Utils\PinchToZoomContainer.cs" />
     <Compile Include="Utils\StringToIntConverter.cs" />
     <Compile Include="Utils\Util.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />
