@@ -61,7 +61,7 @@
     <ConsolePause>false</ConsolePause>
     <CodesignKey>iPhone Distribution: Paplu Shreng (82ZR8X62KA)</CodesignKey>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
-    <CodesignProvision>2049d297-c5d6-4c8e-8b26-9cbe69c7d9eb</CodesignProvision>
+    <CodesignProvision>NepalHouse</CodesignProvision>
     <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Ad-Hoc|iPhone' ">
@@ -103,11 +103,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Default-568h%402x.png" />
-    <BundleResource Include="Resources\Default-Portrait.png" />
-    <BundleResource Include="Resources\Default-Portrait%402x.png" />
-    <BundleResource Include="Resources\Default.png" />
-    <BundleResource Include="Resources\Default%402x.png" />
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
   </ItemGroup>
   <ItemGroup>
@@ -160,7 +155,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\NepalHouse\NepalHouse.csproj">
-      <Project>{010056a7-c6a9-4a6b-8372-1b1cb4073620}</Project>
+      <Project>{DD45F7D4-3B18-4460-AB78-BFBBAC856103}</Project>
       <Name>NepalHouse</Name>
     </ProjectReference>
   </ItemGroup>
@@ -258,6 +253,13 @@
     <ImageAsset Include="Resources\Media.xcassets\LaunchImages.launchimage\Contents.json">
       <InProject>false</InProject>
     </ImageAsset>
+    <ImageAsset Include="Resources\Media.xcassets\AppIcon.appiconset\Contents.json" />
+    <ImageAsset Include="Resources\Media.xcassets\LaunchImage.launchimage\Contents.json" />
+    <ImageAsset Include="Resources\Media.xcassets\LaunchImage.launchimage\Default.png" />
+    <ImageAsset Include="Resources\Media.xcassets\LaunchImage.launchimage\Default%402x.png" />
+    <ImageAsset Include="Resources\Media.xcassets\LaunchImage.launchimage\Default-568h%402x.png" />
+    <ImageAsset Include="Resources\Media.xcassets\LaunchImage.launchimage\Default-Portrait.png" />
+    <ImageAsset Include="Resources\Media.xcassets\LaunchImage.launchimage\Default-Portrait%402x.png" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Icon-logo.jpg" />
