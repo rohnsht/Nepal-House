@@ -35,3 +35,10 @@ using Plugin.Badge.Droid;
 [assembly: UsesPermission(Android.Manifest.Permission.Internet)]
 [assembly: UsesPermission(Android.Manifest.Permission.WriteExternalStorage)]
 [assembly: ExportRenderer(typeof(TabbedPage), typeof(BadgedTabbedPageRenderer))]
+
+#if DEBUG
+[assembly: Application(Debuggable=true)]
+#else
+[assembly: Application(Debuggable = false)]
+#endif
+

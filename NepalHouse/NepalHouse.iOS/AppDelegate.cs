@@ -26,7 +26,7 @@ namespace NepalHouse.iOS
             LoadApplication(new App());
 
             //UINavigationBar.Appearance.BackgroundColor = UIColor.FromRGB(27, 78, 157);
-            //UINavigationBar.Appearance.TintColor = UIColor.White;
+            UINavigationBar.Appearance.TintColor = UIColor.FromRGB(27, 78, 157);
             //UINavigationBar.Appearance.BarTintColor = UIColor.FromRGB(27, 78, 157);
             //UINavigationBar.Appearance.SetTitleTextAttributes(new UITextAttributes()
             //{
