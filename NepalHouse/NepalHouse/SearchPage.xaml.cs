@@ -47,7 +47,7 @@ namespace NepalHouse
                 });
                 productList = new ObservableCollection<Product>(products);
                 productView.ItemsSource = productList;
-                if (products.Count() <= 0)
+                if (products.Count() <= 0) 
                     message_lbl.IsVisible = true;
                 activityIndicator.IsVisible = false;
             }

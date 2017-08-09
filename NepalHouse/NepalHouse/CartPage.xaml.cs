@@ -45,6 +45,7 @@ namespace NepalHouse
             {
                 message_lbl.IsVisible = true;
                 order_layout.IsVisible = false;
+                cartView.IsVisible = false;
             }
         }
 
@@ -95,6 +96,7 @@ namespace NepalHouse
             else
             {
                 order_layout.IsVisible = false;
+                cartView.IsVisible = false;
                 message_lbl.IsVisible = true;
             }
             MessagingCenter.Send(cart, "BadgeUpdate");

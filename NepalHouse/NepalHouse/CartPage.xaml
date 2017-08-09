@@ -2,6 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:NepalHouse.Utils"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
              x:Class="NepalHouse.CartPage"
              Title="Nepal House">
 
@@ -21,16 +22,20 @@
                        HorizontalOptions="Center"/>
             
             <ListView x:Name="cartView"
-                  CachingStrategy="RecycleElement"
                   ItemSelected="cartView_ItemSelected"
                   HasUnevenRows="True">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
                             <StackLayout Orientation="Horizontal" Padding="8">
-                                <Image Source="{Binding images}" VerticalOptions="Start" WidthRequest="100" HeightRequest="100" Aspect="AspectFit"/>
+                                <ffimageloading:CachedImage Source="{Binding images}"
+                                                        WidthRequest="100"
+                                                        HeightRequest="100"
+                                                        DownsampleToViewSize="True"
+                                                        LoadingPlaceholder="product_empty.png"
+                                                        Margin="0, 0, 13, 0" />
                                 <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
-                                    <Label Text = "{Binding name}" FontSize="Medium"/>
+                                    <Label Text = "{Binding name}" FontSize="Medium" FontAttributes="Bold"/>
                                     <!--<Label Text = "{Binding short_description, Converter={StaticResource StringConverter}}"
                                            FontSize="Small"/>-->
                                     <StackLayout Orientation="Horizontal">
@@ -71,12 +76,13 @@
                 <Label Grid.Row="0" Grid.Column="0" Text="Estimated Total:" Margin="13, 0" />
                 <Label Grid.Row="0" Grid.Column="1" x:Name="total_lbl" HorizontalOptions="Center" Margin="13, 0"/>
                 <Label Grid.Row="1" Grid.Column="0" Text="Shipping:" Margin="13, 0"/>
-                <Label Grid.Row="1" Grid.Column="1" x:Name="shipping_lbl" HorizontalOptions="End" Margin="13, 0"/>
+                <Label Grid.Row="1" Grid.Column="1" x:Name="shipping_lbl" HorizontalOptions="Center" Margin="13, 0"/>
                 <Button Grid.Row="2"
                         Grid.ColumnSpan="2"
                         Text="Proceed to checkout"
                         BackgroundColor="{StaticResource accentColor}" 
                         TextColor="White"
+                        Margin="13, 0"
                         Clicked="Checkout_Clicked"/>
             </Grid>
             

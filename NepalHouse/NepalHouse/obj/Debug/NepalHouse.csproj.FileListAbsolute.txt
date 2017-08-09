@@ -85,3 +85,13 @@ C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\Nepal
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.ImagePage.xaml.g.cs
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.dll
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLite-net.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.csprojResolveAssemblyReference.cache

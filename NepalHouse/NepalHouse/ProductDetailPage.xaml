@@ -2,18 +2,20 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:NepalHouse.Utils"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
              x:Class="NepalHouse.ProductDetailPage"
              Title="{Binding name}">
     <ContentPage.Resources>
         <ResourceDictionary>
             <local:StringToIntConverter x:Key="IntConverter"/>
+            <local:DescriptionFormatConverter x:Key="StringConverter"/>
         </ResourceDictionary>
     </ContentPage.Resources>
 
     <ContentPage.Content>
         <ScrollView>
             <StackLayout Orientation="Vertical" Padding="16">
-                <Label Text="{Binding name}" FontSize="Medium"/>
+                <Label Text="{Binding name}" FontSize="Medium" FontAttributes="Bold"/>
                 <Label x:Name="ratingBar" 
                        Text="{Binding average_rating, StringFormat='Average rating {0}'}" 
                        FontSize="Large"
@@ -33,7 +35,7 @@
                            IsVisible="{Binding on_sale}"/>
                 </StackLayout>
 
-                <Label Text="{Binding short_description}"/>
+                <Label Text="{Binding short_description, Converter={StaticResource StringConverter}}"/>
 
                 <Image Source="{Binding images[0].src}">
                     <Image.GestureRecognizers>
@@ -91,17 +93,21 @@
                 <StackLayout Orientation="Vertical" Padding="0,8,0,8">
                     <Label Text="Related products" FontSize="Medium"/>
                     <ListView x:Name="productView"
-                      HasUnevenRows="True"
-                      CachingStrategy="RecycleElement" 
-                      ItemSelected="OnSelection">
+                              HasUnevenRows="True"
+                              ItemSelected="OnSelection">
                         <ListView.ItemTemplate>
                             <DataTemplate>
                                 <ViewCell>
                                     <StackLayout Orientation="Horizontal" Padding="8">
-                                        <Image Source="{Binding images[0].src}" WidthRequest="100" HeightRequest="100" Aspect="AspectFit"/>
+                                        <ffimageloading:CachedImage Source="{Binding images[0].src}"
+                                                        WidthRequest="100"
+                                                        HeightRequest="100"
+                                                        DownsampleToViewSize="True"
+                                                        LoadingPlaceholder="product_empty.png"
+                                                        Margin="0, 0, 13, 0" />
                                         <StackLayout Orientation="Vertical">
                                             <Label Text = "{Binding name}" FontSize="Medium"/>
-                                            <Label Text = "{Binding short_description}" FontSize="Small"/>
+                                            <Label Text = "{Binding short_description, Converter={StaticResource StringConverter}}" FontSize="Small"/>
                                             <StackLayout Orientation="Horizontal">
                                                 <Label Text = "{Binding regular_price, StringFormat='$ {0}'}" 
                                                        FontSize="Medium"

@@ -4,6 +4,7 @@ using System.Linq;
 
 using Foundation;
 using UIKit;
+using FFImageLoading.Forms.Touch;
 
 namespace NepalHouse.iOS
 {
@@ -23,6 +24,7 @@ namespace NepalHouse.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+            CachedImageRenderer.Init();
             LoadApplication(new App());
 
             //UINavigationBar.Appearance.BackgroundColor = UIColor.FromRGB(27, 78, 157);
