@@ -37,6 +37,7 @@ namespace NepalHouse
             cartView.ItemsSource = cartList;
             if (cartList.Count() > 0)
             {
+                cartView.IsVisible = true;
                 order_layout.IsVisible = true;
                 message_lbl.IsVisible = false;
                 calculateCost();

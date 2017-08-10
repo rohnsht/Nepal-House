@@ -98,13 +98,13 @@
                         <ListView.ItemTemplate>
                             <DataTemplate>
                                 <ViewCell>
-                                    <StackLayout Orientation="Horizontal" Padding="8">
+                                    <StackLayout Orientation="Horizontal" Padding="13, 6">
                                         <ffimageloading:CachedImage Source="{Binding images[0].src}"
                                                         WidthRequest="100"
                                                         HeightRequest="100"
                                                         DownsampleToViewSize="True"
                                                         LoadingPlaceholder="product_empty.png"
-                                                        Margin="0, 0, 13, 0" />
+                                                        Margin="0, 0, 6, 0" />
                                         <StackLayout Orientation="Vertical">
                                             <Label Text = "{Binding name}" FontSize="Medium"/>
                                             <Label Text = "{Binding short_description, Converter={StaticResource StringConverter}}" FontSize="Small"/>

@@ -12,7 +12,10 @@
     <ContentPage.Content>
         <ScrollView>
             <StackLayout>
-                <Label Text="Thank you, Your order has been received." Margin="13"/>
+                <Label Text="Thank you, Your order has been received."
+                       FontSize="Large"
+                       TextColor="{StaticResource primaryColor}"
+                       Margin="13"/>
                 <Grid BackgroundColor="White" Padding="13">
                     <StackLayout Grid.Row="0" Grid.Column="0">
                         <Label Text="Order number"/>
