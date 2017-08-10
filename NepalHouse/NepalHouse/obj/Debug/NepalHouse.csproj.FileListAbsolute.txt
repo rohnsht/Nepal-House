@@ -12,7 +12,6 @@
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Platform.dll
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.dll
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Newtonsoft.Json.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLite-net.dll.mdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLite-net.xml
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Core.dll.mdb
@@ -37,61 +36,71 @@
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.ImagePage.xaml.g.cs
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.dll
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\NepalHouse.dll.config
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\NepalHouse.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\NepalHouse.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Newtonsoft.Json.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Plugin.Badge.Abstractions.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLite-net.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLitePCLRaw.batteries_green.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLitePCLRaw.batteries_v2.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLitePCLRaw.core.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.Net.Http.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\WooCommerceNET.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Xamarin.Forms.Core.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Xamarin.Forms.Platform.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.Core.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Mono.Security.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.Xml.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Newtonsoft.Json.xml
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLite-net.xml
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.Net.Http.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Xamarin.Forms.Core.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Xamarin.Forms.Platform.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Xamarin.Forms.Xaml.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.xml
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.Core.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.Core.xml
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Mono.Security.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\Mono.Security.xml
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.Xml.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\System.Xml.xml
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.MainPage.xaml.g.cs
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.App.xaml.g.cs
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.HomePage.xaml.g.cs
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.SearchPage.xaml.g.cs
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.CartPage.xaml.g.cs
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.ProductDetailPage.xaml.g.cs
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.ProductsPage.xaml.g.cs
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.OrderPage.xaml.g.cs
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.CategoryPage.xaml.g.cs
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.CheckoutPage.xaml.g.cs
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.AboutPage.xaml.g.cs
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.ImagePage.xaml.g.cs
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.Forms.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.Platform.dll
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.xml
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.Forms.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.Forms.xml
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\FFImageLoading.Platform.xml
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\bin\Debug\SQLite-net.pdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse\obj\Debug\NepalHouse.csprojResolveAssemblyReference.cache
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/NepalHouse.dll.config
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/NepalHouse.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/NepalHouse.pdb
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Newtonsoft.Json.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Plugin.Badge.Abstractions.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLite-net.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLitePCLRaw.batteries_green.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLitePCLRaw.core.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/System.Net.Http.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/WooCommerceNET.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/System.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/System.Core.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Mono.Security.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/System.Xml.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Newtonsoft.Json.xml
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLite-net.xml
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/System.Net.Http.pdb
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Platform.pdb
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/System.pdb
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/System.xml
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/System.Core.pdb
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/System.Core.xml
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Mono.Security.pdb
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Mono.Security.xml
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/System.Xml.pdb
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/System.Xml.xml
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.MainPage.xaml.g.cs
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.App.xaml.g.cs
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.HomePage.xaml.g.cs
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.SearchPage.xaml.g.cs
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.CartPage.xaml.g.cs
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.ProductDetailPage.xaml.g.cs
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.ProductsPage.xaml.g.cs
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.OrderPage.xaml.g.cs
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.CategoryPage.xaml.g.cs
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.CheckoutPage.xaml.g.cs
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.AboutPage.xaml.g.cs
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.ImagePage.xaml.g.cs
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.pdb
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Forms.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Platform.dll
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.pdb
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.xml
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Forms.pdb
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Forms.xml
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Platform.xml
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLite-net.pdb
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.csprojResolveAssemblyReference.cache
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Forms.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Platform.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.pdb
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.xml
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Forms.pdb
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Forms.xml
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Platform.xml
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLite-net.pdb
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.csprojResolveAssemblyReference.cache
