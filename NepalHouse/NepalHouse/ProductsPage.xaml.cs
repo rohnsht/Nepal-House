@@ -71,10 +71,15 @@ namespace NepalHouse
                         { "category", String.Format("{0}", category.id) },
                         { "page", String.Format("{0}", page ) }
                     });
-
-                    foreach (Product p in products)
+                    if (products.Count() > 0)
                     {
-                        productList.Add(p);
+                        foreach (Product p in products)
+                        {
+                            productList.Add(p);
+                        }
+                    }
+                    else {
+                        list_footer.IsVisible = false;
                     }
                     isLoading = false;
                 }
