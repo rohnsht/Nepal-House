@@ -33,6 +33,8 @@
                                                         HeightRequest="100"
                                                         DownsampleToViewSize="True"
                                                         LoadingPlaceholder="product_empty.png"
+                                                        Aspect="AspectFill"
+                                                        VerticalOptions="Start"
                                                         Margin="0, 0, 6, 0" />
                                 <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
                                     <Label Text = "{Binding name}" FontSize="Medium"/>
@@ -41,15 +43,18 @@
                                     <StackLayout Orientation="Horizontal">
                                         <Label Text = "{Binding regular_price, StringFormat='$ {0}'}"
                                            FontSize="Medium"
+                                           FontAttributes="Bold"
                                            Margin="0,0,10,0"/>
                                         <Label Text = "{Binding sale_price, StringFormat='Sale $ {0}'}"
                                            FontSize="Medium"
+                                           FontAttributes="Bold"
                                            TextColor="DarkGreen"
                                            IsVisible="{Binding on_sale}"/>
                                     </StackLayout>
                                     <StackLayout Orientation="Horizontal">
                                         <Button Image="ic_delete"
                                             Clicked="Delete_Clicked"
+                                            HorizontalOptions="EndAndExpand"
                                             CommandParameter="{Binding .}"/>
 
                                         <Button 
@@ -57,7 +62,7 @@
                                             Image="ic_arrow_drop_down"
                                             Clicked="Count_Clicked"
                                             BackgroundColor="Transparent"
-                                            HorizontalOptions="EndAndExpand"
+                                            HorizontalOptions="End"
                                             CommandParameter="{Binding .}"/>
                                     </StackLayout>
                                 </StackLayout>
@@ -69,17 +74,16 @@
 
             <Grid x:Name="order_layout" BackgroundColor="White" IsVisible="False" Padding="13">
                 <Grid.RowDefinitions>
-                    <RowDefinition Height="20"/>
-                    <RowDefinition Height="20"/>
-                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="24"/>
+                    <RowDefinition Height="16"/>
+                    <RowDefinition Height="50"/>
                 </Grid.RowDefinitions>
                 <Label Grid.Row="0" Grid.Column="0" Text="Estimated Total:" />
-                <Label Grid.Row="0" Grid.Column="1" x:Name="total_lbl" HorizontalOptions="End" />
+                <Label Grid.Row="0" Grid.Column="1" x:Name="total_lbl" FontSize="Large" HorizontalOptions="End" />
                 <Label Grid.Row="1" Grid.Column="0" Text="Shipping:" />
                 <Label Grid.Row="1" Grid.Column="1" x:Name="shipping_lbl" HorizontalOptions="End" />
                 <Button Grid.Row="2"
                         Grid.ColumnSpan="2"
-                        HeightRequest="50"
                         Text="Proceed to checkout"
                         BackgroundColor="{StaticResource accentColor}" 
                         TextColor="White"
