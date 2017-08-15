@@ -15,12 +15,12 @@
     <ContentPage.Content>
         <StackLayout Orientation="Vertical">
             <Label x:Name="message_lbl"
-                       Text="No products added to cart yet."
-                       FontSize="Medium"
-                       IsVisible="False"
-                       Margin="13"
-                       HorizontalOptions="Center"/>
-            
+                    Text="No products added to cart yet."
+                    FontSize="Medium"
+                    IsVisible="False"
+                    Margin="13"
+                    HorizontalOptions="Center"/>
+
             <ListView x:Name="cartView"
                   ItemSelected="cartView_ItemSelected"
                   HasUnevenRows="True">
@@ -75,8 +75,8 @@
             <Grid x:Name="order_layout" BackgroundColor="White" IsVisible="False" Padding="13">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="24"/>
-                    <RowDefinition Height="16"/>
-                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="18"/>
+                    <RowDefinition Height="45"/>
                 </Grid.RowDefinitions>
                 <Label Grid.Row="0" Grid.Column="0" Text="Estimated Total:" />
                 <Label Grid.Row="0" Grid.Column="1" x:Name="total_lbl" FontSize="Large" HorizontalOptions="End" />
