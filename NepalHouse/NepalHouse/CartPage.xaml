@@ -27,15 +27,15 @@
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
-                            <StackLayout Orientation="Horizontal" Padding="8">
+                            <StackLayout Orientation="Horizontal" Padding="13, 6">
                                 <ffimageloading:CachedImage Source="{Binding images}"
                                                         WidthRequest="100"
                                                         HeightRequest="100"
                                                         DownsampleToViewSize="True"
                                                         LoadingPlaceholder="product_empty.png"
-                                                        Margin="0, 0, 13, 0" />
+                                                        Margin="0, 0, 6, 0" />
                                 <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
-                                    <Label Text = "{Binding name}" FontSize="Medium" FontAttributes="Bold"/>
+                                    <Label Text = "{Binding name}" FontSize="Medium"/>
                                     <!--<Label Text = "{Binding short_description, Converter={StaticResource StringConverter}}"
                                            FontSize="Small"/>-->
                                     <StackLayout Orientation="Horizontal">
@@ -67,22 +67,22 @@
                 </ListView.ItemTemplate>
             </ListView>
 
-            <Grid x:Name="order_layout" BackgroundColor="White" IsVisible="False">
+            <Grid x:Name="order_layout" BackgroundColor="White" IsVisible="False" Padding="13">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="20"/>
                     <RowDefinition Height="20"/>
                     <RowDefinition Height="*"/>
                 </Grid.RowDefinitions>
-                <Label Grid.Row="0" Grid.Column="0" Text="Estimated Total:" Margin="13, 0" />
-                <Label Grid.Row="0" Grid.Column="1" x:Name="total_lbl" HorizontalOptions="Center" Margin="13, 0"/>
-                <Label Grid.Row="1" Grid.Column="0" Text="Shipping:" Margin="13, 0"/>
-                <Label Grid.Row="1" Grid.Column="1" x:Name="shipping_lbl" HorizontalOptions="Center" Margin="13, 0"/>
+                <Label Grid.Row="0" Grid.Column="0" Text="Estimated Total:" />
+                <Label Grid.Row="0" Grid.Column="1" x:Name="total_lbl" HorizontalOptions="End" />
+                <Label Grid.Row="1" Grid.Column="0" Text="Shipping:" />
+                <Label Grid.Row="1" Grid.Column="1" x:Name="shipping_lbl" HorizontalOptions="End" />
                 <Button Grid.Row="2"
                         Grid.ColumnSpan="2"
+                        HeightRequest="50"
                         Text="Proceed to checkout"
                         BackgroundColor="{StaticResource accentColor}" 
                         TextColor="White"
-                        Margin="13, 0"
                         Clicked="Checkout_Clicked"/>
             </Grid>
             

@@ -37,6 +37,7 @@ namespace NepalHouse
             cartView.ItemsSource = cartList;
             if (cartList.Count() > 0)
             {
+                cartView.IsVisible = true;
                 order_layout.IsVisible = true;
                 message_lbl.IsVisible = false;
                 calculateCost();
@@ -60,7 +61,7 @@ namespace NepalHouse
             if (total < 100)
             {
                 total_lbl.Text = String.Format("$ {0}", total + 10);
-                shipping_lbl.Text = "Flat Rate 2-3 Days ($10)";
+                shipping_lbl.Text = "Flat Rate: $10";
             }
             else
             {

@@ -96,7 +96,6 @@ namespace NepalHouse
             var phone = phone_entry.Text;
             var email = email_entry.Text;
             var note = note_entry.Text;
-            var getway = getways[payment_picker.SelectedIndex];
 
             if (String.IsNullOrWhiteSpace(firstname)
                 || String.IsNullOrWhiteSpace(lastname)
@@ -112,6 +111,9 @@ namespace NepalHouse
                 return;
             }
             content.IsVisible = false;
+            if (getways.Count <= 0)
+                return;
+            var getway = getways[payment_picker.SelectedIndex];
 
             OrderBilling billing = new OrderBilling
             {
