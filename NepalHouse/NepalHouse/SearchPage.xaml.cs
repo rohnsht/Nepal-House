@@ -72,6 +72,12 @@ namespace NepalHouse
             var menuItem = sender as MenuItem;
             var product = menuItem.CommandParameter as Product;
 
+            if (!(bool)product.in_stock)
+            {
+                await DisplayAlert("Sorry", "The product is out of stock.", "OK");
+                return;
+            }
+
             var cart = Util.productToCart(product);
 
             var existingCart = await DbConnection.Table<Cart>()
