@@ -25,12 +25,13 @@
                     <Label Grid.Row="1"
                            Grid.Column="0"
                            Text="{Binding regular_price, StringFormat='$ {0}'}"
-                           FontSize="Medium"/>
+                           FontSize="Large"/>
 
                     <Label Grid.Row="1"
                            Grid.Column="1"
                            Text="{Binding sale_price, StringFormat='Sale $ {0}'}" 
                            FontSize="Large"
+                           FontAttributes="Bold"
                            TextColor="DarkGreen"
                            IsVisible="{Binding on_sale}"/>
                 </StackLayout>
@@ -111,9 +112,11 @@
                                             <StackLayout Orientation="Horizontal">
                                                 <Label Text = "{Binding regular_price, StringFormat='$ {0}'}" 
                                                        FontSize="Medium"
+                                                       FontAttributes="Bold"
                                                        Margin="0,0,10,0"/>
                                                 <Label Text = "{Binding sale_price, StringFormat='Sale {0}'}"
                                                        FontSize="Medium"
+                                                       FontAttributes="Bold"
                                                        TextColor="DarkGreen"
                                                        IsVisible="{Binding on_sale}"/>
                                             </StackLayout>

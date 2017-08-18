@@ -35,7 +35,7 @@ namespace NepalHouse
             try
             {
                 var categories = await wc.Category.GetAll(new Dictionary<string, string>() {
-                    { "per_page", "50"}
+                    { "per_page", "100"}
                 });
                 categoryView.ItemsSource = categories;
                 isLoading = false;

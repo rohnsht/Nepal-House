@@ -35,6 +35,32 @@
                     </StackLayout>
                 </Grid>
 
+                <StackLayout x:Name="bac_layout" Padding="13" IsVisible="False">
+                    <Label Text="After Complete your order please transfer to our account as follow."/>
+                    <Label Text="Our Bank Details:" FontSize="Large"/>
+                    <Label Text="Paplu Shreng:" FontSize="Large" FontAttributes="Bold"/>
+                    <Grid>
+                        <Label Grid.Row="0" Grid.Column="0" Text="BANK: "/>
+                        <Label Grid.Row="0"
+                               Grid.Column="1"
+                               Text="Common Wealth"
+                               FontSize="Medium"
+                               FontAttributes="Bold"/>
+                        <Label Grid.Row="1" Grid.Column="0" Text="ACCOUNT NUMBER: "/>
+                        <Label Grid.Row="1"
+                               Grid.Column="1" 
+                               Text="11414005" 
+                               FontSize="Medium" 
+                               FontAttributes="Bold"/>
+                        <Label Grid.Row="2" Grid.Column="0" Text="BSB: "/>
+                        <Label Grid.Row="2"
+                               Grid.Column="1"
+                               Text="063010" 
+                               FontSize="Medium"
+                               FontAttributes="Bold"/>
+                    </Grid>
+                </StackLayout>
+
                 <Label Text="Order Details" FontSize="Large" Margin="13"/>
                 <Grid BackgroundColor="White" Padding="13">
                     <Grid.ColumnDefinitions>
@@ -76,6 +102,8 @@
                         <Label x:Name="shipping_address_lbl"/>
                     </StackLayout>
                 </Grid>
+
+                <Label Text="You can view you order detail in your email later." Margin="13"/>
 
                 <Button Text="Close"
                         Clicked="Button_Clicked"

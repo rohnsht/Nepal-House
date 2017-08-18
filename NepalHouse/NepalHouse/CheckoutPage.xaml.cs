@@ -17,6 +17,7 @@ namespace NepalHouse
     public partial class CheckoutPage : ContentPage
     {
         private SQLiteAsyncConnection DbConnection;
+
         public CheckoutPage(Order order)
         {
             if (order == null)
@@ -24,6 +25,9 @@ namespace NepalHouse
             InitializeComponent();
             DbConnection = DependencyService.Get<ISQLiteDb>().GetConnection();
             BindingContext = order;
+
+            if (String.Equals(order.payment_method, "bacs"))
+                bac_layout.IsVisible = true;
 
             string products = null;
             double? subtotal = 0.0;

@@ -57,7 +57,7 @@ namespace NepalHouse
                     productView.EndRefresh();
                 }
                 Debug.WriteLine("ERROR: {0}", ex.Message);
-                await DisplayAlert("Error", "Connection problem. Please try again later.", "OK");
+                await DisplayAlert("Error", "Connection problem. Pull to refresh again later.", "OK");
             }
             
         }
@@ -93,7 +93,7 @@ namespace NepalHouse
                     --page;
                     isLoading = false;
                     Debug.WriteLine("ERROR: {0}", ex.Message);
-                    await DisplayAlert("Error", "Connection problem. Please try again later.", "OK");
+                    await DisplayAlert("Error", "Connection problem. Pull to refresh again later.", "OK");
                 }
             }
         }

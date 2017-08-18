@@ -1,6 +1,4 @@
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/NepalHouse.Android.csprojResolveAssemblyReference.cache
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/NepalHouse.Android.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/NepalHouse.Android.pdb
+<<<<<<< HEAD
 C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.dll.config
 C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.dll
 C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.pdb
@@ -124,6 +122,9 @@ C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/Nepal
 C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll.mdb
 C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll.mdb
 C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll.mdb
+=======
+C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable/ic_delete.png
+>>>>>>> ab7bf8a592fbf6c2537b533d8ca2a7ccfe67e341
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.dll.config
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.dll
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.pdb
@@ -169,17 +170,22 @@ C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/Nepal
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.dll.mdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.dll.config
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.pdb
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.dll.mdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.xml
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.pdb
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.dll.mdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.xml
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.Droid.pdb
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.Droid.dll.mdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.Droid.xml
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Platform.pdb
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Platform.dll.mdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Platform.xml
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FormsViewGroup.pdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FormsViewGroup.dll.mdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Newtonsoft.Json.xml
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Plugin.Badge.Droid.pdb
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Plugin.Badge.Droid.dll.mdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLite-net.pdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLite-net.xml
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Core.pdb
@@ -190,7 +196,10 @@ C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/Nepal
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/NepalHouse.Android.csprojResolveAssemblyReference.cache
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/NepalHouse.Android.csproj.CoreCompileInputs.cache
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/NepalHouse.Android.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/NepalHouse.Android.pdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/bin/com.mynepalhouse.NepalHouse.apk
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/layout/tabbar.xml
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/layout/toolbar.xml
@@ -226,5 +235,6 @@ C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/Nepal
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/product_empty.png
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/product_empty.png
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/product_empty.png
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable/ic_delete.png
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/R.cs.flag
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/uploadflags.txt

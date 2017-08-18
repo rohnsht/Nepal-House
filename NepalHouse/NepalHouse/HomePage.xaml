@@ -33,7 +33,8 @@
                                                         HeightRequest="100"
                                                         DownsampleToViewSize="True"
                                                         LoadingPlaceholder="product_empty.png"
-                                                        Aspect="AspectFit"
+                                                        Aspect="AspectFill"
+                                                        VerticalOptions="Start"
                                                         Margin="0, 0, 6, 0"/>
                             <StackLayout Orientation="Vertical">
                                 <Label Text = "{Binding name}" FontSize="Medium"/>
@@ -42,6 +43,7 @@
                                 <StackLayout Orientation="Horizontal">
                                     <Label Text = "{Binding regular_price, StringFormat='$ {0}'}"
                                            FontSize="Medium"
+                                           FontAttributes="Bold"
                                            Margin="0,0,10,0"/>
                                     <Label Text = "{Binding sale_price, StringFormat='Sale $ {0}'}"
                                            FontSize="Medium"

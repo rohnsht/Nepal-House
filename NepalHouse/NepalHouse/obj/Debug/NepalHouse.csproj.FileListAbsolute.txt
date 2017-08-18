@@ -1,41 +1,3 @@
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/NepalHouse.dll.config
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/NepalHouse.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/NepalHouse.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Newtonsoft.Json.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Plugin.Badge.Abstractions.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLite-net.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLitePCLRaw.batteries_green.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLitePCLRaw.batteries_v2.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLitePCLRaw.core.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/WooCommerceNET.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Core.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Platform.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Newtonsoft.Json.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLite-net.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Core.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Core.dll.mdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Core.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Platform.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Platform.dll.mdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.csproj.CoreCompileInputs.cache
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.MainPage.xaml.g.cs
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.App.xaml.g.cs
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.HomePage.xaml.g.cs
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.SearchPage.xaml.g.cs
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.CartPage.xaml.g.cs
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.ProductDetailPage.xaml.g.cs
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.ProductsPage.xaml.g.cs
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.OrderPage.xaml.g.cs
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.CategoryPage.xaml.g.cs
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.CheckoutPage.xaml.g.cs
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.AboutPage.xaml.g.cs
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.ImagePage.xaml.g.cs
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.pdb
 <<<<<<< HEAD
 C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/NepalHouse.dll.config
 C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/NepalHouse.dll
@@ -95,15 +57,52 @@ C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/Nepal
 C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Platform.xml
 C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLite-net.pdb
 C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> 6c83da8db65f8f6fc700a1841a3849f59b1dd9b9
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/NepalHouse.dll.config
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/NepalHouse.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/NepalHouse.pdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.dll
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Forms.dll
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Platform.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Newtonsoft.Json.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Plugin.Badge.Abstractions.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLite-net.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLitePCLRaw.core.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/WooCommerceNET.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Core.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.dll
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.pdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.xml
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Forms.pdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Forms.xml
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/FFImageLoading.Platform.xml
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Newtonsoft.Json.xml
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLite-net.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.csprojResolveAssemblyReference.cache
-=======
->>>>>>> 6c83da8db65f8f6fc700a1841a3849f59b1dd9b9
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/SQLite-net.xml
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Core.xml
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Platform.pdb
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Platform.dll.mdb
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.csproj.CoreCompileInputs.cache
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.MainPage.xaml.g.cs
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.App.xaml.g.cs
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.HomePage.xaml.g.cs
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.SearchPage.xaml.g.cs
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.CartPage.xaml.g.cs
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.ProductDetailPage.xaml.g.cs
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.ProductsPage.xaml.g.cs
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.OrderPage.xaml.g.cs
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.CategoryPage.xaml.g.cs
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.CheckoutPage.xaml.g.cs
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.AboutPage.xaml.g.cs
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.ImagePage.xaml.g.cs
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.dll
+/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.pdb
