@@ -36,5 +36,7 @@
 	<string>Resources/Media.xcassets/AppIcons.appiconset</string>
 	<key>CFBundleName</key>
 	<string>Nepal House</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
 </dict>
 </plist>

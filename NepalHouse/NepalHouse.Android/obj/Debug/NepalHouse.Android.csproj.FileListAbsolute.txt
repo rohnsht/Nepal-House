@@ -147,16 +147,3 @@ C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\Nepal
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\R.cs.flag
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\uploadflags.txt
 C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable\ic_delete.png
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\NepalHouse.dll.mdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\NepalHouse.Android.dll.mdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\FFImageLoading.dll.mdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\FFImageLoading.Forms.dll.mdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\FFImageLoading.Forms.Droid.dll.mdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\FFImageLoading.Platform.dll.mdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\NepalHouse.Android.dll.mdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\NepalHouse.dll.mdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\Plugin.Badge.Droid.dll.mdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
