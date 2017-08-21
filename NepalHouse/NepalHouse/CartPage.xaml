@@ -4,7 +4,8 @@
              xmlns:local="clr-namespace:NepalHouse.Utils"
              xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
              x:Class="NepalHouse.CartPage"
-             Title="Nepal House">
+             Title="Nepal House"
+             BackgroundColor="White">
 
     <ContentPage.Resources>
         <ResourceDictionary>
@@ -54,6 +55,7 @@
                                     <StackLayout Orientation="Horizontal">
                                         <Button Image="ic_delete"
                                             Clicked="Delete_Clicked"
+                                            BackgroundColor="Transparent"
                                             HorizontalOptions="EndAndExpand"
                                             CommandParameter="{Binding .}"/>
 
@@ -72,7 +74,7 @@
                 </ListView.ItemTemplate>
             </ListView>
 
-            <Grid x:Name="order_layout" BackgroundColor="White" IsVisible="False" Padding="13">
+            <Grid x:Name="order_layout" IsVisible="False" Padding="13">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="24"/>
                     <RowDefinition Height="18"/>

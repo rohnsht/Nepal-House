@@ -27,7 +27,7 @@
 	<key>CFBundleIdentifier</key>
 	<string>com.mynepalhouse.NepalHouse</string>
 	<key>CFBundleVersion</key>
-	<string>1.2</string>
+	<string>1.3</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>XSLaunchImageAssets</key>
@@ -36,5 +36,7 @@
 	<string>Resources/Media.xcassets/AppIcons.appiconset</string>
 	<key>CFBundleName</key>
 	<string>Nepal House</string>
+	<key>UIMainStoryboardFile</key>
+	<string>LaunchScreen</string>
 </dict>
 </plist>

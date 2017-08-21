@@ -59,6 +59,7 @@ C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/Nepal
 C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.csprojResolveAssemblyReference.cache
 =======
 >>>>>>> 6c83da8db65f8f6fc700a1841a3849f59b1dd9b9
+>>>>>>> 1a8da401b331dc8e8f8fa8838e7784c058e1831a
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/NepalHouse.dll.config
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/NepalHouse.dll
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/NepalHouse.pdb
@@ -91,7 +92,6 @@ C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/Nepal
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/bin/Debug/Xamarin.Forms.Xaml.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.csprojResolveAssemblyReference.cache
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.csproj.CoreCompileInputs.cache
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.MainPage.xaml.g.cs
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse/obj/Debug/NepalHouse.App.xaml.g.cs

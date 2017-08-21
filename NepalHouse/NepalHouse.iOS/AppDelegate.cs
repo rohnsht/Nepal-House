@@ -27,14 +27,13 @@ namespace NepalHouse.iOS
             CachedImageRenderer.Init();
             LoadApplication(new App());
 
-            //UINavigationBar.Appearance.BackgroundColor = UIColor.FromRGB(27, 78, 157);
             UINavigationBar.Appearance.TintColor = UIColor.FromRGB(27, 78, 157);
             //UINavigationBar.Appearance.BarTintColor = UIColor.FromRGB(27, 78, 157);
             //UINavigationBar.Appearance.SetTitleTextAttributes(new UITextAttributes()
             //{
             //    TextColor = UIColor.White
             //});
-            
+         
             UITabBar.Appearance.SelectedImageTintColor = UIColor.FromRGB(27, 78, 157);
             return base.FinishedLaunching(app, options);
         }

@@ -4,7 +4,8 @@
              xmlns:local="clr-namespace:NepalHouse.Utils"
              xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
              x:Class="NepalHouse.SearchPage"
-             Title="Nepal House">
+             Title="Nepal House"
+             BackgroundColor="White">
 
     <ContentPage.Resources>
         <ResourceDictionary>
@@ -39,7 +40,8 @@
                                     <StackLayout Orientation="Vertical">
                                         <Label Text = "{Binding name}" FontSize="Medium"/>
                                         <Label Text = "{Binding short_description, Converter={StaticResource StringConverter}}"
-                                               FontSize="Small"/>
+                                               FontSize="Small"
+                                               TextColor="{StaticResource textColor}"/>
                                         <StackLayout Orientation="Horizontal">
                                             <Label Text = "{Binding regular_price, StringFormat='$ {0}'}"
                                                    FontSize="Medium"

@@ -9,6 +9,7 @@
             <Color x:Key="primaryColor">#1B4E9D</Color>
             <Color x:Key="primaryDarkColor">#164283</Color>
             <Color x:Key="accentColor">#E12021</Color>
+            <Color x:Key="textColor">#939393</Color>
         </ResourceDictionary>
     </Application.Resources>
 </Application>

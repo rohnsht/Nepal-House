@@ -125,6 +125,7 @@ C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/Nepal
 =======
 C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable/ic_delete.png
 >>>>>>> ab7bf8a592fbf6c2537b533d8ca2a7ccfe67e341
+>>>>>>> 1a8da401b331dc8e8f8fa8838e7784c058e1831a
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.dll.config
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.dll
 /Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.pdb
