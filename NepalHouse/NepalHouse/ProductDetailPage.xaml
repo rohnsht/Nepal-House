@@ -45,16 +45,28 @@
                     </Image.GestureRecognizers>
                 </Image>
 
-                <Button
-                    Text="ADD TO CART" 
-                    HorizontalOptions="Fill" 
-                    Clicked="Add_Cart_Clicked"
-                    BackgroundColor="{StaticResource primaryColor}"
-                    TextColor="White"/>
+                <AbsoluteLayout Margin="0, 13">
+                    <Label AbsoluteLayout.LayoutBounds="0,0,1,1"
+                           AbsoluteLayout.LayoutFlags="All"
+                           Text=" Out of stock" 
+                           TextColor="Red"
+                           FontSize="Medium"
+                           VerticalTextAlignment="Center"/>
+
+                    <Button
+                        AbsoluteLayout.LayoutBounds="0,0,1,1"
+                        AbsoluteLayout.LayoutFlags="All"
+                        Text="ADD TO CART" 
+                        Clicked="Add_Cart_Clicked"
+                        BackgroundColor="{StaticResource primaryColor}"
+                        TextColor="White"
+                        IsVisible="{Binding in_stock}"/>
+                </AbsoluteLayout>
 
                 <StackLayout Orientation="Vertical" BackgroundColor="#eaeaea" Padding="0, 8, 0, 8">
                     <Label Text="Seller Promotions" TextColor="DarkGreen" FontSize="Medium"/>
                     <Label Text="*Free delivery when you order products for more than $100."/>
+                    <Label Text="*Shipping charge ($10) is added when delivery distance is more than 20km."/>
                 </StackLayout>
 
                 <StackLayout Orientation="Vertical" VerticalOptions="Start" Padding="0, 8, 0, 8">

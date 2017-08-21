@@ -55,7 +55,9 @@
                         </StackLayout> 
 
                         <ViewCell.ContextActions>
-                            <MenuItem Text="Add to cart" Clicked="MenuItem_Add" CommandParameter="{Binding .}"/>
+                            <MenuItem Text="Add to cart" 
+                                      Clicked="MenuItem_Add"
+                                      CommandParameter="{Binding .}"/>
                         </ViewCell.ContextActions>
                     </ViewCell>
                 </DataTemplate>
