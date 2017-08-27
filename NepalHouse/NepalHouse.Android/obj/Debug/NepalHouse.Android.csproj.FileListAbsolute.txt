@@ -1,241 +1,124 @@
-<<<<<<< HEAD
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.dll.config
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.pdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/com.mynepalhouse.NepalHouse.apk
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/com.mynepalhouse.NepalHouse-Signed.apk
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.Droid.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Platform.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FormsViewGroup.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Newtonsoft.Json.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Plugin.Badge.Abstractions.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Plugin.Badge.Droid.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLite-net.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLitePCLRaw.batteries_green.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLitePCLRaw.batteries_v2.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLitePCLRaw.core.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLitePCLRaw.lib.e_sqlite3.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLitePCLRaw.provider.e_sqlite3.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/WooCommerceNET.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Annotations.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Compat.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Core.UI.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Design.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Fragment.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Transition.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.v4.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Core.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Platform.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Xaml.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.pdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.dll.config
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.pdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.xml
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.pdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.xml
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.Droid.pdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.Droid.xml
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.Droid.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Platform.pdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Platform.xml
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Platform.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FormsViewGroup.pdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FormsViewGroup.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Newtonsoft.Json.xml
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Plugin.Badge.Droid.pdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Plugin.Badge.Droid.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLite-net.pdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLite-net.xml
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Core.pdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Core.xml
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Core.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Xaml.xml
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/NepalHouse.Android.csprojResolveAssemblyReference.cache
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/NepalHouse.Android.dll
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/NepalHouse.Android.pdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/bin/com.mynepalhouse.NepalHouse.apk
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/layout/tabbar.xml
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/layout/toolbar.xml
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/values/styles.xml
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_delete.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_delete.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_delete.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_arrow_drop_down.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_arrow_drop_down.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_arrow_drop_down.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable/ic_store.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_store.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_store.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_store.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_search.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_search.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_search.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_library_books.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_library_books.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_library_books.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_shopping_cart.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_shopping_cart.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_shopping_cart.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable/ic_action_info.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_action_info.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_action_info.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_action_info.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable/ic_launcher.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_launcher.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_launcher.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_launcher.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable/product_empty.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/product_empty.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/product_empty.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/product_empty.png
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/R.cs.flag
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/uploadflags.txt
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/assets/FFImageLoading.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/assets/FFImageLoading.Forms.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/assets/FFImageLoading.Forms.Droid.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/assets/FFImageLoading.Platform.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/assets/FormsViewGroup.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/assets/NepalHouse.Android.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/assets/NepalHouse.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/assets/Plugin.Badge.Droid.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll.mdb
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll.mdb
-=======
-C:/Users/legen/Documents/Visual Studio 2017/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable/ic_delete.png
->>>>>>> ab7bf8a592fbf6c2537b533d8ca2a7ccfe67e341
->>>>>>> 1a8da401b331dc8e8f8fa8838e7784c058e1831a
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.dll.config
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.Android.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/com.mynepalhouse.NepalHouse.apk
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/com.mynepalhouse.NepalHouse-Signed.apk
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.Droid.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Platform.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FormsViewGroup.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Newtonsoft.Json.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Plugin.Badge.Abstractions.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Plugin.Badge.Droid.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLite-net.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLitePCLRaw.batteries_green.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLitePCLRaw.batteries_v2.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLitePCLRaw.core.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLitePCLRaw.lib.e_sqlite3.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLitePCLRaw.provider.e_sqlite3.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/WooCommerceNET.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Annotations.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Compat.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Core.UI.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Design.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Fragment.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Transition.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.v4.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Core.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Platform.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Xaml.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.dll.mdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/NepalHouse.dll.config
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.dll.mdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.dll.mdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.Droid.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.Droid.dll.mdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Forms.Droid.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Platform.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Platform.dll.mdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FFImageLoading.Platform.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FormsViewGroup.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/FormsViewGroup.dll.mdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Newtonsoft.Json.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Plugin.Badge.Droid.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Plugin.Badge.Droid.dll.mdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLite-net.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/SQLite-net.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Core.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Core.dll.mdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Core.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/bin/Debug/Xamarin.Forms.Xaml.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/NepalHouse.Android.csprojResolveAssemblyReference.cache
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/NepalHouse.Android.csproj.CoreCompileInputs.cache
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/NepalHouse.Android.dll
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/NepalHouse.Android.pdb
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/android/bin/com.mynepalhouse.NepalHouse.apk
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/layout/tabbar.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/layout/toolbar.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/values/styles.xml
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_delete.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_delete.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_delete.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_arrow_drop_down.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_arrow_drop_down.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_arrow_drop_down.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable/ic_store.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_store.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_store.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_store.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_search.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_search.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_search.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_library_books.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_library_books.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_library_books.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_shopping_cart.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_shopping_cart.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_shopping_cart.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable/ic_action_info.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_action_info.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_action_info.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_action_info.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable/ic_launcher.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/ic_launcher.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/ic_launcher.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/ic_launcher.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable/product_empty.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-hdpi/product_empty.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xhdpi/product_empty.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable-xxhdpi/product_empty.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/res/drawable/ic_delete.png
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/R.cs.flag
-/Users/inadrop/Projects/NepalHouse/NepalHouse/NepalHouse.Android/obj/Debug/uploadflags.txt
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\NepalHouse.Android.dll.config
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\NepalHouse.Android.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\NepalHouse.Android.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\com.mynepalhouse.NepalHouse.apk
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\com.mynepalhouse.NepalHouse-Signed.apk
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.Forms.Droid.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\NepalHouse.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Plugin.Badge.Abstractions.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Plugin.Badge.Droid.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\SQLite-net.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\WooCommerceNET.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\NepalHouse.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\NepalHouse.dll.config
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\NepalHouse.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.Forms.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.Forms.Droid.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.Forms.Droid.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FFImageLoading.Platform.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Plugin.Badge.Droid.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Plugin.Badge.Droid.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\SQLite-net.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\SQLite-net.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\NepalHouse.Android.csprojResolveAssemblyReference.cache
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\NepalHouse.Android.dll
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\NepalHouse.Android.pdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\bin\com.mynepalhouse.NepalHouse.apk
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\values\styles.xml
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-hdpi\ic_delete.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xhdpi\ic_delete.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xxhdpi\ic_delete.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-hdpi\ic_arrow_drop_down.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xhdpi\ic_arrow_drop_down.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xxhdpi\ic_arrow_drop_down.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable\ic_store.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-hdpi\ic_store.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xhdpi\ic_store.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xxhdpi\ic_store.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-hdpi\ic_search.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xhdpi\ic_search.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xxhdpi\ic_search.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-hdpi\ic_library_books.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xhdpi\ic_library_books.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xxhdpi\ic_library_books.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-hdpi\ic_shopping_cart.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xhdpi\ic_shopping_cart.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xxhdpi\ic_shopping_cart.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable\ic_action_info.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-hdpi\ic_action_info.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xhdpi\ic_action_info.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xxhdpi\ic_action_info.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable\ic_launcher.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-hdpi\ic_launcher.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xhdpi\ic_launcher.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xxhdpi\ic_launcher.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable\product_empty.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-hdpi\product_empty.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xhdpi\product_empty.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable-xxhdpi\product_empty.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\res\drawable\ic_delete.png
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\R.cs.flag
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\uploadflags.txt
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\bin\Debug\NepalHouse.Android.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\FFImageLoading.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\FFImageLoading.Forms.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\FFImageLoading.Forms.Droid.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\FFImageLoading.Platform.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\NepalHouse.Android.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\NepalHouse.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\Plugin.Badge.Droid.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\legen\Documents\Visual Studio 2017\Projects\NepalHouse\NepalHouse\NepalHouse.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
