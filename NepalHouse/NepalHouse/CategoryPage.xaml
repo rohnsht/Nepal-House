@@ -10,9 +10,10 @@
                       AbsoluteLayout.LayoutBounds="0,0,1,1"
                       AbsoluteLayout.LayoutFlags="All"
                       ItemSelected="categoryView_ItemSelected"
-                      IsPullToRefreshEnabled="True"
+                      IsPullToRefreshEnabled="True" 
                       Refreshing="categoryView_Refreshing"
-                      HasUnevenRows="True">
+                      HasUnevenRows="True"
+                      SeparatorColor="{StaticResource borderColor}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>

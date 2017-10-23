@@ -16,7 +16,8 @@
         <ListView x:Name="productView"
                   HasUnevenRows="True"
                   ItemSelected="OnSelection"
-                  ItemAppearing="OnItemAppearing">
+                  ItemAppearing="OnItemAppearing"
+                  SeparatorColor="{StaticResource borderColor}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>

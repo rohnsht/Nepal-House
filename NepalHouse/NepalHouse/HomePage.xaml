@@ -19,11 +19,12 @@
 
     <ContentPage.Content>
         <ListView x:Name="productView"
-                      HasUnevenRows="True"
-                      ItemSelected="OnSelection"
-                      ItemAppearing="OnItemAppearing"
-                      IsPullToRefreshEnabled="True"
-                      Refreshing="productView_Refreshing">
+                  HasUnevenRows="True"
+                  ItemSelected="OnSelection"
+                  ItemAppearing="OnItemAppearing"
+                  IsPullToRefreshEnabled="True"
+                  Refreshing="productView_Refreshing"
+                  SeparatorColor="{StaticResource borderColor}">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>

@@ -108,7 +108,8 @@
                     <Label Text="Related products" FontSize="Medium"/>
                     <ListView x:Name="productView"
                               HasUnevenRows="True"
-                              ItemSelected="OnSelection">
+                              ItemSelected="OnSelection"
+                              SeparatorColor="{StaticResource borderColor}">
                         <ListView.ItemTemplate>
                             <DataTemplate>
                                 <ViewCell>

@@ -23,8 +23,9 @@
                     HorizontalOptions="Center"/>
 
             <ListView x:Name="cartView"
-                  ItemSelected="cartView_ItemSelected"
-                  HasUnevenRows="True">
+                      ItemSelected="cartView_ItemSelected"
+                      HasUnevenRows="True"
+                      SeparatorColor="{StaticResource borderColor}">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>

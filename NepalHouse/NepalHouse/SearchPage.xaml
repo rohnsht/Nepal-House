@@ -23,10 +23,11 @@
             <AbsoluteLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
 
                 <ListView x:Name="productView"
-                      HasUnevenRows="True"
-                      ItemSelected="OnSelection"
-                      AbsoluteLayout.LayoutBounds="0,0,1,1"
-                      AbsoluteLayout.LayoutFlags="All">
+                          HasUnevenRows="True"
+                          ItemSelected="OnSelection"
+                          AbsoluteLayout.LayoutBounds="0,0,1,1"
+                          AbsoluteLayout.LayoutFlags="All"
+                          SeparatorColor="{StaticResource borderColor}">
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <ViewCell>

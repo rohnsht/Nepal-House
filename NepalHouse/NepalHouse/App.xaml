@@ -10,6 +10,7 @@
             <Color x:Key="primaryDarkColor">#164283</Color>
             <Color x:Key="accentColor">#E12021</Color>
             <Color x:Key="textColor">#939393</Color>
+            <Color x:Key="borderColor">#D7D7D7</Color>
         </ResourceDictionary>
     </Application.Resources>
 </Application>

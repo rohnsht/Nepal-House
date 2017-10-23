@@ -2,5 +2,6 @@
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <SelectedDevice>Genymotion Google Pixel - 7.1.0 - API 25 - 1080x1920</SelectedDevice>
+    <DefaultDevice>Android_Accelerated_Nougat</DefaultDevice>
   </PropertyGroup>
 </Project>
